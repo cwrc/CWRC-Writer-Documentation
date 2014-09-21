@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nry_4xf_lp">
+    <title>Creating a correction entity</title>
+    <shortdesc>The "Tag Correction" entity is used to tag any correction you have made to the
+        original text.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Correction." Click on the
+                    toolbar "Correction" icon.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2d213db2-19bf-4116-8e85-c94034c53ba9/datastream/OBJ/view"
+                        id="image_hcg_byf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Write the correction in the text bar, and click "Save."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ace0a6f51-292e-4d06-b596-6fac0ad702a2/datastream/OBJ/view"
+                        id="image_hft_2yf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+        </steps>
+        <result>You have added a correction to your document. You can access the correction for
+            edits in either the document and the entities column.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f3072d4-c73e-4473-a39a-ed019b34c116/datastream/OBJ/view"
+                id="image_cfx_cyf_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

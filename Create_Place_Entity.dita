@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fgv_wk2_lp">
+    <title>Creating a new place entity</title>
+    <shortdesc>Tag place is for tagging a place. It can describe both a geological location or a
+        setting.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Place." Click on the
+                    toolbar or right-click options (see image below).<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4cfbbcc2-45b0-4153-b897-8cf6a4678a85/datastream/OBJ/view"
+                        id="image_isq_tl2_lp" align="center" height="3in" width="5in"/><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A80aa114d-4a83-4d4c-9bb0-e78a86f91e0e/datastream/OBJ/view"
+                        id="image_lwz_vl2_lp" align="center" outputclass="" width="5in" height="3in"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>Try to find the place you are tagging in the CWRC or GeoNames entries.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5a32366e-9c66-4a17-ac64-ad14cf8d99ea/datastream/OBJ/view"
+                        id="image_vpf_cm2_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>If your entry is not in the CWRC entity lookup system you have the option to
+                    create your own. To do this click on "Create New Place" button at the bottom of
+                    that page.</cmd>
+            </step>
+            <step>
+                <cmd>An "Add Place" pop-up appears, fill it out (see note) and click "OK."</cmd>
+                <info>The only mandatory field is the place name, though there are many other areas
+                    that you can fill out.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A88f0c37f-613a-43d6-b04a-10ad51738a76/datastream/OBJ/view"
+                        id="image_frn_2m2_lp" align="center" height="5in" width="3in"/></info>
+            </step>
+            <step>
+                <cmd>Once you  have created a place entry in the CWRC entity repository, you can now
+                    add more information about the tag (precision, person type, etc.). Click on
+                        "Save."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0bc6abb-6d6a-4c3e-bccf-930bb5c810d8/datastream/OBJ/view"
+                        id="image_if3_gm2_lp" align="center" height="5in" width="3in"/></cmd>
+            </step>
+        </steps>
+        <result>You have now created a new CWRC entity entry, you can use this creation the next
+            time that you go to tag this person.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae0d8baa3-cdff-4ed0-9cec-2e9294e38789/datastream/OBJ/view"
+                id="image_s24_zl2_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gdm_rm2_lp">
+    <title>Creating a date entity</title>
+    <shortdesc>The "Tag Date" is for tagging a date in the text. This tag can contain the year,
+        month, day or a combination of the three.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Date." Click on the toolbar
+                    or right-click options (see images below).<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8fda45d6-f6eb-46d2-99b9-b89273681942/datastream/OBJ/view"
+                        id="image_k3k_gn2_lp" align="center" height="3in" width="5in"/><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa963a926-b53c-4bce-931c-fb1a2e762c96/datastream/OBJ/view"
+                        id="image_tyh_3n2_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Enter the date or the date range into the pop-up, and any additional available
+                        information.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3bc6e9c6-a0b9-481e-b9a6-b79784542ebf/datastream/OBJ/view"
+                        id="image_rly_mn2_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+        </steps>
+        <result>You have added a date entity tag to the document.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A28f4d841-6671-4392-8efc-669ee4c03d6a/datastream/OBJ/view"
+                id="image_uxh_5n2_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_f4z_t4l_jp">
+    <title>Editing tags in the structure menu</title>
+    <shortdesc>You can edit any of the tags that pre-exist in the template or that you have added to
+        the document. This also allows you to add contextual information through
+        attributes.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-09"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight on the tag that  you would like to edit.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab5ab7809-9401-4377-9688-61864334e4fa/datastream/OBJ/view"
+                        id="image_cjz_t14_jp" align="center" width="5in" height="3in"/></cmd>
+            </step>
+            <step>
+                <cmd>Right-click on the tag and select the option "Edit Tag."<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A53a1d426-5d5c-4f79-a1f0-d3596a6fccc8/datastream/OBJ/view"
+                        id="image_qlt_v14_jp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>A pop-up will appear that allows you to add additional information to tags. </cmd>
+                <info>The different attributes available in the pop-up will depend on the tag that
+                    you are editing.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad8b8eaf5-c4b4-4935-830f-a728a7f2f6ec/datastream/OBJ/view"
+                        id="image_ztg_y14_jp" align="center" height="3in" width="5in"/></info>
+            </step>
+            <step>
+                <cmd>Click "OK" and all edits made to the tag will be saved.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
+<?oxy_options track_changes="on"?>

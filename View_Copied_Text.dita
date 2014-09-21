@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_sf3_lyg_dp">
+    <title>Viewing information copied from the structure panel</title>
+    <shortdesc>CWRC-Writer provides the option of looking at what you have copied in the structure
+        panel before you need to paste it in. This allows you to make sure you have selected exactly
+        what you wanted to work with.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-08-17"></created>
+            <revised modified="2014-09-15"></revised>
+        </critdates>
+        <metadata>
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Copying information in CWRC-Writer can at times be a daunting task, but we provide
+                the option to make sure you know exactly what you have copied before you paste
+                it.</p>
+        </context>
+        <prereq>
+            <p>Copy a portion of text in CWRC-Writer (see instructions at:)</p>
+            <ul id="ul_chw_vsz_dp">
+                <li><xref href="How_to_Copy_and_Paste_text.dita"/></li>
+                <li><xref href="How_copy_paste_multiple_tags.dita"/></li>
+            </ul>
+        </prereq>
+        <steps id="steps_o2t_xyg_dp">
+            <step>
+                <cmd>Click on the small arrow at the bottom of the CWRCWriter window/frame.</cmd>
+                <stepresult>This will bring up the "Validation" and "Selection" Tabs.</stepresult>
+            </step>
+            <step>
+                <cmd>Click on the "Selection"
+                        tab.<?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T170707-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T170712-0700&quot; /&gt;" height="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T170721-0700&quot; /&gt;" width="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T170724-0700&quot; /&gt;"?><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A909a2a26-1c15-443d-a49c-39ce120fd91f/datastream/OBJ/view"
+                        id="image_jzc_g3n_jp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+        </steps>
+        <result>You will be able to see what you have copied, included the tags and text.</result>
+    </taskbody>
+</task>
+
+<?oxy_options track_changes="on"?>

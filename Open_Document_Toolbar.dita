@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pg2_1tm_jp">
+    <title>Open a document or template from toolbar</title>
+    <shortdesc>If a document/template is already open you can switch to or open another document /
+        template at any time.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-09"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112442-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the "Load button on the CWRC-Writer toolbar.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A731195ae-87f4-4658-beb5-088bb6a95424/datastream/OBJ/view"
+                        id="image_msd_gtm_jp" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>Click on the document/template you would like to open from the popup list.
+                        <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac22e7105-8146-4ac8-8594-579304b1f67d/datastream/OBJ/view"
+                        id="image_k44_ntm_jp" align="center" height="4in" width="2in"/></cmd>
+            </step>
+        </steps>
+        <result>By selecting a document / template from the list in the pop-up a new page will be
+            reloaded. <note>If you have not saved your information prior to opening a different
+                document you will lose any changes that you have made. </note></result>
+    </taskbody>
+</task>
+<?oxy_options track_changes="on"?>

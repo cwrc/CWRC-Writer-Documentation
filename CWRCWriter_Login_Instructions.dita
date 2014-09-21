@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_dcg_fjb_dp">
+    <title>Logging in to CWRC-Writer</title>
+    <shortdesc>CWRC-Writer has a simple and straight forward process to login that requires a user
+        name and
+        password<?oxy_insert_start author="megansellmer" timestamp="20140909T085645-0700"?>.<?oxy_insert_end?></shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-08-16"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>These instructions are for the standalone version of CWRC-Writer. If you would like
+                to test CWCR-Writer, please contact us at cwrc@ualberta.ca</p>
+        </context>
+        <prereq>CWRC-Writer is only optimized for FireFox or Google Chrome browsers. Please open
+            CWRC-Writer in either of the options only. </prereq>
+        <steps id="steps_a53_vjb_dp">
+            <step>
+                <cmd>Open the CWRC-Writer URL in your browser: <xref
+                        href="http://apps.testing.cwrc.ca/editor/test/index.htm" format="html"
+                        scope="external"/></cmd>
+            </step>
+            <step>
+                <cmd>Enter your user name and password in the pop-up login box. </cmd>
+                <info>For the testing version of CWRC-Writer everyone has the same login
+                    information.
+                        <lines>User name: cwrc
+Password: cwrcy</lines><?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T150708-0700&quot; /&gt;" height="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T150715-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T150716-0700&quot; /&gt;" width="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T150721-0700&quot; /&gt;"?><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view"
+                        id="image_x1g_jsm_jp" align="center" height="3in" width="5in"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
+
+<?oxy_options track_changes="on"?>

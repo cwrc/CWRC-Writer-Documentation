@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dsr_rqf_lp">
+    <title>Creating a link entity</title>
+    <shortdesc>The "Tag Link" entity is for tagging any links or URL found in the
+        document.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Link." Click on the toolbar
+                    "Link" icon.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A59ff3b7a-ac9f-4b55-a058-f86d89153564/datastream/OBJ/view"
+                        id="image_frx_swf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Write the link in the text bar, and click "Save."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0fcd4a87-d926-4faf-b1d3-35f2eea1419c/datastream/OBJ/view"
+                        id="image_ec4_rwf_lp" height="3in" align="center" width="5in"/></cmd>
+            </step>
+        </steps>
+        <result>You have added a link to your document. You can access the link in either the
+            document and the entities column.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A495fd428-dbc3-48f9-8115-9aae4ac7fe08/datastream/OBJ/view"
+                id="image_jbz_pwf_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

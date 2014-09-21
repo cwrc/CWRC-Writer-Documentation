@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_njm_c5d_lp">
+    <title>Deleting entities from the entities panel</title>
+    <shortdesc>The CWRC-Writer templates come with pre existing entities as examples to new users.
+        You can easily delete these entities or any entities that you don't want in you document or
+        those you have mistakenly added from the entities panel. </shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-16"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Right-click on the entity that you want to delete in the left hand "Entities"
+                    column and choose the "Remove Entity" option. </cmd>
+                <info>Currently, removing an entity from the document deletes the text as
+                        well.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac9b7b30d-6852-4635-b91a-0b913ba19b3a/datastream/OBJ/view"
+                        id="image_pgh_bvd_lp" align="center" height="3in" width="5in"/></info>
+            </step>
+        </steps>
+        <result>This will delete both the entity record in the left column and the entity (with
+            text) in the document.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A01d1267d-1bd2-4966-9dab-08006b663763/datastream/OBJ/view"
+                id="image_br2_2vd_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

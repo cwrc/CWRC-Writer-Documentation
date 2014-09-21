@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wsl_1rd_lp">
+    <title>Editing entities from the editor</title>
+    <shortdesc>You can add qualifying information to the RDF entities added to the document. You can
+        edit the entities within the editor by right-clicking. This information can be edited at any
+        time.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that makes up the entity.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A40f1e7f1-7347-4e62-af31-7c82a9f939ed/datastream/OBJ/view"
+                        id="image_nc2_5rd_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Right-click on the highlighted text and choose the "Edit tag" option.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A77e19de4-de9a-487c-a8c5-78e9305fa475/datastream/OBJ/view"
+                        id="image_hkp_1sd_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Edit any information in the pop-up you would like and click "Save."</cmd>
+                <info>None of the information in the pop-up is required.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A807338fa-4dd2-4be6-bb84-09ea58560e57/datastream/OBJ/view"
+                        id="image_myh_dsd_lp" align="center" height="3in" width="5in"/></info>
+            </step>
+        </steps>
+        <result>The edited information will appear in the left "Entities" column. Click on the entry
+            to see the information attached to that particular entity. <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A1155d498-13a9-47b0-b949-3acf2960db61/datastream/OBJ/view"
+                id="image_w3z_fsd_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

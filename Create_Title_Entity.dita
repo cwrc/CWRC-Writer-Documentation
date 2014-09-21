@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hts_tmf_lp">
+    <title>Creating a new text/title entity</title>
+    <shortdesc>The "Tag Text/Title" entity is for tagging a title or the text of any type of
+        work</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Text/Title." Click on the
+                    toolbar or right-click options (see images below).<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A68073457-1436-4870-9e94-a270cc3e87f0/datastream/OBJ/view"
+                        id="image_wry_xnf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Try to find the text/title you are tagging in the CWRC or VIAF.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A1decdd34-734c-4751-b594-3e2d5e817446/datastream/OBJ/view"
+                        id="image_qty_znf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>If your entry is not in the CWRC entity lookup system you have the option to
+                    create your own. To do this click on "Create New Title" button at the bottom of
+                    that page.</cmd>
+            </step>
+            <step>
+                <cmd>An "Add Text/Title" pop-up appear, fill it out (see info below) and click
+                    "OK."</cmd>
+                <info>The only mandatory field is the Title name, though there are many other areas
+                    that you can fill out.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae31165cd-cdee-4bbe-b41b-f2fbe536323d/datastream/OBJ/view"
+                        id="image_ofv_d4f_lp" align="center" height="3in" width="5in"/></info>
+            </step>
+            <step>
+                <cmd>Once you have created an text/title entry in the CWRC entity repository, you
+                    can now add more information about the tag (author, date, etc). Click on
+                        "Save."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A48c34ef9-ee36-4fca-99f9-ede2bd263bab/datastream/OBJ/view"
+                        id="image_i4p_f4f_lp" align="center" height="3in" width="5in"/>
+                </cmd>
+            </step>
+        </steps>
+        <result>You have now created a new CWRC entity entry, you can use this creation the next
+            time that you go to tag this entity. <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Af721f2fd-b826-4fab-a39a-c334f82dc9b8/datastream/OBJ/view"
+                id="image_jrb_h4f_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_d22_zcl_jp">
+    <title>Adding structural tags in the structural panel</title>
+    <shortdesc>In each document that you enter there is a pre-existing XML template that contains
+        the basic tags necessary for that type document. You can add new structural tags to the
+        document easily. </shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-09"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T143127-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select a tag in the structural panel and right click. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A23435fcd-d197-47d5-9e99-47d31dcd4026/datastream/OBJ/view"
+                        id="image_tsq_tkn_jp" align="center" height="5in" width="3in"/></cmd>
+            </step>
+            <step>
+                <cmd>This will bring up a menu with three options that allow you to insert a
+                    tag.</cmd>
+                <choices id="choices_vyw_d12_lp">
+                    <choice><cmdname>Insert Tag Before</cmdname>allows you to insert a tag before
+                        the tag you have right clicked on.</choice>
+                    <choice><cmdname>Insert Tag After</cmdname>allows you to insert a tag after the
+                        tag you have right-clicked on (skipping over any nested tags within the tag
+                        you have clicked on).</choice>
+                    <choice><cmdname>Insert Tag Inside</cmdname>this will insert a new tag nested
+                        within the initial tag yo clicked on.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Once you have selected one of the "Insert" options, choose a tag from the list
+                    that appears. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A7cd7b9f7-c361-4364-b03c-6f30283b671e/datastream/OBJ/view"
+                        id="image_hkj_xkn_jp" align="center" height="4in" width="3in"/></cmd>
+                <info>The tags that you can select, under each "Insert"
+                    option<?oxy_delete author="ilovan" timestamp="20140915T150924-0600" content="s"?>,
+                    are limited to tags that are allowed (according to the schema).</info>
+            </step>
+            <step>
+                <cmd>Once you select the tag you would like to add to the structure panel a pop-up
+                    appear that allows you to add qualifying information to the tag. Once you have
+                    finished, click on "OK."</cmd>
+                <info>You do not have to enter any additional information if you don't want to. You
+                    can just press "OK" as soon as you see this pop-up.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3803d31b-62fd-4f92-9ce0-81a69f017060/datastream/OBJ/view"
+                        id="image_syf_cln_jp" align="center" height="3in" width="5in"/></info>
+            </step>
+        </steps>
+        <result>You have now added a new structure tag.</result>
+        <example>In the image below you can see we have added a new "time" tag in the document
+            structure, by following the above steps.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab088f060-527c-4f90-8092-555708dfdf7c/datastream/OBJ/view"
+                id="image_f3l_hln_jp" align="center" width="5in" height="3in"/></example>
+    </taskbody>
+</task>
+<?oxy_options track_changes="on"?>

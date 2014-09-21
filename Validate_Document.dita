@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_z35_f22_lp">
+    <title>Validating your document</title>
+    <shortdesc>the validation of your text against the appropriate XML schema is working, but only
+        in part, because we are still working out the relationship between the entity annotations
+        and the markup.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-14"/>
+            <revised modified="2014-09-21"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the "Validate" button in the toolbar.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A5eade074-6998-413a-bf5a-688f63d03c22/datastream/OBJ/view"
+                        id="image_pml_gf2_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>A pop-up from the bottom of the editor appears. It will tell you if the
+                    document is valid or not.</cmd>
+                <info>If the document is invalid, the pop-up will list the errors in the document.
+                    To find out more about Validation, please go to the TEI website here: <xref
+                        href="http://tbe.kantl.be/TBE/xquery/TBEvalidator.xg" format="html"
+                        scope="external">http://tbe.kantl.be/TBE/xquery/TBEvalidator.xg
+                        </xref><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8639d9f5-435d-45b6-8352-054f79516bfa/datastream/OBJ/view"
+                        id="image_yyj_3f2_lp" align="center" height="3in" width="5in"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

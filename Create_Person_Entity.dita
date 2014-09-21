@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tkx_2h2_lp">
+    <title>Creating a new person entity</title>
+    <shortdesc>The "Tag Person" option is for tagging people by name. It usually contains a proper
+        noun or noun phrase, but can also contain pronouns or other ways of referring to
+        someone.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Person." Click on the
+                    toolbar or right-click options (see images below).<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad771c136-6461-4e02-8690-8e32122a1708/datastream/OBJ/view"
+                        id="image_qms_f32_lp" align="center" height="3in" width="5in"/><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae47ef893-e38a-476e-9445-d9806760d574/datastream/OBJ/view"
+                        id="image_pd3_h32_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Try to find the person you are tagging in the CWRC or VIAL.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac8e50df6-6d71-4841-a8a1-363e11fcc3ac/datastream/OBJ/view"
+                        id="image_ncs_z32_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>If your entry is not in the CWRC entity lookup system you have the option to
+                    create your own. To do this click on "Create New Person" button at the bottom of
+                    that page.</cmd>
+            </step>
+            <step>
+                <cmd>An "Add Person" pop-up appears, fill it out (see note) and click "OK."</cmd>
+                <info>The only mandatory field is the "Person Name," though there are many other
+                    areas that you can fill out.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A261ca7fa-d5cb-47a1-bc26-554d32b75a00/datastream/OBJ/view"
+                        id="image_epv_rj2_lp" align="center" height="5in" width="3in"/></info>
+            </step>
+            <step>
+                <cmd>Once you have created a person entry in the CWRC entity repository, you can now
+                    add more information about the tag (precision, person type, etc.). Click on
+                        "Save."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2919b272-4c88-47cf-bf7a-cd0bbf9f5587/datastream/OBJ/view"
+                        id="image_flk_5j2_lp" align="center" height="5in" width="3in"/></cmd>
+            </step>
+        </steps>
+        <result>You have now created a new CWRC entity entry, you can use this creation the next
+            time that you go to tag this person.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A1e267644-f1df-4a3a-adec-92f9b460bd6a/datastream/OBJ/view"
+                id="image_lvq_xj2_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

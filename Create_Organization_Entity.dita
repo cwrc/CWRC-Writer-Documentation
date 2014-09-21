@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cn1_qkf_lp">
+    <title>Creating an organization entity</title>
+    <shortdesc>The "Tag Organization" entity is used to tag an organization or company.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as an "Organization." Click on
+                    the toolbar or the right-click options (see images below).<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adef362db-c050-4c18-a47c-416df55a092e/datastream/OBJ/view"
+                        id="image_vfz_fmf_lp" align="center" height="3in" width="5in"/><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac948fc3f-4594-4ba3-9ef0-c5b7754d5d88/datastream/OBJ/view"
+                        id="image_d3v_hmf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Try to find the organization that you are tagging in the CWRC or VIAF<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A06e37d24-fd47-40ff-a460-69fa77356471/datastream/OBJ/view"
+                        id="image_p25_qlf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>If your entry is not in the CWRC entity lookup system you have the option to
+                    create your own. To do this click on "Create New Organization" button at the
+                    bottom of that page.</cmd>
+            </step>
+            <step>
+                <cmd>An "Add Organization" pop-up appears, fill it out (see info) and click
+                    "OK."</cmd>
+                <info>The only mandatory field is the "Organization name," though there are many
+                    other areas that you can fill out.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb52a4b7-2981-4cc9-9db0-2f5c60bae9f0/datastream/OBJ/view"
+                        id="image_wwh_1mf_lp" align="center" height="3in" width="5in"/></info>
+            </step>
+            <step>
+                <cmd>Once you have created an organization entry in the CWRC entity repository, you
+                    can now add more information about the tag (precision, etc). Click on
+                        "Save."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa7552c88-653f-435b-9661-4773ac60ed88/datastream/OBJ/view"
+                        id="image_kn2_cmf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+        </steps>
+        <result>You have now created a new CWRC entity entry, you can use this creation the next
+            time that you go to tag this entry.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A090cc5d5-e5f0-4ec8-832c-e7e3cbf42ffb/datastream/OBJ/view"
+                id="image_ktr_dmf_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

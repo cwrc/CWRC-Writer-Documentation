@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wh4_1xf_lp">
+    <title>Creating a keyword entity</title>
+    <shortdesc>The "Tag Keyword" entity is tagging any important keywords in your
+        document.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to tag as a "Keyword." Click on the
+                    toolbar "Keyword" icon.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A393073e0-58f7-4332-abf1-0da0b0556c3f/datastream/OBJ/view"
+                        id="image_dfl_3xf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Write the keyword in the text bar, and click "Save."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adba68d44-4093-4e91-8027-ac3ff5047707/datastream/OBJ/view"
+                        id="image_o5q_jxf_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

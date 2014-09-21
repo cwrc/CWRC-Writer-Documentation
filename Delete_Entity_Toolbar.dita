@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tx1_lvd_lp">
+    <title>Deleting entities from the toolbar</title>
+    <shortdesc>The CWRC-Writer templates come with pre existing entities as example to new users.
+        You can easily delete these entities or any entities that you don't want in your document
+        from the toolbar.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-16"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that is within the entity that you would like to delete. </cmd>
+                <info>Currently, removing an entity from the document deletes the text as well.
+                        <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acbb60d5a-f537-45d3-a245-3e0703ea89e7/datastream/OBJ/view"
+                        id="image_u3b_dwd_lp" align="center" height="3in" width="5in"/></info>
+            </step>
+            <step>
+                <cmd>Click on the "Remove Tag" toolbar button.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9a620364-3746-4c82-b506-e28623c58ba3/datastream/OBJ/view"
+                        id="image_lbm_2wd_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+        </steps>
+        <result>This will delete both the entity record in the left column and the entity (with
+            text) in the document. <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A8be19021-3d5a-499f-836d-2fe436b1a139/datastream/OBJ/view"
+                id="image_apq_gwd_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

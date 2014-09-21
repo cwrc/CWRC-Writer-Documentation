@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mwk_5pd_lp">
+    <title>Editing entities from the entities panel</title>
+    <shortdesc>You can add qualifying information to the RDF entities within the document. You can
+        edit the entities in the entity column on the left side of the editor. This information can
+        be edited at any time.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Right-click on the entity you would like to edit. Choose the option "Edit
+                        Entity."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A77e19de4-de9a-487c-a8c5-78e9305fa475/datastream/OBJ/view"
+                        id="image_c3m_mqd_lp" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Edit any information in the pop-up you would like and click "Save."</cmd>
+                <info>None of the information in the pop-up is required.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4ef67c31-6c57-43a4-8440-485980408469/datastream/OBJ/view"
+                        id="image_xs3_pqd_lp" align="center" height="3in" width="5in"/></info>
+            </step>
+        </steps>
+        <result>The edited information will appear in the left "Entities" column. Click on the entry
+            to see the information attached to that particular entity.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A575cce29-407a-41ab-bb79-982e34adbd00/datastream/OBJ/view"
+                id="image_bk4_rqd_lp" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>
