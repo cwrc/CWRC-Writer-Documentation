@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/pdf?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/pdf/?><?path2project?><?path2project-uri ./?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_hts_tmf_lp" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="title:1;4:12">Creating a new text/title entity</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="shortdesc:1;5:16">The "Tag Text/Title" entity is for tagging a title or the text of any type of
+        work</shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="prolog:1;7:35">
+        <author class="- topic/author " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="author:1;8:17">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="copyright:1;9:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="copyryear:1;10:36"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="copyrholder:1;11:26">Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="critdates:1;13:20">
+            <created date="2014-09-15" class="- topic/created " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="created:1;14:41"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21" class="- topic/revised " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="revised:1;16:45"/>
+        </critdates>
+        <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="metadata:1;18:41">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="audience:1;19:41"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="audience:2;20:45"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="taskbody:1;23:15">
+        <steps class="- topic/ol task/steps " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="steps:1;24:16">
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="step:1;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="cmd:1;26:22">Highlight the text that you would like to tag as a "Text/Title." Click on the
+                    toolbar or right-click options (see images below).<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A5586d97a-63d3-4432-9b93-5901df64ec24/datastream/OBJ/view" id="image_tzw_qzw_mp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="image:1;29:63"/><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A68073457-1436-4870-9e94-a270cc3e87f0/datastream/OBJ/view" id="image_wry_xnf_lp" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="image:2;31:88"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="step:2;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="cmd:2;34:22">Try to find the text/title you are tagging in the CWRC or VIAF.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A1decdd34-734c-4751-b594-3e2d5e817446/datastream/OBJ/view" id="image_qty_znf_lp" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="image:3;37:88"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="step:3;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="cmd:3;40:22">If your entry is not in the CWRC entity lookup system you have the option to
+                    create your own. To do this click on "Create New Title" button at the bottom of
+                    that page.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="step:4;44:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="cmd:4;45:22">An "Add Text/Title" pop-up appear, fill it out (see info below) and click
+                    "OK."</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="info:1;47:23">The only mandatory field is the Title name, though there are many other areas
+                    that you can fill out.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae31165cd-cdee-4bbe-b41b-f2fbe536323d/datastream/OBJ/view" id="image_ofv_d4f_lp" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="image:4;50:88"/></info>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="step:5;52:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="cmd:5;53:22">Once you have created an text/title entry in the CWRC entity repository, you
+                    can now add more information about the tag (author, date, etc). Click on
+                        "Save."<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A48c34ef9-ee36-4fca-99f9-ede2bd263bab/datastream/OBJ/view" id="image_i4p_f4f_lp" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="image:5;57:88"/>
+                </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="result:1;61:17">You have now created a new CWRC entity entry, you can use this creation the next
+            time that you go to tag this entity. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Af721f2fd-b826-4fab-a39a-c334f82dc9b8/datastream/OBJ/view" id="image_jrb_h4f_lp" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Create_Title_Entity.dita" xtrc="image:6;64:80"/></result>
+    </taskbody>
+</task>

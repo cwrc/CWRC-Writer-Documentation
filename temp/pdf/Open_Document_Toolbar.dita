@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/pdf?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/pdf/?><?path2project?><?path2project-uri ./?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_pg2_1tm_jp" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="title:1;4:12">Open a document or template from toolbar</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="shortdesc:1;5:16">If a document/template is already open you can switch to or open another document /
+        template at any time.</shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="prolog:1;7:35">
+        <author class="- topic/author " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="author:1;8:17">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="copyright:1;9:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="copyryear:1;10:37"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="copyrholder:1;11:26">Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="critdates:1;14:20">
+            <created date="2014-09-09" class="- topic/created " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="created:1;15:41"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112442-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21" class="- topic/revised " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="revised:1;17:45"/>
+        </critdates>
+        <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="metadata:1;19:41">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="audience:1;20:42"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="audience:2;21:46"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="taskbody:1;24:15">
+        <steps class="- topic/ol task/steps " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="steps:1;25:16">
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="step:1;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="cmd:1;27:22">Select the "Load button on the CWRC-Writer toolbar.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A731195ae-87f4-4658-beb5-088bb6a95424/datastream/OBJ/view" id="image_msd_gtm_jp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="image:1;29:63"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="step:2;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="cmd:2;32:22">Click on the document/template you would like to open from the popup list.
+                        <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac22e7105-8146-4ac8-8594-579304b1f67d/datastream/OBJ/view" id="image_k44_ntm_jp" align="center" height="4in" width="2in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="image:2;35:88"/></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="result:1;38:17">By selecting a document / template from the list in the pop-up a new page will be
+            reloaded. <note class="- topic/note " xtrf="/Users/megansellmer/Desktop/GitHub/Open_Document_Toolbar.dita" xtrc="note:1;39:29">If you have not saved your information prior to opening a different
+                document you will lose any changes that you have made. </note></result>
+    </taskbody>
+</task><?oxy_options track_changes="on"?>

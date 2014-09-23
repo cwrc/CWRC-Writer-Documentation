@@ -11,4 +11,9 @@
  <topicref href="Save_document.dita"/>
  <topicref href="Validate_document.dita"/>
  <topicref href="Check_invalid_document.dita"/>
+ <topicref href="Edit_Header.dita"/>
+ <topicref href="Switch_Mode.dita"/>
+ <topicref href="Show_Tags.dita"/>
+ <topicref href="View_Source.dita"/>
+ <topicref href="Edit_Source.dita"/>
 </map>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kbz_ht2_np">
+    <title>Creating note entities</title>
+    <shortdesc>Notes must be applied to a span of text. They cannot be inserted into the text
+        without the cursor having selected something, although they will be in the
+        future.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-09-21"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Highlight the text that you would like to add a note to.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the toolbar icon "Tag Note" or right-click on the text and choose "Tag
+                        Note."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Add38d995-c0cc-49ad-a750-a32eb9eb4558/datastream/OBJ/view"
+                        id="image_zdy_yv2_np" align="center"/><image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ada3d8ef4-4e90-4fe8-88b1-606503fa4baf/datastream/OBJ/view"
+                        id="image_rcq_fw2_np" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>A mini-editor will pop-up, enter any information that you would like in the
+                    pop-up.</cmd>
+                <info>There is a specific way to add text within tags in the mini-editor. To do
+                    this, you click the tag twice in the structure/markup tree, so that its entry is
+                    italicized (this means the tag's content is selected). you can then start
+                    typing, which will add text content to that tag. <note>When using the
+                        mini-editor you can add XML and RDF tags just like in the main editor,
+                        though the toolbar options are limited (e.g. you cannot choose to "save" or
+                        "validate" the note). The structure and entity panels on the left mimic the
+                        structure panel in the editor and displays all the tags you added to the
+                        note in the mini-editor.<image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A6b48c88c-cf40-447b-9774-f30313d76c46/datastream/OBJ/view"
+                            id="image_k2l_fx2_np" align="center" height="3in" width="5in"
+                    /></note></info>
+            </step>
+            <step>
+                <cmd>Once you have entered the text into the editor, you can begin to tag the
+                    document. Adding structural tags and entities to the document. <image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aef3182c6-65df-4f36-af9c-f0ac60739315/datastream/OBJ/view"
+                        id="image_fpm_qw2_np" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>If/When you decide to add entities to your note, you will see a pop-up exactly
+                    like that in the CWRC-Writer.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aba443ffc-ad80-4e2c-b1ea-b4176dab9481/datastream/OBJ/view"
+                        id="image_un2_sw2_np" align="center" height="3in" width="5in"/></cmd>
+            </step>
+            <step>
+                <cmd>Once you have finished creating your note, click on "Save."<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A11fb457e-2f2a-4f33-af5f-4e55fd75d80f/datastream/OBJ/view"
+                        id="image_ir3_nw2_np" align="center" height="3in" width="5in"/></cmd>
+            </step>
+        </steps>
+        <result>You have now created a note in your document. You can see in the image below that
+            the note appears in the document, currently the note does not format correctly in the
+            CWRC-Writer. <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae86a940d-f516-4721-ab89-25a98bebd395/datastream/OBJ/view"
+                id="image_jbb_kw2_np" align="center" height="3in" width="5in"/></result>
+    </taskbody>
+</task>

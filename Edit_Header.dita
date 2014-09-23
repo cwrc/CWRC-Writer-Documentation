@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sd5_tj2_np">
+    <title>Editing the header</title>
+    <shortdesc>You can edit the header...</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Megan Sellmer</author>
+        <copyright>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-09-21"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21"/>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on the "teiHeader" tag in the left structure column.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a87c139-8b92-4c62-92c4-b60cb35dc293/datastream/OBJ/view"
+                        id="image_mcd_rk2_np" align="center" outputclass=""/></cmd>
+            </step>
+            <step>
+                <cmd>Edit the header in a pop-up that appears. Once you have finished click on the
+                        "OK."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A7d42d64f-27ef-4b54-a089-cc39985f12bc/datastream/OBJ/view"
+                        id="image_fvp_5k2_np" align="center" height="3in" width="5in"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
