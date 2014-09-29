@@ -2,9 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_tx1_lvd_lp">
     <title>Deleting entities from the toolbar</title>
-    <shortdesc>The CWRC-Writer templates come with pre existing entities as example to new users.
-        You can easily delete these entities or any entities that you don't want in your document
-        from the toolbar.</shortdesc>
+    <shortdesc>The CWRC-Writer templates come with pre existing entit<?oxy_insert_start author="ilovan" timestamp="20140928T232051-0600"?>y annotations<?oxy_insert_end?><?oxy_delete author="ilovan" timestamp="20140928T232048-0600" content="ies"?> as example to new users. You can easily delete these <?oxy_delete author="ilovan" timestamp="20140928T232112-0600" content="entities or any entities "?><?oxy_insert_start author="ilovan" timestamp="20140928T232112-0600"?>annotations or any annotations <?oxy_insert_end?>that you don't want in your document from the toolbar.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
@@ -14,7 +12,7 @@
         <critdates>
             <created date="2014-09-16"/>
             <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
-            <revised modified="2014-09-21"/>
+            <revised modified="2014-09-28"></revised>
         </critdates>
         <metadata product="stand-alone">
             <audience audience="novice"></audience>
@@ -24,21 +22,23 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the text that is within the entity that you would like to delete. </cmd>
-                <info>Currently, removing an entity from the document deletes the text as well.
-                        <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acbb60d5a-f537-45d3-a245-3e0703ea89e7/datastream/OBJ/view"
-                        id="image_u3b_dwd_lp" align="center" height="3in" width="5in"/></info>
+                <cmd>Highlight the text <?oxy_insert_start author="ilovan" timestamp="20140928T225817-0600"?>tagged with the entity annotation that<?oxy_insert_end?><?oxy_delete author="ilovan" timestamp="20140928T225816-0600" content="that is within the entity that"?> you would like to delete. </cmd>
+                <stepresult>
+                    <?oxy_delete author="ilovan" timestamp="20140928T230304-0600" content="&lt;note type=&quot;caution&quot;&gt;Currently, removing an entity from the document deletes the text as well.&lt;/note&gt;"?>
+                    <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Acbb60d5a-f537-45d3-a245-3e0703ea89e7/datastream/OBJ/view" id="image_u3b_dwd_lp" align="center" height="3in" width="5in"></image>
+                </stepresult>
             </step>
             <step>
-                <cmd>Click on the "Remove Tag" toolbar button.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9a620364-3746-4c82-b506-e28623c58ba3/datastream/OBJ/view"
-                        id="image_lbm_2wd_lp" align="center" height="3in" width="5in"/></cmd>
+                <cmd>Click on the <cmdname>Remove Tag</cmdname> toolbar button.<?oxy_comment_start author="ilovan" timestamp="20140928T230500-0600" comment="replace image"?><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9a620364-3746-4c82-b506-e28623c58ba3/datastream/OBJ/view" id="image_lbm_2wd_lp" align="center" height="3in" width="5in"></image><?oxy_comment_end?></cmd>
             </step>
         </steps>
-        <result>This will delete both the entity record in the left column and the entity (with
-            text) in the document. <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A8be19021-3d5a-499f-836d-2fe436b1a139/datastream/OBJ/view"
-                id="image_apq_gwd_lp" align="center" height="3in" width="5in"/></result>
+        <result>
+            <?oxy_delete author="ilovan" timestamp="20140928T230319-0600" content="This will delete both the entity record in the left column and the entity (with text) in the document. "?>
+            <?oxy_insert_start author="ilovan" timestamp="20140928T230319-0600"?>
+            <note type="caution">Currently, removing an entity from the document deletes the entity record in left column and the text tagged with it as well.</note>
+            <?oxy_insert_end?>
+            <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A8be19021-3d5a-499f-836d-2fe436b1a139/datastream/OBJ/view" id="image_apq_gwd_lp" align="center" height="3in" width="5in"></image>
+        </result>
     </taskbody>
 </task>
+<?oxy_options track_changes="on"?>
