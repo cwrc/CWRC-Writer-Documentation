@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/pdf/oxygen_dita_temp?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="reference_zqr_bbh_rp" ditaarch:DITAArchVersion="1.2" domains="(topic reference)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic       reference/reference " xtrf="/Users/megansellmer/Desktop/GitHub/Right_Click_Relations.dita" xtrc="reference:1;3:38">
+  <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/Right_Click_Relations.dita" xtrc="title:1;4:10">Right-click menu in the relations column</title>
+  <shortdesc class="- topic/shortdesc " xtrf="/Users/megansellmer/Desktop/GitHub/Right_Click_Relations.dita" xtrc="shortdesc:1;5:14">Adding relations between entities</shortdesc>
+  <refbody class="- topic/body        reference/refbody " xtrf="/Users/megansellmer/Desktop/GitHub/Right_Click_Relations.dita" xtrc="refbody:1;6:12">
+    <section class="- topic/section " xtrf="/Users/megansellmer/Desktop/GitHub/Right_Click_Relations.dita" xtrc="section:1;7:14">
+      <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/Right_Click_Relations.dita" xtrc="title:2;8:14">Right-click menu</title>
+      <p class="- topic/p " xtrf="/Users/megansellmer/Desktop/GitHub/Right_Click_Relations.dita" xtrc="p:1;9:10">The relations panel displays the relationships you've added between entities. To remove the
+        entities, right-click on the relationship you would like to delete and choose the only
+        option - Remove Relations.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae35fbb65-9a12-4a1c-8dc7-d700bdc5d134/datastream/OBJ/view" id="image_vzr_pbh_rp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Right_Click_Relations.dita" xtrc="image:1;13:49"/></p>
+    </section>
+  </refbody>
+</reference>

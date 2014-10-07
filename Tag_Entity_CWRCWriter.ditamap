@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Tagging RDF Entities in CWRC-Writer</title>
+ <topicref href="CWRCWriter_Entity_Splash.dita"/>
  <topicref href="Create_Person_Entity.dita"/>
  <topicref href="Create_Place_entity.dita"/>
  <topicref href="Create_date_entity.dita"/>
