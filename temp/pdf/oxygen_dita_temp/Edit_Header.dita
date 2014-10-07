@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/pdf/oxygen_dita_temp?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_sd5_tj2_np" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="title:1;4:12">Editing the header</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="shortdesc:1;5:16">You can edit the header...</shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="prolog:1;6:35">
+        <author class="- topic/author " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="author:1;7:17">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="copyright:1;8:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="copyryear:1;9:37"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="copyrholder:1;10:26">Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="critdates:1;13:20">
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-09-21" class="- topic/created " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="created:1;15:41"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21" class="- topic/revised " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="revised:1;17:45"/>
+        </critdates>
+        <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="metadata:1;19:41">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="audience:1;20:42"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="audience:2;21:46"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="taskbody:1;24:15">
+        <steps class="- topic/ol task/steps " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="steps:1;25:16">
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="step:1;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="cmd:1;27:22">Click on the "teiHeader" tag in the left structure column.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a87c139-8b92-4c62-92c4-b60cb35dc293/datastream/OBJ/view" id="image_mcd_rk2_np" align="center" outputclass="" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="image:1;30:78"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="step:2;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="cmd:2;33:22">Edit the header in a pop-up that appears. Once you have finished click on the
+                        "OK."<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A7d42d64f-27ef-4b54-a089-cc39985f12bc/datastream/OBJ/view" id="image_fvp_5k2_np" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Edit_Header.dita" xtrc="image:2;36:88"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

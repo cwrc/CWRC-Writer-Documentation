@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/pdf/oxygen_dita_temp?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_osz_cb2_np" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="title:1;4:12">Copying and pasting entities in the editor</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="shortdesc:1;5:16">YOu can copy and paste entities in CWRC-Writer. This will let you replicate entitied
+        is you have multiple instances of that tag in the document. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="taskbody:1;7:15">
+        <steps class="- topic/ol task/steps " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="steps:1;8:16">
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="step:1;9:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="cmd:1;10:22">Right-click on the entity that you wish to copy, either in the entitiescolumn
+                    or within the document. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3af448b8-e8ce-41f6-b0b7-17bed6dc7612/datastream/OBJ/view" id="image_d25_tb2_np" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="image:1;13:88"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="cmd:2;16:22">Place your cursor in the text editor (wherever you would like the new entity to
+                    go) and right-click. Select the option to "Paste Entity."<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d833183-4c46-4414-8481-bba5637f1448/datastream/OBJ/view" id="image_kv4_vb2_np" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="image:2;20:88"/></cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="result:1;23:17">This will add a new entity in the document (you may have to delete texts as the new
+            entity inserts beside any selected text).<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Adac816e8-f109-40e9-a241-dfedcb7cc74c/datastream/OBJ/view" id="image_opk_xb2_np" align="center" height="3in" width="5in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Copy_Paste_Entity.dita" xtrc="image:3;26:80"/></result>
+    </taskbody>
+</task>

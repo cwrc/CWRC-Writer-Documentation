@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>How to Copy and Paste in CWRC-Writer</title>
+ <topicref href="CWRCWriter_Copy_Splash.dita"/>
  <topicref href="Copy_Paste_Text.dita"/>
  <topicref href="Copy_Paste_Single_Tag.dita"/>
  <topicref href="Copy_Paste_Multiple_Tags.dita"/>

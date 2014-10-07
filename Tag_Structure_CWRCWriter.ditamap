@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Tagging in CWRC-Writer</title>
+ <topicref href="CWRCWriter_Tag_Splash.dita"/>
  <topicref href="Tag_Selecting_Text.dita"/>
  <topicref href="Delete_Tags_Toolbar.dita"/>
  <topicref href="Edit_Tag_Editor.dita"/>

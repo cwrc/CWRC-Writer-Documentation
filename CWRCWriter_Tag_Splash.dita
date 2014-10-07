@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_rcg_k4h_rp">
+  <title>Tagging in CWRC-Writer introduction</title>
+  <shortdesc>In each document that you enter there is a pre-existing XML template that contains the
+    basic tags necessary for that type of document.</shortdesc>
+  <refbody>
+    <section>
+      <title>Introduction</title>
+      <p>In each document that you enter there is a pre-existing XML template that contains the
+        basci tags necessary for that type of document. For example, in the poetry template there
+        are "lg" and "l" tags, in which you can type or copy text into. You can play around with
+        these pre-existing tags and/or you can add new tags.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
+          id="image_m4h_1rh_rp" align="center" height="4in" width="6in"
+        /><lines><b>Related Links</b></lines><lines>as</lines><lines>as</lines><lines>as</lines><lines>as</lines><lines>ad</lines><lines>as</lines></p>
+    </section>
+  </refbody>
+</reference>

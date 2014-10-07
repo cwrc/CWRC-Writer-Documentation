@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>How to get started in CWRC-Writer</title>
+ <topicref href="CWRCWriter_Started_Splash.dita"/>
  <topicref href="CWRCWriter_Login_Instructions.dita"/>
  <topicref href="Open_Document_Menu.dita"/>
  <topicref href="Open_Document_Toolbar.dita"/>

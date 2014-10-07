@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_r1p_2xg_rp">
+  <title>Right-click menu in the structure column</title>
+  <shortdesc>In CWRC-Writer, you can add tags through the structure panel on the left side of the
+    editor.</shortdesc>
+  <refbody>
+    <section>
+      <title>Right-click menu</title>
+      <p>To add tags in the structure panel, select a tag and then right-click. this will bring up a
+        menu with eight options that allow you to either insert a tag, edit an existing tag, or
+        remove tags. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A87902ebb-8efa-41c4-b24b-ffa9c1753533/datastream/OBJ/view"
+          id="image_fdg_5yg_rp" align="center"
+        /><lines><b>Insert Tag Before</b> allows you to insert a tag before the tag you have right-clicked on.</lines><lines><b>Insert Tag After</b> allows you to insert a tag after the tag you have right-clicked on (skipping over any nested tags within the tag you have clicked on).</lines><lines><b>Insert Tag Inside</b> this will insert a new tag nested within the initial tag you clicked on.</lines><lines><b>Change Tag</b> this allows you to change a tag (for example, turn a "lg" - line group - into a "p" - paragraph).</lines><lines><b>Edit Tag</b> this allows you to edit a tag by modifying the attributes of the tag.</lines><lines><b>Remove Tag Only</b> allows you to remove a tag, but keep the content (text, nested tags, etc.)</lines><lines><b>Remove Content Only</b> allows you to remove the content of a tag (text, nested tags, etc.), but keep the tag.</lines><lines><b>Remove Tag and All Content</b> allows you to remove everything within a tag and the tag itself.</lines></p>
+    </section>
+  </refbody>
+</reference>
