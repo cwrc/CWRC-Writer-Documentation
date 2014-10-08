@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_z35_f22_lp">
+<task id="task_rlb_rf2_lp">
     <title>Validating your document</title>
-    <shortdesc>the validation of your text against the appropriate XML schema is working, but only
-        in part, because we are still working out the relationship between the entity annotations
-        and the markup.</shortdesc>
+    <shortdesc>The validation of your XML document against the associated schema. If your document
+        is invalid a  list of errors found in the document will appear at the bottom of the
+        page.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
@@ -12,8 +12,9 @@
             <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
         </copyright>
         <critdates>
-            <created date="2014-09-14"/>
-            <revised modified="2014-09-21"></revised>
+            <created date="2014-09-09"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-28&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141007T200042-0700&quot; /&gt;"?>
+            <revised modified="2014-10-07"/>
         </critdates>
         <metadata product="stand-alone">
             <audience audience="novice"></audience>
@@ -23,22 +24,34 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the "Validate" button in the toolbar.<image placement="break"
+                <cmd>Click on the <cmdname>Validate</cmdname> button on the
+                        toolbar.document<?oxy_insert_start author="megansellmer" timestamp="20141007T200119-0700"?>.<?oxy_insert_end?><?oxy_insert_start author="ilovan" timestamp="20140929T000128-0600"?><image
+                        placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A9eaec41d-3d54-400b-a6ed-70b8ac2f133d/datastream/OBJ/view"
-                        id="image_n4q_qxw_mp" align="center"/></cmd>
+                        id="image_n4q_qxw_mp" align="center"/><?oxy_insert_end?></cmd>
+                <stepresult>If the document is invalid a pop-up appears with error messages.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6f57d522-eaeb-4c57-a0a6-a568e07095b4/datastream/OBJ/view"
+                        id="image_kkp_dg2_lp" align="center" height="3in" width="5in"/></stepresult>
             </step>
             <step>
-                <cmd>A pop-up from the bottom of the editor appears. It will tell you if the
-                    document is valid or not.</cmd>
-                <info>If the document is invalid, the pop-up will list the errors in the document.
-                    To find out more about Validation, please go to the TEI website here: <xref
-                        href="http://tbe.kantl.be/TBE/xquery/TBEvalidator.xg" format="html"
-                        scope="external">http://tbe.kantl.be/TBE/xquery/TBEvalidator.xg
-                        </xref><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8639d9f5-435d-45b6-8352-054f79516bfa/datastream/OBJ/view"
-                        id="image_yyj_3f2_lp" align="center" height="3in" width="5in"/></info>
+                <cmd>Click on one of the errors, this will highlight the error in the document. You
+                    can then correct the invalid structure.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aaaf8620d-af69-488b-b3f5-0a1cd9f72d42/datastream/OBJ/view"
+                        id="image_uxy_fg2_lp" align="center" height="3in" width="5in"/></cmd>
+                <info>You can still save the document if it is invalid, but a pop-up will appear
+                    making sure that you want to proceed.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3e045c75-dd10-46b6-a318-e1b3572c156e/datastream/OBJ/view"
+                        id="image_kyh_3g2_lp" align="center" height="3in" width="5in"/></info>
+            </step>
+            <step>
+                <cmd>Validate again.</cmd>
             </step>
         </steps>
+        <result>If you fixed all the validation errors, you should receive a confirmation
+                message.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A8639d9f5-435d-45b6-8352-054f79516bfa/datastream/OBJ/view"
+                id="image_yyj_3f2_lp" align="center" height="3in" width="5in"/></result>
     </taskbody>
 </task>
 <?oxy_options track_changes="on"?>

@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_wsl_1rd_lp">
     <title>Editing entities from the editor</title>
-    <shortdesc>You can add qualifying information to the RDF entit<?oxy_delete author="ilovan" timestamp="20140928T232350-0600" content="ies"?><?oxy_insert_start author="ilovan" timestamp="20140928T232350-0600"?>y annotations<?oxy_insert_end?> added to the document. You can edit the <?oxy_delete author="ilovan" timestamp="20140928T232406-0600" content="entities"?><?oxy_insert_start author="ilovan" timestamp="20140928T232406-0600"?>entity annotations<?oxy_insert_end?> within the editor by right-clicking. This information can be edited at any time.</shortdesc>
+    <shortdesc>You can add qualifying information to the RDF entity annotations added to the
+        document. You can edit the entity annotations within the editor by right-clicking. This
+        information can be edited at any time.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
@@ -10,11 +12,9 @@
             <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
         </copyright>
         <critdates>
-            <?oxy_comment_start author="ilovan" timestamp="20140928T223901-0600" comment="Megan, make sure we put the correct times in (we may use the time stamp to filter if we need to replace the screenshots if something in theinterface changes, for example). "?>
-            <created date="2014-09-15"></created>
-            <?oxy_comment_end?>
-            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-21&quot; author=&quot;ilovan&quot; timestamp=&quot;20140928T223932-0600&quot; /&gt;"?>
-            <revised modified="2014-09-28"></revised>
+            <created date="2014-09-15"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-28&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141007T201519-0700&quot; /&gt;"?>
+            <revised modified="2014-10-07"/>
         </critdates>
         <metadata product="stand-alone">
             <audience audience="novice"></audience>
@@ -24,22 +24,30 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the text <?oxy_delete author="ilovan" timestamp="20140928T232433-0600" content="that makes up the entity"?><?oxy_insert_start author="ilovan" timestamp="20140928T232433-0600"?>annotatted<?oxy_insert_end?>.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A40f1e7f1-7347-4e62-af31-7c82a9f939ed/datastream/OBJ/view" id="image_nc2_5rd_lp" align="center" height="3in" width="5in"></image></cmd>
+                <cmd>Highlight the annotated text .<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A40f1e7f1-7347-4e62-af31-7c82a9f939ed/datastream/OBJ/view"
+                        id="image_nc2_5rd_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Right-click on the highlighted text and choose the <cmdname><?oxy_delete author="ilovan" timestamp="20140928T225053-0600" content="&quot;"?>Edit tag<?oxy_delete author="ilovan" timestamp="20140928T225049-0600" content="&quot;"?></cmdname> option.<?oxy_comment_start author="ilovan" timestamp="20140928T224739-0600" comment="Wrong image.
-
-Replace. 
-"?><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A77e19de4-de9a-487c-a8c5-78e9305fa475/datastream/OBJ/view" id="image_hkp_1sd_lp" align="center" height="3in" width="5in"></image><?oxy_comment_end?></cmd>
+                <cmd>Right-click on the highlighted text and choose the
+                        <cmdname><?oxy_delete author="ilovan" timestamp="20140928T225053-0600" content="&quot;"?>Edit
+                        tag<?oxy_delete author="ilovan" timestamp="20140928T225049-0600" content="&quot;"?></cmdname>
+                        option.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Abd5ccecc-d405-4d5c-8200-dbe24c325b76/datastream/OBJ/view"
+                        id="image_tsd_fxj_rp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>Edit any information in the pop-up you would like and click <cmdname>Save</cmdname>.</cmd>
                 <info>None of the information in the pop-up is required.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A807338fa-4dd2-4be6-bb84-09ea58560e57/datastream/OBJ/view"
-                        id="image_myh_dsd_lp" align="center" height="3in" width="5in"/></info>
+                        id="image_myh_dsd_lp" align="center" height="4in" width="6in"/></info>
             </step>
         </steps>
-        <result>The edited information will appear in the left "Entities" column. Click on the entry to see the information attached to that particular entity<?oxy_insert_start author="ilovan" timestamp="20140928T232507-0600"?> annotation<?oxy_insert_end?>. <?oxy_comment_start author="ilovan" timestamp="20140928T224941-0600" comment="Replace image with one that shows the result described above."?><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A1155d498-13a9-47b0-b949-3acf2960db61/datastream/OBJ/view" id="image_w3z_fsd_lp" align="center" height="3in" width="5in"></image><?oxy_comment_end?></result>
+        <result>The edited information will appear in the left "Entities" column. Click on the entry
+            to see the information attached to that particular entity annotation. <image
+                placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Abdfa3779-4d1a-4bc2-af47-b5be9b77b3be/datastream/OBJ/view"
+                id="image_xyw_lxj_rp" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>
 <?oxy_options track_changes="on"?>

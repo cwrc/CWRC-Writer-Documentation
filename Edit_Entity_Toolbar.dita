@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_vsp_qsd_lp">
     <title>Editing entities from the toolbar</title>
-    <shortdesc>You can add qualifying information to the RDF <?oxy_delete author="ilovan" timestamp="20140928T234127-0600" content="entities"?><?oxy_insert_start author="ilovan" timestamp="20140928T234127-0600"?>entity annoattions<?oxy_insert_end?> in the document. You can edit the <?oxy_delete author="ilovan" timestamp="20140928T234138-0600" content="entities"?><?oxy_insert_start author="ilovan" timestamp="20140928T234138-0600"?>annotations<?oxy_insert_end?> from the toolbar at any time. </shortdesc>
+    <shortdesc>You can add qualifying information to the RDF entity annotations in the document. You
+        can edit the annotations from the toolbar at any time. </shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
@@ -22,10 +23,15 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the <?oxy_delete author="ilovan" timestamp="20140928T234203-0600" content="text that makes up the entity"?><?oxy_insert_start author="ilovan" timestamp="20140928T234203-0600"?>annotated text<?oxy_insert_end?>.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Afe1d4f61-d140-4eb2-811e-51091dd6f274/datastream/OBJ/view" id="image_utn_ptd_lp" align="center" height="3in" width="5in"></image></cmd>
+                <cmd>Highlight the annotated text.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afe1d4f61-d140-4eb2-811e-51091dd6f274/datastream/OBJ/view"
+                        id="image_utn_ptd_lp" align="center" height="3in" width="5in"/></cmd>
             </step>
             <step>
-                <cmd>Click on the toolbar button <cmdname>Edit tag</cmdname> to edit the highlighted entity<?oxy_insert_start author="ilovan" timestamp="20140928T234428-0600"?> annotation<?oxy_insert_end?>. <?oxy_comment_start author="ilovan" timestamp="20140928T234228-0600" comment="fix image link"?><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa4f5df1f-a1a0-4b59-b99d-9f0e0ba79d59/datastream/OBJ/view" id="image_dxr_rtd_lp" align="center" height="3in" width="5in"></image><?oxy_comment_end?></cmd>
+                <cmd>Click on the toolbar button <cmdname>Edit tag</cmdname> to edit the highlighted
+                    entity annotation. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afe578d06-4fce-4b7b-8aee-e0fcf081de88/datastream/OBJ/view"
+                        id="image_ptp_2wj_rp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Edit any information in the pop-up you would like and click <cmdname>Save</cmdname>.</cmd>
@@ -34,7 +40,11 @@
                         id="image_yds_ttd_lp" align="center" height="3in" width="5in"/></info>
             </step>
         </steps>
-        <result>The edited information will appear in the left "Entities" column. Click on the entry to see the information attached to that particular entity<?oxy_insert_start author="ilovan" timestamp="20140928T234445-0600"?> annotation<?oxy_insert_end?>.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A195793bb-4405-46af-8482-a078bb3b2744/datastream/OBJ/view" id="image_rnq_mtd_lp" align="center" height="3in" width="5in"></image></result>
+        <result>The edited information will appear in the left "Entities" column. Click on the entry
+            to see the information attached to that particular entity annotation.<image
+                placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A195793bb-4405-46af-8482-a078bb3b2744/datastream/OBJ/view"
+                id="image_rnq_mtd_lp" align="center" height="3in" width="5in"/></result>
     </taskbody>
 </task>
 <?oxy_options track_changes="on"?>
