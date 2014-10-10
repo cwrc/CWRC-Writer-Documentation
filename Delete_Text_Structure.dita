@@ -26,19 +26,19 @@
                 <cmd>Click on the tag that contains the text that you would like to delete.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Acd811f45-3411-4b10-aec4-1741cf1c786a/datastream/OBJ/view"
-                        id="image_ss3_cv5_mp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_ss3_cv5_mp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>Right-click on the selected tag and choose "Remove Content Only"</cmd>
                 <info>If you would like to delete the tag and the content choose "Remove tag and all
                     content" option from the right-click menu.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A094e87aa-b712-4d10-8c18-e4f36be581a9/datastream/OBJ/view"
-                        id="image_np1_fv5_mp" align="center" height="3in" width="5in"/></info>
+                        id="image_np1_fv5_mp" align="center" height="4in" width="6in"/></info>
             </step>
         </steps>
         <result>This will remove the content from this tag, but it will leave the tag in the
             document. <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A637bc5d3-d8d4-4088-af51-5d5d0f7d54b2/datastream/OBJ/view"
-                id="image_lzk_gv5_mp" align="center" height="3in" width="5in"/></result>
+                id="image_lzk_gv5_mp" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>

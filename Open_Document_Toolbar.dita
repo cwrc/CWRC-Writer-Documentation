@@ -30,9 +30,10 @@
             </step>
             <step>
                 <cmd>Click on the document/template you would like to open from the popup list.
-                        <image placement="break"
+                        <?oxy_attributes height="&lt;change type=&quot;removed&quot; oldValue=&quot;4in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173520-0700&quot; /&gt;" width="&lt;change type=&quot;removed&quot; oldValue=&quot;2in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T173521-0700&quot; /&gt;"?><image
+                        placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac22e7105-8146-4ac8-8594-579304b1f67d/datastream/OBJ/view"
-                        id="image_k44_ntm_jp" align="center" height="4in" width="2in"/></cmd>
+                        id="image_k44_ntm_jp" align="center"/></cmd>
             </step>
         </steps>
         <result>By selecting a document / template from the list in the pop-up a new page will be

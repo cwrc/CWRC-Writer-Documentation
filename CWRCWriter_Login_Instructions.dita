@@ -39,12 +39,11 @@
             <step>
                 <cmd>Enter your user name and password in the pop-up login box. </cmd>
                 <info>For the testing version of CWRC-Writer everyone has the same login
-                    information.
-                        <lines>User name: cwrc
-Password: cwrcy</lines><?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T150708-0700&quot; /&gt;" height="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T150715-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T150716-0700&quot; /&gt;" width="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T150721-0700&quot; /&gt;"?><image
+                    information. <lines>User name: cwrc
+Password: cwrcy</lines><image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view"
-                        id="image_x1g_jsm_jp" align="center" height="3in" width="5in"/></info>
+                        id="image_x1g_jsm_jp" align="center"/></info>
             </step>
         </steps>
     </taskbody>

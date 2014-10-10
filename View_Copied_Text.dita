@@ -39,11 +39,9 @@
                 <stepresult>This will bring up the "Validation" and "Selection" Tabs.</stepresult>
             </step>
             <step>
-                <cmd>Click on the "Selection"
-                        tab.<?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T170707-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T170712-0700&quot; /&gt;" height="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T170721-0700&quot; /&gt;" width="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T170724-0700&quot; /&gt;"?><image
-                        placement="break"
+                <cmd>Click on the "Selection" tab.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A909a2a26-1c15-443d-a49c-39ce120fd91f/datastream/OBJ/view"
-                        id="image_jzc_g3n_jp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_jzc_g3n_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
         </steps>
         <result>You will be able to see what you have copied, included the tags and text.</result>

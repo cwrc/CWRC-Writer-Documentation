@@ -10,19 +10,19 @@
                 <cmd>Right-click on the entity that you wish to copy, either in the entitiescolumn
                     or within the document. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A3af448b8-e8ce-41f6-b0b7-17bed6dc7612/datastream/OBJ/view"
-                        id="image_d25_tb2_np" align="center" height="3in" width="5in"/></cmd>
+                        id="image_d25_tb2_np" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>Place your cursor in the text editor (wherever you would like the new entity to
                     go) and right-click. Select the option to "Paste Entity."<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d833183-4c46-4414-8481-bba5637f1448/datastream/OBJ/view"
-                        id="image_kv4_vb2_np" align="center" height="3in" width="5in"/></cmd>
+                        id="image_kv4_vb2_np" align="center" height="4in" width="6in"/></cmd>
             </step>
         </steps>
         <result>This will add a new entity in the document (you may have to delete texts as the new
             entity inserts beside any selected text).<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3Adac816e8-f109-40e9-a241-dfedcb7cc74c/datastream/OBJ/view"
-                id="image_opk_xb2_np" align="center" height="3in" width="5in"/></result>
+                id="image_opk_xb2_np" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>

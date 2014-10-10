@@ -35,7 +35,7 @@
                     enter upper or lowercase letter; no numbers, spaces, or punctuation are
                         allowed.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2967fccc-9027-4e4b-941b-cb947d50ead3/datastream/OBJ/view"
-                        id="image_bpr_xd2_lp" align="center" height="3in" width="5in"/></info>
+                        id="image_bpr_xd2_lp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
                 <cmd>Once you clicked on "Save," the document validates and is successfully
@@ -43,7 +43,7 @@
                 <info>If the document is not valid, a pop-up will appear and you will be asked if
                     you would like to save anyway.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Abb50cf30-fc31-49ef-8c06-791e18639f70/datastream/OBJ/view"
-                        id="image_ehb_122_lp" align="center" height="3in" width="5in"/></info>
+                        id="image_ehb_122_lp" align="center" height="4in" width="6in"/></info>
             </step>
         </steps>
     </taskbody>

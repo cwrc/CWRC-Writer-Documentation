@@ -25,24 +25,24 @@
         <steps>
             <step>
                 <cmd>Click on the <cmdname>Validate</cmdname> button on the
-                        toolbar.document<?oxy_insert_start author="megansellmer" timestamp="20141007T200119-0700"?>.<?oxy_insert_end?><?oxy_insert_start author="ilovan" timestamp="20140929T000128-0600"?><image
+                        toolbar.document<?oxy_insert_start author="megansellmer" timestamp="20141007T200119-0700"?>.<?oxy_insert_end?><image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A9eaec41d-3d54-400b-a6ed-70b8ac2f133d/datastream/OBJ/view"
-                        id="image_n4q_qxw_mp" align="center"/><?oxy_insert_end?></cmd>
+                        id="image_n4q_qxw_mp" align="center"/></cmd>
                 <stepresult>If the document is invalid a pop-up appears with error messages.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A6f57d522-eaeb-4c57-a0a6-a568e07095b4/datastream/OBJ/view"
-                        id="image_kkp_dg2_lp" align="center" height="3in" width="5in"/></stepresult>
+                        id="image_kkp_dg2_lp" align="center" height="4in" width="6in"/></stepresult>
             </step>
             <step>
                 <cmd>Click on one of the errors, this will highlight the error in the document. You
                     can then correct the invalid structure.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aaaf8620d-af69-488b-b3f5-0a1cd9f72d42/datastream/OBJ/view"
-                        id="image_uxy_fg2_lp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_uxy_fg2_lp" align="center" height="4in" width="6in"/></cmd>
                 <info>You can still save the document if it is invalid, but a pop-up will appear
                     making sure that you want to proceed.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A3e045c75-dd10-46b6-a318-e1b3572c156e/datastream/OBJ/view"
-                        id="image_kyh_3g2_lp" align="center" height="3in" width="5in"/></info>
+                        id="image_kyh_3g2_lp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
                 <cmd>Validate again.</cmd>
@@ -51,7 +51,7 @@
         <result>If you fixed all the validation errors, you should receive a confirmation
                 message.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A8639d9f5-435d-45b6-8352-054f79516bfa/datastream/OBJ/view"
-                id="image_yyj_3f2_lp" align="center" height="3in" width="5in"/></result>
+                id="image_yyj_3f2_lp" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>
 <?oxy_options track_changes="on"?>
