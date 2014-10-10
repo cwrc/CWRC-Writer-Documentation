@@ -24,22 +24,22 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight on the tag that  you would like to edit.<image placement="break"
+                <cmd>Highlight on the tag that you would like to edit.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab5ab7809-9401-4377-9688-61864334e4fa/datastream/OBJ/view"
-                        id="image_cjz_t14_jp" align="center" width="5in" height="3in"/></cmd>
+                        id="image_cjz_t14_jp" align="center" width="6in" height="4in"/></cmd>
             </step>
             <step>
                 <cmd>Right-click on the tag and select the option "Edit Tag."<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A53a1d426-5d5c-4f79-a1f0-d3596a6fccc8/datastream/OBJ/view"
-                        id="image_qlt_v14_jp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_qlt_v14_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>A pop-up will appear that allows you to add additional information to tags. </cmd>
                 <info>The different attributes available in the pop-up will depend on the tag that
                     you are editing.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad8b8eaf5-c4b4-4935-830f-a728a7f2f6ec/datastream/OBJ/view"
-                        id="image_ztg_y14_jp" align="center" height="3in" width="5in"/></info>
+                        id="image_ztg_y14_jp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
                 <cmd>Click "OK" and all edits made to the tag will be saved.</cmd>

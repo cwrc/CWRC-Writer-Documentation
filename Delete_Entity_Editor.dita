@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ufs_nwd_lp">
     <title>Deleting entities from the editor</title>
-    <shortdesc>The CWRC-Writer templates come with pre existing <?oxy_insert_start author="ilovan" timestamp="20140928T232620-0600"?>entity annotations<?oxy_insert_end?> as examples to new users. You can easily delete these <?oxy_delete author="ilovan" timestamp="20140928T232636-0600" content="entities or any entities"?><?oxy_insert_start author="ilovan" timestamp="20140928T232636-0600"?>annotations or any annotations<?oxy_insert_end?> that you don't want in your document from within the editor (using right-click). </shortdesc>
+    <shortdesc>The CWRC-Writer templates come with pre existing entity annotations as examples to
+        new users. You can easily delete these annotations or any annotations that you don't want in
+        your document from within the editor (using right-click). </shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
@@ -22,20 +24,27 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the <?oxy_insert_start author="ilovan" timestamp="20140928T232733-0600"?>annotated <?oxy_insert_end?>text<?oxy_delete author="ilovan" timestamp="20140928T232742-0600" content=" that is within the entity that you would like to delete"?>.</cmd>
+                <cmd>Highlight the annotated text.</cmd>
                 <info>
-                    <?oxy_delete author="ilovan" timestamp="20140928T233017-0600" content="Currently, removing an entity from the document that deletes the text as well."?>
-                    <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A4e5baa86-5db9-4eed-9194-a68f467772bf/datastream/OBJ/view" id="image_uvx_hxd_lp" align="center" height="3in" width="5in"></image>
+                    <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4e5baa86-5db9-4eed-9194-a68f467772bf/datastream/OBJ/view"
+                        id="image_uvx_hxd_lp" align="center" height="4in" width="6in"/>
                 </info>
             </step>
             <step>
-                <cmd>Right-click on the highlighted text and choose the <cmdname>Remove Tag</cmdname> option.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa18805e2-2e30-45cb-8b49-bd77094ca170/datastream/OBJ/view" id="image_qtk_qxd_lp" align="center" height="3in" width="5in"></image></cmd>
+                <cmd>Right-click on the highlighted text and choose the <cmdname>Remove
+                        Tag</cmdname> option.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa18805e2-2e30-45cb-8b49-bd77094ca170/datastream/OBJ/view"
+                        id="image_qtk_qxd_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
         </steps>
         <result>
             <?oxy_attributes type="&lt;change type=&quot;inserted&quot; author=&quot;ilovan&quot; timestamp=&quot;20140928T233150-0600&quot; /&gt;"?>
-            <note type="caution">This will delete both the entity <?oxy_insert_start author="ilovan" timestamp="20140928T233100-0600"?>annotation <?oxy_insert_end?>in the left column and the <?oxy_delete author="ilovan" timestamp="20140928T233109-0600" content="entity (with text)"?><?oxy_insert_start author="ilovan" timestamp="20140928T233109-0600"?>annotated text <?oxy_insert_end?> in the document.</note>
-            <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A1155d498-13a9-47b0-b949-3acf2960db61/datastream/OBJ/view" id="image_gtw_rxd_lp" align="center" height="3in" width="5in"></image>
+            <note type="caution">This will delete both the entity annotation in the left column and
+                the annotated text  in the document.</note>
+            <image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A1155d498-13a9-47b0-b949-3acf2960db61/datastream/OBJ/view"
+                id="image_gtw_rxd_lp" align="center" height="4in" width="6in"/>
         </result>
     </taskbody>
 </task>

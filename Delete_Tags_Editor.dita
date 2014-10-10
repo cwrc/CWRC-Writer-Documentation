@@ -28,11 +28,9 @@
                     the tag that you would like to delete in the structure panel. </cmd>
             </step>
             <step>
-                <cmd>Right-click and choose the "Remove Tag"
-                        option.<?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T143719-0700&quot; /&gt;" height="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T143725-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T143726-0700&quot; /&gt;" width="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T143731-0700&quot; /&gt;"?><image
-                        placement="break"
+                <cmd>Right-click and choose the "Remove Tag" option.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2192c64d-404e-4340-956d-fb89e112d85e/datastream/OBJ/view"
-                        id="image_pjx_jvv_mp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_pjx_jvv_mp" align="center" height="4in" width="6in"/></cmd>
             </step>
         </steps>
         <result>This will delete the tag, but leave the text.</result>

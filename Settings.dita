@@ -16,7 +16,7 @@
       <p>The lower half of the Settings pop-up allows users to select the editor mode and the schema
         associated with the current document (see more below).<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A0b3df7bf-2d7f-4b27-b4a7-8f94aca60e48/datastream/OBJ/view"
-          id="image_xfw_bkf_np" align="center" height="3in" width="5in"/></p>
+          id="image_xfw_bkf_np" align="center"/></p>
       <p>Currently, when you select "Add Schema" a pop-up appears. This allows you to add your
         "Schema Name," "Schema URL," and "Schema CSS URL." Once you have filled in those fields,
         click on "Add Schema." Now your schema is set in the drop-down menu. This last feature is

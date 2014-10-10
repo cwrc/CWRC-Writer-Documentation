@@ -31,12 +31,12 @@
             <step>
                 <cmd>Write the link in the text bar, and click "Save."<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A0fcd4a87-d926-4faf-b1d3-35f2eea1419c/datastream/OBJ/view"
-                        id="image_ec4_rwf_lp" height="3in" align="center" width="5in"/></cmd>
+                        id="image_ec4_rwf_lp" height="4in" align="center" width="6in"/></cmd>
             </step>
         </steps>
         <result>You have added a link to your document. You can access the link in either the
             document and the entities column.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A495fd428-dbc3-48f9-8115-9aae4ac7fe08/datastream/OBJ/view"
-                id="image_jbz_pwf_lp" align="center" height="3in" width="5in"/></result>
+                id="image_jbz_pwf_lp" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>

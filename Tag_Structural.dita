@@ -27,7 +27,7 @@
             <step>
                 <cmd>Select a tag in the structural panel and right click. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A23435fcd-d197-47d5-9e99-47d31dcd4026/datastream/OBJ/view"
-                        id="image_tsq_tkn_jp" align="center" height="5in" width="3in"/></cmd>
+                        id="image_tsq_tkn_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>This will bring up a menu with three options that allow you to insert a
@@ -46,7 +46,7 @@
                 <cmd>Once you have selected one of the "Insert" options, choose a tag from the list
                     that appears. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A7cd7b9f7-c361-4364-b03c-6f30283b671e/datastream/OBJ/view"
-                        id="image_hkj_xkn_jp" align="center" height="4in" width="3in"/></cmd>
+                        id="image_hkj_xkn_jp" align="center" height="4in" width="6in"/></cmd>
                 <info>The tags that you can select, under each "Insert"
                     option<?oxy_delete author="ilovan" timestamp="20140915T150924-0600" content="s"?>,
                     are limited to tags that are allowed (according to the schema).</info>
@@ -58,14 +58,14 @@
                 <info>You do not have to enter any additional information if you don't want to. You
                     can just press "OK" as soon as you see this pop-up.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A3803d31b-62fd-4f92-9ce0-81a69f017060/datastream/OBJ/view"
-                        id="image_syf_cln_jp" align="center" height="3in" width="5in"/></info>
+                        id="image_syf_cln_jp" align="center" height="4in" width="6in"/></info>
             </step>
         </steps>
         <result>You have now added a new structure tag.</result>
         <example>In the image below you can see we have added a new "time" tag in the document
             structure, by following the above steps.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab088f060-527c-4f90-8092-555708dfdf7c/datastream/OBJ/view"
-                id="image_f3l_hln_jp" align="center" width="5in" height="3in"/></example>
+                id="image_f3l_hln_jp" align="center" width="6in" height="4in"/></example>
     </taskbody>
 </task>
 <?oxy_options track_changes="on"?>

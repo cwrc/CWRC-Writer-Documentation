@@ -31,12 +31,12 @@
             <step>
                 <cmd>Write the correction in the text bar, and click "Save."<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ace0a6f51-292e-4d06-b596-6fac0ad702a2/datastream/OBJ/view"
-                        id="image_hft_2yf_lp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_hft_2yf_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
         </steps>
         <result>You have added a correction to your document. You can access the correction for
             edits in either the document and the entities column.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f3072d4-c73e-4473-a39a-ed019b34c116/datastream/OBJ/view"
-                id="image_cfx_cyf_lp" align="center" height="3in" width="5in"/></result>
+                id="image_cfx_cyf_lp" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>

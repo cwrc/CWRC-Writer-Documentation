@@ -28,14 +28,14 @@
                 <cmd>Highlight the text that you would like to tag as a particular entity.</cmd>
                 <info>Currently, the events tag is not full functional.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aeccc95ca-90b8-4bab-bc1a-f7381a1f79cd/datastream/OBJ/view"
-                        id="image_irv_53d_lp" align="center" height="3in" width="5in"/></info>
+                        id="image_irv_53d_lp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
                 <cmd>Right-click on the highlighted text and select the entity you would like to add
                     to the document. In this case we are adding a "Place" entity to the
                         document.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Af253d6ab-9dd4-4f41-a846-bd2bba850da0/datastream/OBJ/view"
-                        id="image_n2v_w3d_lp" align="center" width="5in" height="3in"/></cmd>
+                        id="image_n2v_w3d_lp" align="center" width="6in" height="4in"/></cmd>
             </step>
             <step>
                 <cmd>Choose a CWRC, VIAF or GeoNames (depending on what entity you are tagging)
@@ -49,8 +49,7 @@
                         can also create a new entry in the CWRC system, this will be covered in
                         alternate help pages.<image placement="break"
                             href="http://beta.cwrc.ca/islandora/object/cwrc%3A903bc97c-6c41-4975-9d75-a1355b794684/datastream/OBJ/view"
-                            id="image_q4c_z3d_lp" align="center" height="3in" width="5in"
-                    /></note></info>
+                            id="image_q4c_z3d_lp" align="center" height="4in" width="6in"/></note></info>
             </step>
             <step>
                 <cmd>Add any qualifying information to the entity (precision, identification, etc.)
@@ -58,13 +57,13 @@
                 <info>The options that show up on this pop-up depends on what entity is being
                         tagged.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab381ee9a-4ae6-4b8f-bd7b-1cb54dc65b16/datastream/OBJ/view"
-                        id="image_g14_cjd_lp" align="center" height="3in" width="5in"/></info>
+                        id="image_g14_cjd_lp" align="center" height="4in" width="6in"/></info>
             </step>
         </steps>
         <result>The entity that you have added to your document (along with any additional
             information you have assigned to the entity) will appear in the entities column on the
             left side of CWRC-Writer. <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A525737fe-fb67-4e75-9f3c-412cabb166d0/datastream/OBJ/view"
-                id="image_ovn_2jd_lp" align="center" height="3in" width="5in"/></result>
+                id="image_ovn_2jd_lp" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>

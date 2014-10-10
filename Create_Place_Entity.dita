@@ -28,14 +28,14 @@
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae28153a3-d5b1-42ca-ad06-889c98c8ba0d/datastream/OBJ/view"
                         id="image_arl_lzw_mp" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A80aa114d-4a83-4d4c-9bb0-e78a86f91e0e/datastream/OBJ/view"
-                        id="image_lwz_vl2_lp" align="center" outputclass="" width="5in" height="3in"
+                        id="image_lwz_vl2_lp" align="center" outputclass="" width="6in" height="4in"
                     /></cmd>
             </step>
             <step>
                 <cmd>Try to find the place you are tagging in the CWRC or GeoNames entries.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A5a32366e-9c66-4a17-ac64-ad14cf8d99ea/datastream/OBJ/view"
-                        id="image_vpf_cm2_lp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_vpf_cm2_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to
@@ -47,19 +47,19 @@
                 <info>The only mandatory field is the place name, though there are many other areas
                     that you can fill out.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A88f0c37f-613a-43d6-b04a-10ad51738a76/datastream/OBJ/view"
-                        id="image_frn_2m2_lp" align="center" height="5in" width="3in"/></info>
+                        id="image_frn_2m2_lp" align="center" height="6in" width="4in"/></info>
             </step>
             <step>
-                <cmd>Once you  have created a place entry in the CWRC entity repository, you can now
+                <cmd>Once you have created a place entry in the CWRC entity repository, you can now
                     add more information about the tag (precision, person type, etc.). Click on
                         "Save."<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0bc6abb-6d6a-4c3e-bccf-930bb5c810d8/datastream/OBJ/view"
-                        id="image_if3_gm2_lp" align="center" height="5in" width="3in"/></cmd>
+                        id="image_if3_gm2_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
         </steps>
         <result>You have now created a new CWRC entity entry, you can use this creation the next
             time that you go to tag this person.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae0d8baa3-cdff-4ed0-9cec-2e9294e38789/datastream/OBJ/view"
-                id="image_s24_zl2_lp" align="center" height="3in" width="5in"/></result>
+                id="image_s24_zl2_lp" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>

@@ -27,22 +27,22 @@
                 <cmd>Highlight the text within the tag that you want to edit.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A9533598d-dd73-42fc-b830-036e00b4bc3a/datastream/OBJ/view"
-                        id="image_eyy_hb4_jp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_eyy_hb4_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
-            <?oxy_comment_start author="ilovan" timestamp="20140915T155526-0600" comment="use the tool panel with arrow pointing to the Edit tag button"?>
             <step>
-                <cmd>Click on the "Edit tag" toolbar option.<?oxy_comment_end?><image
-                        placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A7aec9935-f428-4bc6-af2f-615a2f604370/datastream/OBJ/view"
-                        id="image_fpc_kb4_jp" align="center" width="5in" height="3in"/></cmd>
+                <cmd>Click on the "Edit tag" toolbar option.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9d059dfc-8508-4d36-86d8-9c7607726aba/datastream/OBJ/view"
+                        id="image_jbt_vzx_rp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>A pop-up will appear that allows you to add additional information to
                     tags.</cmd>
                 <info>The different attributes available in the pop-up will depend on the tag that
-                    you are editing.<image placement="break"
+                    you are
+                        editing.<?oxy_attributes height="&lt;change type=&quot;modified&quot; oldValue=&quot;3in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T185025-0700&quot; /&gt;" width="&lt;change type=&quot;modified&quot; oldValue=&quot;5in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T185027-0700&quot; /&gt;"?><image
+                        placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A529e65d2-ac93-48cc-9732-447433d213dd/datastream/OBJ/view"
-                        id="image_e1w_mb4_jp" align="center" height="3in" width="5in"/></info>
+                        id="image_e1w_mb4_jp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
                 <cmd>Click "OK" and all edits made to the tag will be saved.</cmd>

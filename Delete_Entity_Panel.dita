@@ -29,12 +29,12 @@
                 <info>Currently, removing an entity from the document deletes the text as
                         well.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac9b7b30d-6852-4635-b91a-0b913ba19b3a/datastream/OBJ/view"
-                        id="image_pgh_bvd_lp" align="center" height="3in" width="5in"/></info>
+                        id="image_pgh_bvd_lp" align="center" height="4in" width="6in"/></info>
             </step>
         </steps>
         <result>This will delete both the entity record in the left column and the entity (with
             text) in the document.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A01d1267d-1bd2-4966-9dab-08006b663763/datastream/OBJ/view"
-                id="image_br2_2vd_lp" align="center" height="3in" width="5in"/></result>
+                id="image_br2_2vd_lp" align="center" height="4in" width="6in"/></result>
     </taskbody>
 </task>

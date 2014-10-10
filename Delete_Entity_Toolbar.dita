@@ -29,7 +29,7 @@
                 <stepresult>
                     <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Acbb60d5a-f537-45d3-a245-3e0703ea89e7/datastream/OBJ/view"
-                        id="image_u3b_dwd_lp" align="center" height="3in" width="5in"/>
+                        id="image_u3b_dwd_lp" align="center" height="4in" width="6in"/>
                 </stepresult>
             </step>
             <step>
@@ -45,7 +45,7 @@
                 record in left column and the text tagged with it as well.</note>
             <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A8be19021-3d5a-499f-836d-2fe436b1a139/datastream/OBJ/view"
-                id="image_apq_gwd_lp" align="center" height="3in" width="5in"/>
+                id="image_apq_gwd_lp" align="center" height="4in" width="6in"/>
         </result>
     </taskbody>
 </task>

@@ -26,18 +26,16 @@
             <step>
                 <cmd>Highlight the text in the tag that you want to delete.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae3650363-7c21-4ce0-af51-ebef56cb0a79/datastream/OBJ/view"
-                        id="image_nn5_zln_jp" align="center" height="3in" width="5in"/></cmd>
+                        id="image_nn5_zln_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Click on the toolbar option "Remove
-                        Tag."<?oxy_comment_start author="ilovan" timestamp="20140915T112850-0600" comment="Megan, could you replace this image with the classical CWRC-Writer toolbar image with an arrow pointing to the right button, as you have for other toolbar commands?"?><image
-                        placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A93b47739-35a1-4e08-a179-d81b38911212/datastream/OBJ/view"
-                        id="image_blc_cmn_jp" align="center"/><?oxy_comment_end?></cmd>
+                <cmd>Click on the toolbar option "Remove Tag."<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae818ee88-fa38-4474-bd53-ea9a48ba5af9/datastream/OBJ/view"
+                        id="image_mzm_v1y_rp" align="center"/></cmd>
                 <stepresult>This deletes the tag that the text belongs in. The text will remain in
                     the editor. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aacb7efeb-f235-4cc0-af9e-cee329227639/datastream/OBJ/view"
-                        id="image_wnc_2mn_jp" align="center" height="3in" width="5in"/></stepresult>
+                        id="image_wnc_2mn_jp" align="center" height="4in" width="6in"/></stepresult>
             </step>
         </steps>
     </taskbody>
