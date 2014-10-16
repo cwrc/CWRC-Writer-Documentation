@@ -33,30 +33,29 @@
                 <cmd>This will bring up a menu with three options that allow you to insert a
                     tag.</cmd>
                 <choices id="choices_vyw_d12_lp">
-                    <choice><cmdname>Insert Tag Before</cmdname>allows you to insert a tag before
+                    <choice><cmdname>Insert Tag Before</cmdname> allows you to insert a tag before
                         the tag you have right clicked on.</choice>
-                    <choice><cmdname>Insert Tag After</cmdname>allows you to insert a tag after the
+                    <choice><cmdname>Insert Tag After</cmdname> allows you to insert a tag after the
                         tag you have right-clicked on (skipping over any nested tags within the tag
                         you have clicked on).</choice>
-                    <choice><cmdname>Insert Tag Inside</cmdname>this will insert a new tag nested
+                    <choice><cmdname>Insert Tag Inside</cmdname> this will insert a new tag nested
                         within the initial tag yo clicked on.</choice>
                 </choices>
             </step>
             <step>
-                <cmd>Once you have selected one of the "Insert" options, choose a tag from the list
+                <cmd>Once you have selected one of the <cmdname>Insert</cmdname> options, choose a tag from the list
                     that appears. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A7cd7b9f7-c361-4364-b03c-6f30283b671e/datastream/OBJ/view"
                         id="image_hkj_xkn_jp" align="center" height="4in" width="6in"/></cmd>
-                <info>The tags that you can select, under each "Insert"
-                    option<?oxy_delete author="ilovan" timestamp="20140915T150924-0600" content="s"?>,
-                    are limited to tags that are allowed (according to the schema).</info>
+                <info>The tags that you can select, under each <cmdname>Insert</cmdname> option, are limited to tags
+                    that are allowed (according to the schema).</info>
             </step>
             <step>
                 <cmd>Once you select the tag you would like to add to the structure panel a pop-up
                     appear that allows you to add qualifying information to the tag. Once you have
-                    finished, click on "OK."</cmd>
+                    finished, click on <cmdname>OK</cmdname>.</cmd>
                 <info>You do not have to enter any additional information if you don't want to. You
-                    can just press "OK" as soon as you see this pop-up.<image placement="break"
+                    can just press <cmdname>OK</cmdname> as soon as you see this pop-up.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A3803d31b-62fd-4f92-9ce0-81a69f017060/datastream/OBJ/view"
                         id="image_syf_cln_jp" align="center" height="4in" width="6in"/></info>
             </step>
@@ -68,4 +67,5 @@
                 id="image_f3l_hln_jp" align="center" width="6in" height="4in"/></example>
     </taskbody>
 </task>
+
 <?oxy_options track_changes="on"?>

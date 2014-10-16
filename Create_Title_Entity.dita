@@ -38,12 +38,12 @@
             </step>
             <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to
-                    create your own. To do this click on "Create New Title" button at the bottom of
+                    create your own. To do this click on <cmdname>Create New Title</cmdname> button at the bottom of
                     that page.</cmd>
             </step>
             <step>
                 <cmd>An "Add Text/Title" pop-up appear, fill it out (see info below) and click
-                    "OK."</cmd>
+                    <cmdname>OK</cmdname>.</cmd>
                 <info>The only mandatory field is the Title name, though there are many other areas
                     that you can fill out.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae31165cd-cdee-4bbe-b41b-f2fbe536323d/datastream/OBJ/view"
@@ -52,7 +52,7 @@
             <step>
                 <cmd>Once you have created an text/title entry in the CWRC entity repository, you
                     can now add more information about the tag (author, date, etc). Click on
-                        "Save."<image placement="break"
+                    <cmdname>Save</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A48c34ef9-ee36-4fca-99f9-ede2bd263bab/datastream/OBJ/view"
                         id="image_i4p_f4f_lp" align="center" height="4in" width="6in"/>
                 </cmd>

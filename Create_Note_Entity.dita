@@ -29,8 +29,8 @@
                 <cmd>Highlight the text that you would like to add a note to.</cmd>
             </step>
             <step>
-                <cmd>Click on the toolbar icon "Tag Note" or right-click on the text and choose "Tag
-                        Note."<image placement="break"
+                <cmd>Click on the toolbar icon "Tag Note" or right-click on the text and choose <cmdname>Tag Note</cmdname>.
+                    <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Add38d995-c0cc-49ad-a750-a32eb9eb4558/datastream/OBJ/view"
                         id="image_zdy_yv2_np" align="center"/><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ada3d8ef4-4e90-4fe8-88b1-606503fa4baf/datastream/OBJ/view"
@@ -59,13 +59,13 @@
                         id="image_fpm_qw2_np" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>If/When you decide to add entities to your note, you will see a pop-up exactly
-                    like that in the CWRC-Writer.<image placement="break"
+                <cmd>If/When you decide to add entities to your note, a "mini-editor" will
+                        popup.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aba443ffc-ad80-4e2c-b1ea-b4176dab9481/datastream/OBJ/view"
                         id="image_un2_sw2_np" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Once you have finished creating your note, click on "Save."<image
+                <cmd>Once you have finished creating your note, click on <cmdname>Save</cmdname>.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A11fb457e-2f2a-4f33-af5f-4e55fd75d80f/datastream/OBJ/view"
                         id="image_ir3_nw2_np" align="center" height="4in" width="6in"/></cmd>

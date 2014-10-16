@@ -24,12 +24,12 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the "Save" toolbar button.<image placement="break"
+                <cmd>Click on the <cmdname>Save</cmdname> toolbar button.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A986c575e-d233-4512-8846-d951e8503c11/datastream/OBJ/view"
                         id="image_lj1_jxw_mp" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Enter the title of the document, and click "Save."</cmd>
+                <cmd>Enter the title of the document, and click <cmdname>Save</cmdname>.</cmd>
                 <info>Adding your initials to the beginning (e.g. MS) is a good way to indicate to
                     others that it is a file created by another CWRC-Writer tester. You may only
                     enter upper or lowercase letter; no numbers, spaces, or punctuation are
@@ -38,12 +38,12 @@
                         id="image_bpr_xd2_lp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
-                <cmd>Once you clicked on "Save," the document validates and is successfully
+                <cmd>Once you clicked on <cmdname>Save</cmdname>, the document validates and is successfully
                     saved.</cmd>
                 <info>If the document is not valid, a pop-up will appear and you will be asked if
                     you would like to save anyway.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Abb50cf30-fc31-49ef-8c06-791e18639f70/datastream/OBJ/view"
-                        id="image_ehb_122_lp" align="center" height="4in" width="6in"/></info>
+                        id="image_ehb_122_lp" align="center" height="6in" width="4in"/></info>
             </step>
         </steps>
     </taskbody>

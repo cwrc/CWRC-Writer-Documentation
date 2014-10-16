@@ -23,7 +23,7 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the text that you would like to tag as a "Place." Click on the
+                <cmd>Highlight the text that you would like to tag as a <cmdname>Place</cmdname>. Click on the
                     toolbar or right-click options (see image below).<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae28153a3-d5b1-42ca-ad06-889c98c8ba0d/datastream/OBJ/view"
                         id="image_arl_lzw_mp" align="center"/><image placement="break"
@@ -39,11 +39,11 @@
             </step>
             <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to
-                    create your own. To do this click on "Create New Place" button at the bottom of
+                    create your own. To do this click on <cmdname>Create New Place</cmdname> button at the bottom of
                     that page.</cmd>
             </step>
             <step>
-                <cmd>An "Add Place" pop-up appears, fill it out (see note) and click "OK."</cmd>
+                <cmd>An "Add Place" pop-up appears, fill it out (see note) and click <cmdname>OK</cmdname>.</cmd>
                 <info>The only mandatory field is the place name, though there are many other areas
                     that you can fill out.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A88f0c37f-613a-43d6-b04a-10ad51738a76/datastream/OBJ/view"
@@ -52,7 +52,7 @@
             <step>
                 <cmd>Once you have created a place entry in the CWRC entity repository, you can now
                     add more information about the tag (precision, person type, etc.). Click on
-                        "Save."<image placement="break"
+                    <cmdname>Save</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0bc6abb-6d6a-4c3e-bccf-930bb5c810d8/datastream/OBJ/view"
                         id="image_if3_gm2_lp" align="center" height="4in" width="6in"/></cmd>
             </step>

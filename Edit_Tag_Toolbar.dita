@@ -30,7 +30,7 @@
                         id="image_eyy_hb4_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Click on the "Edit tag" toolbar option.<image placement="break"
+                <cmd>Click on the <cmdname>Edit Tag</cmdname> toolbar option.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A9d059dfc-8508-4d36-86d8-9c7607726aba/datastream/OBJ/view"
                         id="image_jbt_vzx_rp" align="center"/></cmd>
             </step>
@@ -45,9 +45,10 @@
                         id="image_e1w_mb4_jp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
-                <cmd>Click "OK" and all edits made to the tag will be saved.</cmd>
+                <cmd>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</cmd>
             </step>
         </steps>
     </taskbody>
 </task>
+
 <?oxy_options track_changes="on"?>

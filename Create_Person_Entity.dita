@@ -8,7 +8,7 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the text that you would like to tag as a "Person." Click on the
+                <cmd>Highlight the text that you would like to tag as a <cmdname>Person</cmdname>. Click on the
                     toolbar or right-click options (see images below).<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A3adf859a-d833-4a77-9971-f5c25a9b0dbb/datastream/OBJ/view"
                         id="image_t5p_pyw_mp" align="center"/><image placement="break"
@@ -27,7 +27,7 @@
                     that page.</cmd>
             </step>
             <step>
-                <cmd>An "Add Person" pop-up appears, fill it out (see note) and click "OK."</cmd>
+                <cmd>An "Add Person" pop-up appears, fill it out (see note) and click <cmdname>OK</cmdname>.</cmd>
                 <info>The only mandatory field is the "Person Name," though there are many other
                     areas that you can fill out.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A261ca7fa-d5cb-47a1-bc26-554d32b75a00/datastream/OBJ/view"
@@ -36,7 +36,7 @@
             <step>
                 <cmd>Once you have created a person entry in the CWRC entity repository, you can now
                     add more information about the tag (precision, person type, etc.). Click on
-                        "Save."<image placement="break"
+                    <cmdname>Save</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2919b272-4c88-47cf-bf7a-cd0bbf9f5587/datastream/OBJ/view"
                         id="image_flk_5j2_lp" align="center" height="6in" width="4in"/></cmd>
             </step>

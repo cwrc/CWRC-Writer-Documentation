@@ -30,8 +30,8 @@
                         id="image_edm_nln_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Right-click on the tag that contains your cursor and select the option "Edit
-                        Tag."<image placement="break"
+                <cmd>Right-click on the tag that contains your cursor and select the option <cmdname>Edit
+                        Tag</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aebc53953-40d6-4c0f-82c6-6f89e71ee675/datastream/OBJ/view"
                         id="image_wmv_qln_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
@@ -44,9 +44,10 @@
                         id="image_c2h_5ln_jp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
-                <cmd>Click "OK" and all edits made to the tag will be saved.</cmd>
+                <cmd>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</cmd>
             </step>
         </steps>
     </taskbody>
 </task>
+
 <?oxy_options track_changes="on"?>

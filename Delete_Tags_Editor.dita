@@ -28,7 +28,7 @@
                     the tag that you would like to delete in the structure panel. </cmd>
             </step>
             <step>
-                <cmd>Right-click and choose the "Remove Tag" option.<image placement="break"
+                <cmd>Right-click and choose the <cmdname>Remove Tag </cmdname>option.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2192c64d-404e-4340-956d-fb89e112d85e/datastream/OBJ/view"
                         id="image_pjx_jvv_mp" align="center" height="4in" width="6in"/></cmd>
             </step>

@@ -24,16 +24,16 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the "Settings" button on the top right top of the editor.<image
+                <cmd>Click on the <cmdname>Settings</cmdname> button on the top right top of the editor.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A0b3df7bf-2d7f-4b27-b4a7-8f94aca60e48/datastream/OBJ/view"
                         id="image_yxz_vn2_np" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Click on the "Show Tags" check box button and click on "OK." This will show all
+                <cmd>Click on the <cmdname>Show Tags</cmdname> check box button and click on <cmdname>OK</cmdname>. This will show all
                     the XML tags in the document.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d08d783-d6d4-405c-8d2e-893937f5b5f0/datastream/OBJ/view"
-                        id="image_nhg_yn2_np" align="center" height="4in" width="6in"/></cmd>
+                        id="image_nhg_yn2_np" align="center" width="6in" height="6in"/></cmd>
             </step>
         </steps>
     </taskbody>

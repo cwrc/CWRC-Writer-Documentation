@@ -3,8 +3,7 @@
 <task id="task_wsl_1rd_lp">
     <title>Editing entities from the editor</title>
     <shortdesc>You can add qualifying information to the RDF entity annotations added to the
-        document. You can edit the entity annotations within the editor by right-clicking. This
-        information can be edited at any time.</shortdesc>
+        document. This information can be edited at any time.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
@@ -29,9 +28,7 @@
                         id="image_nc2_5rd_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Right-click on the highlighted text and choose the
-                        <cmdname><?oxy_delete author="ilovan" timestamp="20140928T225053-0600" content="&quot;"?>Edit
-                        tag<?oxy_delete author="ilovan" timestamp="20140928T225049-0600" content="&quot;"?></cmdname>
+                <cmd>Right-click on the highlighted text and choose the <cmdname>Edit Tag</cmdname>
                         option.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Abd5ccecc-d405-4d5c-8200-dbe24c325b76/datastream/OBJ/view"
                         id="image_tsd_fxj_rp" align="center" height="4in" width="6in"/></cmd>

@@ -29,17 +29,17 @@
         <prereq>
             <p>Copy a portion of text in CWRC-Writer (see instructions at:)</p>
             <ul id="ul_chw_vsz_dp">
-                <li><xref href="How_to_Copy_and_Paste_text.dita"/></li>
-                <li><xref href="How_copy_paste_multiple_tags.dita"/></li>
+                <li><xref href="Copy_Paste_Text.dita"/></li>
+                <li><xref href="Copy_Paste_Multiple_Tags.dita"/></li>
             </ul>
         </prereq>
         <steps id="steps_o2t_xyg_dp">
             <step>
-                <cmd>Click on the small arrow at the bottom of the CWRCWriter window/frame.</cmd>
-                <stepresult>This will bring up the "Validation" and "Selection" Tabs.</stepresult>
+                <cmd>Click on the small arrow at the bottom of the CWRC-Writer window/frame.</cmd>
+                <stepresult>This will bring up the <cmdname>Validation</cmdname> and <cmdname>Selection</cmdname> Tabs.</stepresult>
             </step>
             <step>
-                <cmd>Click on the "Selection" tab.<image placement="break"
+                <cmd>Click on the <cmdname>Selection</cmdname> tab.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A909a2a26-1c15-443d-a49c-39ce120fd91f/datastream/OBJ/view"
                         id="image_jzc_g3n_jp" align="center" height="4in" width="6in"/></cmd>
             </step>

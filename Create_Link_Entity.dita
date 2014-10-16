@@ -24,12 +24,12 @@
         <steps>
             <step>
                 <cmd>Highlight the text that you would like to tag as a "Link." Click on the toolbar
-                    "Link" icon.<image placement="break"
+                    <cmdname>Link</cmdname> icon.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f12630b-cf83-46a2-b677-c006a25a3a22/datastream/OBJ/view"
                         id="image_zdk_hzw_mp" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Write the link in the text bar, and click "Save."<image placement="break"
+                <cmd>Write the link in the text bar, and click <cmdname>Save</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A0fcd4a87-d926-4faf-b1d3-35f2eea1419c/datastream/OBJ/view"
                         id="image_ec4_rwf_lp" height="4in" align="center" width="6in"/></cmd>
             </step>

@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_sd5_tj2_np">
     <title>Editing the header</title>
-    <shortdesc>You can edit the header...</shortdesc>
+    <shortdesc>You can edit the TEI header in CWRC-Writer.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
@@ -24,14 +24,18 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the "teiHeader" tag in the left structure column.<image
+                <cmd>Click on the <cmdname>teiHeader</cmdname> tag in the left structure column or
+                    the <cmdname>Edit Header</cmdname> option in the top right corner.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A0a87c139-8b92-4c62-92c4-b60cb35dc293/datastream/OBJ/view"
-                        id="image_mcd_rk2_np" align="center" outputclass=""/></cmd>
+                        id="image_mcd_rk2_np" align="center" outputclass=""/><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad00e8540-afb4-427c-b391-043f7afc59a6/datastream/OBJ/view"
+                        id="image_lzk_mv4_tp" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Edit the header in a pop-up that appears. Once you have finished click on the
-                        "OK."<image placement="break"
+                <cmd>Edit the header in a pop-up that appears. Once you have finished click on
+                        <cmdname>OK</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A7d42d64f-27ef-4b54-a089-cc39985f12bc/datastream/OBJ/view"
                         id="image_fvp_5k2_np" align="center" height="4in" width="6in"/></cmd>
             </step>

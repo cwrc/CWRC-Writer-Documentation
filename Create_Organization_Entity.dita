@@ -31,20 +31,20 @@
                         id="image_d3v_hmf_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Try to find the organization that you are tagging in the CWRC or VIAF<image
-                        placement="break"
+                <cmd>Try to find the organization that you are tagging in the CWRC or VIAF
+                        lookups.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A06e37d24-fd47-40ff-a460-69fa77356471/datastream/OBJ/view"
                         id="image_p25_qlf_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to
-                    create your own. To do this click on "Create New Organization" button at the
+                    create your own. To do this click on <cmdname>Create New Organization</cmdname> button at the
                     bottom of that page.</cmd>
             </step>
             <step>
                 <cmd>An "Add Organization" pop-up appears, fill it out (see info) and click
-                    "OK."</cmd>
-                <info>The only mandatory field is the "Organization name," though there are many
+                    <cmdname>OK</cmdname>.</cmd>
+                <info>The only mandatory field is the "Organization Name," though there are many
                     other areas that you can fill out.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb52a4b7-2981-4cc9-9db0-2f5c60bae9f0/datastream/OBJ/view"
                         id="image_wwh_1mf_lp" align="center" height="4in" width="6in"/></info>
@@ -52,7 +52,7 @@
             <step>
                 <cmd>Once you have created an organization entry in the CWRC entity repository, you
                     can now add more information about the tag (precision, etc). Click on
-                        "Save."<image placement="break"
+                    <cmdname>Save</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa7552c88-653f-435b-9661-4773ac60ed88/datastream/OBJ/view"
                         id="image_kn2_cmf_lp" align="center" height="4in" width="6in"/></cmd>
             </step>

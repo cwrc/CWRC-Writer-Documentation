@@ -29,7 +29,7 @@
                         id="image_nn5_zln_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Click on the toolbar option "Remove Tag."<image placement="break"
+                <cmd>Click on the toolbar option <cmdname>Remove Tag</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae818ee88-fa38-4474-bd53-ea9a48ba5af9/datastream/OBJ/view"
                         id="image_mzm_v1y_rp" align="center"/></cmd>
                 <stepresult>This deletes the tag that the text belongs in. The text will remain in
@@ -40,4 +40,5 @@
         </steps>
     </taskbody>
 </task>
+
 <?oxy_options track_changes="on"?>

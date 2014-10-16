@@ -25,19 +25,19 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the "Edit Source" toolbar icon.<image placement="break"
+                <cmd>Click on the <cmdname>Edit Source</cmdname> toolbar icon.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae0c2f2bc-cdae-4eb3-b45c-a5b580da5638/datastream/OBJ/view"
                         id="image_krj_4p2_np" align="center"/></cmd>
             </step>
             <step>
-                <cmd>When you click on the edit source button, a warning pop-up appears. To proceed,
-                    click on "Yes."<image placement="break"
+                <cmd>When you click on the <cmdname>Edit Source</cmdname> button, a warning pop-up appears. To proceed,
+                    click on <cmdname>Yes</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A472acc45-bb36-4558-b573-edfd81463438/datastream/OBJ/view"
                         id="image_jq5_qp2_np" align="center"/></cmd>
             </step>
             <step>
                 <cmd>The edit source pop-up appears, once you have finished editing the code (again,
-                    which we do not recommend), click on the "OK" button.<image placement="break"
+                    which we do not recommend), click on the <cmdname>OK</cmdname> button.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae84758b0-710d-4e32-888c-bf113ca631de/datastream/OBJ/view"
                         id="image_vrb_sp2_np" align="center" height="4in" width="6in"/></cmd>
             </step>

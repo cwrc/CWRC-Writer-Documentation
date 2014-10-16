@@ -29,7 +29,7 @@
                         id="image_cjz_t14_jp" align="center" width="6in" height="4in"/></cmd>
             </step>
             <step>
-                <cmd>Right-click on the tag and select the option "Edit Tag."<image
+                <cmd>Right-click on the tag and select the option <cmdname>Edit Tag</cmdname>.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A53a1d426-5d5c-4f79-a1f0-d3596a6fccc8/datastream/OBJ/view"
                         id="image_qlt_v14_jp" align="center" height="4in" width="6in"/></cmd>
@@ -42,9 +42,10 @@
                         id="image_ztg_y14_jp" align="center" height="4in" width="6in"/></info>
             </step>
             <step>
-                <cmd>Click "OK" and all edits made to the tag will be saved.</cmd>
+                <cmd>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</cmd>
             </step>
         </steps>
     </taskbody>
 </task>
+
 <?oxy_options track_changes="on"?>

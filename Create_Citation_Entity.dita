@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_zl5_kt2_np">
     <title>Creating citation entities</title>
-    <shortdesc>tag citation is for tagging citations in the text, which may contain a loosely
+    <shortdesc>Tag citation is for tagging citations in the text, which may contain a loosely
         structured bibliographic citation of which the subcomponents may or may not be explicitly
         tagged. </shortdesc>
     <prolog product="CWRC-Writer">
@@ -35,7 +35,7 @@
             </step>
             <step>
                 <cmd>A pop-up will appear with a list of titles from the CWRC and VIAF entries.
-                    Choose an option and click on "Select."<image placement="break"
+                    Choose an option and click on <cmdname>Select</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A168eb488-d5fe-42de-bdfe-742dd8e1f127/datastream/OBJ/view"
                         id="image_cqp_pz2_np" align="center" height="4in" width="6in"/></cmd>
             </step>
@@ -55,7 +55,7 @@
                             id="image_kmr_sz2_np" align="center" height="4in" width="6in"/></note></info>
             </step>
             <step>
-                <cmd>Once you have entered the text into the editor, you con begin to tag the
+                <cmd>Once you have entered the text into the editor, you can begin to tag the
                     document. Adding structural tags and entities to the document.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae56cc81e-64d8-4091-8eaf-720318d609a9/datastream/OBJ/view"
@@ -68,7 +68,7 @@
                         id="image_x2x_xz2_np" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Once you have finished creating the citation, click on "Save."<image
+                <cmd>Once you have finished creating the citation, click <cmdname>Select</cmdname>.<image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec2129ec-eee3-4a60-9b83-69e0d9852218/datastream/OBJ/view"
                         id="image_rsw_zz2_np" align="center" height="4in" width="6in"/></cmd>

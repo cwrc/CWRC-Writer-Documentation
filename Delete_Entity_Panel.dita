@@ -2,9 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_njm_c5d_lp">
     <title>Deleting entities from the entities panel</title>
-    <shortdesc>The CWRC-Writer templates come with pre existing entities as examples to new users.
-        You can easily delete these entities or any entities that you don't want in you document or
-        those you have mistakenly added from the entities panel. </shortdesc>
+    <shortdesc>The CWRC-Writer templates comes with pre existing annotated entities as examples to
+        new users. You can easily delete these entities, any entities that you don't want in you
+        document, or those you have mistakenly added from the entities panel. </shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
@@ -25,11 +25,9 @@
         <steps>
             <step>
                 <cmd>Right-click on the entity that you want to delete in the left hand "Entities"
-                    column and choose the "Remove Entity" option. </cmd>
-                <info>Currently, removing an entity from the document deletes the text as
-                        well.<image placement="break"
+                    column and choose the <cmdname>Remove Entity</cmdname> option. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac9b7b30d-6852-4635-b91a-0b913ba19b3a/datastream/OBJ/view"
-                        id="image_pgh_bvd_lp" align="center" height="4in" width="6in"/></info>
+                        id="image_pgh_bvd_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
         </steps>
         <result>This will delete both the entity record in the left column and the entity (with

@@ -20,7 +20,8 @@
         </metadata>
     </prolog>
     <taskbody>
-        <context>You can begin typing text by first selecting a tag in the structure panel. this allows you to make sure in exactly what tag you are writing in. <p></p></context>
+        <context>You can begin typing text by first selecting a tag in the structure panel. This
+            allows you to make sure in exactly what tag you are writing in. <p/></context>
         <steps id="steps_a42_lkc_dp">
             <step>
                 <cmd>In the structure panel, double click (so that the tag is bolded and italicized)
