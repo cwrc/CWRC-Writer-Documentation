@@ -30,18 +30,18 @@
                         id="image_edm_nln_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Right-click on the tag that contains your cursor and select the option <cmdname>Edit
-                        Tag</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aebc53953-40d6-4c0f-82c6-6f89e71ee675/datastream/OBJ/view"
-                        id="image_wmv_qln_jp" align="center" height="4in" width="6in"/></cmd>
+                <cmd>Right-click on the tag that contains your cursor and select the option
+                        <cmdname>Edit Tag</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad63c3930-1011-438d-a7aa-cec27ebaf204/datastream/OBJ/view"
+                        id="image_xf5_x3v_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>A pop-up will appear that allows you to add contextual information to
                     tags.</cmd>
                 <info>The difference in the list of attributes available in the pop-up will depend
                     on the tag that you are editing.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A40511793-7651-41f1-ba05-b6bd51736574/datastream/OBJ/view"
-                        id="image_c2h_5ln_jp" align="center" height="4in" width="6in"/></info>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af937a160-f7be-4d06-ada9-f59eae6b1560/datastream/OBJ/view"
+                        id="image_lwb_bjv_tp" align="center"/></info>
             </step>
             <step>
                 <cmd>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</cmd>

@@ -26,7 +26,7 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the "Add Relation" toolbar icon or the "Add Relation" button at the
+                <cmd>Click on the <cmdname>Add Relation</cmdname> toolbar icon or the <cmdname>Add Relation</cmdname> button at the
                     bottom of the relations column.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa015ae85-e598-48e6-b87f-a8e3df84fce7/datastream/OBJ/view"
                         id="image_gnn_br2_np" align="center"/></cmd>

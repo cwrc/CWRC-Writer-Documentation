@@ -30,14 +30,14 @@
                     use the toolbar icon. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ace6d700d-4480-4ac6-b9cb-a63ff817779e/datastream/OBJ/view"
                         id="image_pxh_bz2_np" align="center" otherprops=""/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa00cc1c7-b345-4bae-93c0-74d90dcc1de6/datastream/OBJ/view"
-                        id="image_pn5_zy2_np" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A67cedea5-dffb-4ae7-bae7-f6e762f23416/datastream/OBJ/view"
+                        id="image_rz4_k4v_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>A pop-up will appear with a list of titles from the CWRC and VIAF entries.
                     Choose an option and click on <cmdname>Select</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A168eb488-d5fe-42de-bdfe-742dd8e1f127/datastream/OBJ/view"
-                        id="image_cqp_pz2_np" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa3eed552-9382-400b-8877-bccd1d0dd6b5/datastream/OBJ/view"
+                        id="image_uny_m4v_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>A mini-editor will pop-up, enter any information that you would like in the
@@ -51,15 +51,16 @@
                         "validate" the citation). The structure and entity panels on the left mimic
                         the structure panel in the editor and displays all the tags you added to the
                         citation in the mini-editor.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa3656a0a-7fed-4359-a26d-094321833d2c/datastream/OBJ/view"
-                            id="image_kmr_sz2_np" align="center" height="4in" width="6in"/></note></info>
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A5282d109-7a53-42f0-aa73-62ad175ccb9f/datastream/OBJ/view"
+                            id="image_lrm_54v_tp" align="center" height="4in" width="6in"
+                    /></note></info>
             </step>
             <step>
                 <cmd>Once you have entered the text into the editor, you can begin to tag the
                     document. Adding structural tags and entities to the document.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae56cc81e-64d8-4091-8eaf-720318d609a9/datastream/OBJ/view"
-                        id="image_av5_vz2_np" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4c9052e7-14fd-4fdb-b37a-d323625cc12f/datastream/OBJ/view"
+                        id="image_k1k_x4v_tp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>If/When you decide to add entities to your citation, you will see a pop-up
@@ -76,8 +77,12 @@
         </steps>
         <result>You have now created a citation in your document. You can see in the image below
             that the note appears in the document, currently the note does not format correctly in
-            CWRC-Writer. <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac262e0c4-9947-4f7f-8b91-f47cf77e4e95/datastream/OBJ/view"
-                id="image_imc_c1f_np" align="center" conref="" height="4in" width="6in"/></result>
+            CWRC-Writer. <p>
+                <image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac262e0c4-9947-4f7f-8b91-f47cf77e4e95/datastream/OBJ/view"
+                    id="image_imc_c1f_np" align="center" conref="" height="4in" width="6in"/>
+            </p><p>The resulting citation looks like this:<image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A9b48883b-28a7-458b-826c-f8a5de7096f0/datastream/OBJ/view"
+                    id="image_egf_r4v_tp" align="center"/></p></result>
     </taskbody>
 </task>

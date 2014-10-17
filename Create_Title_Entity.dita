@@ -27,14 +27,14 @@
                     toolbar or right-click options (see images below).<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A5586d97a-63d3-4432-9b93-5901df64ec24/datastream/OBJ/view"
                         id="image_tzw_qzw_mp" align="center"/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A68073457-1436-4870-9e94-a270cc3e87f0/datastream/OBJ/view"
-                        id="image_wry_xnf_lp" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab586ea3f-9c3b-439f-8049-1fe5ab5b167a/datastream/OBJ/view"
+                        id="image_qhv_dnv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Try to find the text/title you are tagging in the CWRC or VIAF.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A1decdd34-734c-4751-b594-3e2d5e817446/datastream/OBJ/view"
-                        id="image_qty_znf_lp" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6bdf6045-1d11-4263-a4bb-357b12ba54c2/datastream/OBJ/view"
+                        id="image_rtb_bnv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to
@@ -46,15 +46,15 @@
                     <cmdname>OK</cmdname>.</cmd>
                 <info>The only mandatory field is the Title name, though there are many other areas
                     that you can fill out.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae31165cd-cdee-4bbe-b41b-f2fbe536323d/datastream/OBJ/view"
-                        id="image_ofv_d4f_lp" align="center" height="4in" width="6in"/></info>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac9fb39f8-4fc8-482b-b71b-6f4e9080fbab/datastream/OBJ/view"
+                        id="image_yk3_vmv_tp" align="center"/></info>
             </step>
             <step>
                 <cmd>Once you have created an text/title entry in the CWRC entity repository, you
                     can now add more information about the tag (author, date, etc). Click on
-                    <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A48c34ef9-ee36-4fca-99f9-ede2bd263bab/datastream/OBJ/view"
-                        id="image_i4p_f4f_lp" align="center" height="4in" width="6in"/>
+                        <cmdname>Save</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A104284eb-9148-4fea-a5d0-7c0a2575b69d/datastream/OBJ/view"
+                        id="image_oxg_ymv_tp" align="center"/>
                 </cmd>
             </step>
         </steps>

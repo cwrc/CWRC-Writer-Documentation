@@ -29,9 +29,10 @@
                         id="image_zdk_hzw_mp" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Write the link in the text bar, and click <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0fcd4a87-d926-4faf-b1d3-35f2eea1419c/datastream/OBJ/view"
-                        id="image_ec4_rwf_lp" height="4in" align="center" width="6in"/></cmd>
+                <cmd>Write the link in the text bar, and click <cmdname>Save</cmdname>.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac016e312-3768-4bb3-8447-3b18534f44e0/datastream/OBJ/view"
+                        id="image_f3g_snv_tp" align="center"/></cmd>
             </step>
         </steps>
         <result>You have added a link to your document. You can access the link in either the

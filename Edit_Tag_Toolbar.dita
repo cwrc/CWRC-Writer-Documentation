@@ -38,11 +38,9 @@
                 <cmd>A pop-up will appear that allows you to add additional information to
                     tags.</cmd>
                 <info>The different attributes available in the pop-up will depend on the tag that
-                    you are
-                        editing.<?oxy_attributes height="&lt;change type=&quot;modified&quot; oldValue=&quot;3in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T185025-0700&quot; /&gt;" width="&lt;change type=&quot;modified&quot; oldValue=&quot;5in&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141009T185027-0700&quot; /&gt;"?><image
-                        placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A529e65d2-ac93-48cc-9732-447433d213dd/datastream/OBJ/view"
-                        id="image_e1w_mb4_jp" align="center" height="4in" width="6in"/></info>
+                    you are editing.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af937a160-f7be-4d06-ada9-f59eae6b1560/datastream/OBJ/view"
+                        id="image_icc_s3v_tp" align="center"/></info>
             </step>
             <step>
                 <cmd>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</cmd>

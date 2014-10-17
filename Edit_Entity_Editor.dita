@@ -30,14 +30,14 @@
             <step>
                 <cmd>Right-click on the highlighted text and choose the <cmdname>Edit Tag</cmdname>
                         option.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Abd5ccecc-d405-4d5c-8200-dbe24c325b76/datastream/OBJ/view"
-                        id="image_tsd_fxj_rp" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A1bb37020-a0aa-4693-a9dc-a011ff3367bf/datastream/OBJ/view"
+                        id="image_srs_brv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Edit any information in the pop-up you would like and click <cmdname>Save</cmdname>.</cmd>
                 <info>None of the information in the pop-up is required.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A807338fa-4dd2-4be6-bb84-09ea58560e57/datastream/OBJ/view"
-                        id="image_myh_dsd_lp" align="center" height="4in" width="6in"/></info>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9c237543-7aa6-4d03-a0f7-559d929380d9/datastream/OBJ/view"
+                        id="image_bpq_nqv_tp" align="center"/></info>
             </step>
         </steps>
         <result>The edited information will appear in the left "Entities" column. Click on the entry

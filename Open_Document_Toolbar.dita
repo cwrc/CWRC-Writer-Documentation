@@ -39,8 +39,16 @@
         </steps>
         <result>By selecting a document/template from the list in the pop-up a new page will be
             reloaded. <note>If you have not saved your information prior to opening a different
-                document you will lose any changes that you have made. </note></result>
+                document you will lose any changes that you have made. </note><p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="CWRCWriter_Login_Instructions.dita"/></lines>
+                <lines><xref href="Open_Document_Menu.dita"/></lines>
+                <lines><xref href="Save_Document.dita"/></lines>
+                <lines><xref href="Validate_Document.dita"/></lines>
+                <lines><xref href="Toolbar.dita"/></lines>
+            </p></result>
     </taskbody>
 </task>
+
 
 <?oxy_options track_changes="on"?>

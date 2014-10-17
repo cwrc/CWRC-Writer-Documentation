@@ -43,10 +43,18 @@
 Password: cwrcy</lines><image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view"
-                        id="image_x1g_jsm_jp" align="center"/></info>
+                        id="image_x1g_jsm_jp" align="center"/>
+                    <p>
+                        <lines><b>Related Links:</b></lines>
+                        <lines><xref href="Open_Document_Menu.dita"/></lines>
+                        <lines><xref href="Open_Document_Toolbar.dita"/></lines>
+                        <lines><xref href="Save_Document.dita"/></lines>
+                    </p></info>
             </step>
         </steps>
+
     </taskbody>
 </task>
+
 
 <?oxy_options track_changes="on"?>

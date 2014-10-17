@@ -36,8 +36,14 @@
             <step>
                 <cmd>Edit the header in a pop-up that appears. Once you have finished click on
                         <cmdname>OK</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A7d42d64f-27ef-4b54-a089-cc39985f12bc/datastream/OBJ/view"
-                        id="image_fvp_5k2_np" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A65d76669-7696-44e9-a504-d91d4a1b240d/datastream/OBJ/view"
+                        id="image_vzq_5bv_tp" align="center"/></cmd>
+                <info>      <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Save_Document.dita"></xref></lines>
+                    <lines><xref href="Validate_Document.dita"></xref></lines>
+                    <lines><xref href="Edit_Source.dita"></xref></lines>
+                </p></info>
             </step>
         </steps>
     </taskbody>

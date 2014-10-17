@@ -31,8 +31,8 @@
                         id="image_n4q_qxw_mp" align="center"/></cmd>
                 <stepresult>If the document is invalid a pop-up appears with error messages.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6f57d522-eaeb-4c57-a0a6-a568e07095b4/datastream/OBJ/view"
-                        id="image_kkp_dg2_lp" align="center" height="4in" width="6in"/></stepresult>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A0af0261a-a586-4bc6-b4f3-e0192cf88f86/datastream/OBJ/view"
+                        id="image_ws3_bcv_tp" align="center"/></stepresult>
             </step>
             <step>
                 <cmd>Click on one of the errors, this will highlight the error in the document. You
@@ -40,9 +40,11 @@
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aaaf8620d-af69-488b-b3f5-0a1cd9f72d42/datastream/OBJ/view"
                         id="image_uxy_fg2_lp" align="center" height="4in" width="6in"/></cmd>
                 <info>You can still save the document if it is invalid, but a pop-up will appear
-                    making sure that you want to proceed.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3e045c75-dd10-46b6-a318-e1b3572c156e/datastream/OBJ/view"
-                        id="image_kyh_3g2_lp" align="center" height="4in" width="6in"/></info>
+                    making sure that you want to
+                        proceed.<?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141016T125107-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141016T125110-0700&quot; /&gt;"?><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9f75316d-ee4c-47cb-80ad-4a54e646dc81/datastream/OBJ/view"
+                        id="image_u5r_2cv_tp" align="center"/></info>
             </step>
             <step>
                 <cmd>Validate again.</cmd>
@@ -50,8 +52,20 @@
         </steps>
         <result>If you fixed all the validation errors, you should receive a confirmation
                 message.<image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A8639d9f5-435d-45b6-8352-054f79516bfa/datastream/OBJ/view"
-                id="image_yyj_3f2_lp" align="center" height="4in" width="6in"/></result>
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa8685a26-4017-401d-869a-d21d09dd9be6/datastream/OBJ/view"
+                id="image_tdf_jcv_tp" align="center"/>      
+            <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Write_Editor.dita"></xref></lines>
+                    <lines><xref href="Write_Text_Area.dita"></xref></lines> 
+                    <lines><xref href="Delete_Text_Structure.dita"></xref></lines>
+                    <lines><xref href="Save_Document.dita"></xref></lines>
+                    <lines><xref href="Switch_Mode.dita"></xref></lines>
+                    <lines><xref href="Edit_Source.dita"></xref></lines>
+                    <lines><xref href="Edit_Header.dita"></xref></lines>
+                    <lines><xref href="Toolbar.dita"></xref></lines>
+                </p></result>
     </taskbody>
 </task>
+
 <?oxy_options track_changes="on"?>

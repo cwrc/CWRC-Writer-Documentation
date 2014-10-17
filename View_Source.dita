@@ -33,6 +33,12 @@
                     click on the <cmdname>OK</cmdname> button.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab44e2f3a-5270-4e44-aa55-d670084b4bba/datastream/OBJ/view"
                         id="image_bvq_s42_np" align="center" height="4in" width="6in"/></cmd>
+                <info>      
+                    <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Edit_Source.dita"></xref></lines>
+                    <lines><xref href="Toolbar.dita"></xref></lines>
+                </p></info>
             </step>
         </steps>
     </taskbody>

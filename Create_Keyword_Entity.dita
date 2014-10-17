@@ -29,9 +29,10 @@
                         id="image_jsy_dzw_mp" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Write the keyword in the text bar, and click <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Adba68d44-4093-4e91-8027-ac3ff5047707/datastream/OBJ/view"
-                        id="image_o5q_jxf_lp" align="center" height="4in" width="6in"/></cmd>
+                <cmd>Write the keyword in the text bar, and click <cmdname>Save</cmdname>.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac80a0b7c-6fd3-4fe0-b80e-c0d59fe909fd/datastream/OBJ/view"
+                        id="image_n1t_pnv_tp" align="center"/></cmd>
             </step>
         </steps>
     </taskbody>

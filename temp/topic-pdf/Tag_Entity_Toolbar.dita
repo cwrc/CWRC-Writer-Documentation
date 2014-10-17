@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/topic-pdf?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/topic-pdf/?><?path2project?><?path2project-uri ./?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_u32_dmd_lp" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="title:1;4:12">Tagging entities from the toolbar</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="shortdesc:1;5:16">CWRC-Writer allows you to add RDF entities to your document. You can add these tags
+        from the toolbar using icon buttons. When you add RDF entities to the document you are also
+        adding a corresponding XML tag to the document.</shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="prolog:1;8:35">
+        <author class="- topic/author " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="author:1;9:17">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="copyright:1;10:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="copyryear:1;11:36"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="copyrholder:1;12:26">Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="critdates:1;14:20">
+            <created date="2014-09-15" class="- topic/created " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="created:1;15:41"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T144314-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21" class="- topic/revised " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="revised:1;17:45"/>
+        </critdates>
+        <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="metadata:1;19:41">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="audience:1;20:41"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="audience:2;21:45"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="taskbody:1;24:15">
+        <steps class="- topic/ol task/steps " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="steps:1;25:16">
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="step:1;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="cmd:1;27:22">Highlight the text that you would like to tag as a particular entity.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="info:1;28:23">Currently, the events tag is not fully functional.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Aec16d767-e70f-4d00-b354-9d75887eab85/datastream/OBJ/view" id="image_rhf_t4d_lp" align="center" height="4in" width="6in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="image:1;30:88"/></info>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="step:2;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="cmd:2;33:22">Click on the entity toolbar button that you are adding to the document. In this
+                    case we are adding a "Person" tag to the sample letter document.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3adf859a-d833-4a77-9971-f5c25a9b0dbb/datastream/OBJ/view" id="image_efj_swt_tp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="image:2;37:63"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="step:3;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="cmd:3;40:22">Choose CWRC, VIAF, GeoNames (depending on what entity you are tagging) entry
+                    and click on <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="cmdname:1;41:43">Select</cmdname>.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="info:2;42:23">The editor is now hooked up to the CWRC entity system. Lookup of all named
+                    entities (e.g. persons, organizations, places, and titles) from within CWRC is
+                    now available, as well as lookup in authoritative linked data sources. The
+                    external VIAF list of authorities, produced from national and major research
+                    libraries around the world, is used to link persons, organizations and titles,
+                    while GeoNames is employed in a similar capacity for place entities.<note class="- topic/note " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="note:1;47:95">You
+                        can also create a new entry in the CWRC system, this will be covered in
+                        alternate help pages.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0110e56b-b891-46ba-a9d2-4a9049c1d15d/datastream/OBJ/view" id="image_bdr_bwv_tp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="image:3;51:67"/></note></info>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="step:4;53:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="cmd:4;54:22">Add any qualifying information to the entity (Precision, identification, etc.)
+                    and click <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="cmdname:2;55:40">Save</cmdname>.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="info:3;56:23">The option that show up on this pop-up depends on what entity is being
+                        tagged.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A3dcee72b-8794-4eaa-9df9-d32fbab6979e/datastream/OBJ/view" id="image_sz4_zvv_tp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="image:4;59:63"/></info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="result:1;62:17">The entity that you have added to your document (along with any additional
+            information you have assigned to the entity) will appear in the entities column on the
+            left side of the CWRC-Writer.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A00802484-b576-4993-a65d-beb58164e5ed/datastream/OBJ/view" id="image_mwq_fpd_lp" align="center" height="4in" width="6in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Entity_Toolbar.dita" xtrc="image:5;66:80"/></result>
+    </taskbody>
+</task>

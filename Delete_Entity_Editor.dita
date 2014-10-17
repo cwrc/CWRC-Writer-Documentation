@@ -33,9 +33,11 @@
             </step>
             <step>
                 <cmd>Right-click on the highlighted text and choose the <cmdname>Remove
-                        Tag</cmdname> option.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa18805e2-2e30-45cb-8b49-bd77094ca170/datastream/OBJ/view"
-                        id="image_qtk_qxd_lp" align="center" height="4in" width="6in"/></cmd>
+                        Tag</cmdname>
+                        option.<?oxy_attributes align="&lt;change type=&quot;inserted&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141016T143122-0700&quot; /&gt;" placement="&lt;change type=&quot;modified&quot; oldValue=&quot;inline&quot; author=&quot;megansellmer&quot; timestamp=&quot;20141016T143124-0700&quot; /&gt;"?><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A1e39bd8c-3a80-4022-a8e4-f7261beda294/datastream/OBJ/view"
+                        id="image_ek5_3pv_tp" align="center"/></cmd>
             </step>
         </steps>
         <result>

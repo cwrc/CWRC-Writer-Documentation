@@ -8,18 +8,19 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the text that you would like to tag as a <cmdname>Person</cmdname>. Click on the
-                    toolbar or right-click options (see images below).<image placement="break"
+                <cmd>Highlight the text that you would like to tag as a <cmdname>Person</cmdname>.
+                    Click on the toolbar or right-click options (see images below).<image
+                        placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A3adf859a-d833-4a77-9971-f5c25a9b0dbb/datastream/OBJ/view"
                         id="image_t5p_pyw_mp" align="center"/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae47ef893-e38a-476e-9445-d9806760d574/datastream/OBJ/view"
-                        id="image_pd3_h32_lp" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afe617d28-e61f-484c-91cf-9788eb21517a/datastream/OBJ/view"
+                        id="image_tkx_blv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Try to find the person you are tagging in the CWRC or VIAL.<image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac8e50df6-6d71-4841-a8a1-363e11fcc3ac/datastream/OBJ/view"
-                        id="image_ncs_z32_lp" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Af2b3f9bf-bee4-41d9-9c94-305cc85d3636/datastream/OBJ/view"
+                        id="image_mdk_2lv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to

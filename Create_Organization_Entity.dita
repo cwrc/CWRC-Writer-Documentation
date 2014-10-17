@@ -27,14 +27,14 @@
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Adfbfd893-2a61-41a7-b1c5-0f841ed474bc/datastream/OBJ/view"
                         id="image_qls_syw_mp" align="center"/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac948fc3f-4594-4ba3-9ef0-c5b7754d5d88/datastream/OBJ/view"
-                        id="image_d3v_hmf_lp" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aff90e67b-0bb8-4095-8dd8-442964f625c3/datastream/OBJ/view"
+                        id="image_od3_mmv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Try to find the organization that you are tagging in the CWRC or VIAF
                         lookups.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A06e37d24-fd47-40ff-a460-69fa77356471/datastream/OBJ/view"
-                        id="image_p25_qlf_lp" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A1b6f2132-f715-4d5a-88af-db501f7c56a8/datastream/OBJ/view"
+                        id="image_hbz_nmv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>If your entry is not in the CWRC entity lookup system you have the option to
@@ -46,15 +46,15 @@
                     <cmdname>OK</cmdname>.</cmd>
                 <info>The only mandatory field is the "Organization Name," though there are many
                     other areas that you can fill out.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb52a4b7-2981-4cc9-9db0-2f5c60bae9f0/datastream/OBJ/view"
-                        id="image_wwh_1mf_lp" align="center" height="4in" width="6in"/></info>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8f402ba3-c0cc-404d-b661-2a37af2cde8b/datastream/OBJ/view"
+                        id="image_ozw_pmv_tp" align="center"/></info>
             </step>
             <step>
                 <cmd>Once you have created an organization entry in the CWRC entity repository, you
                     can now add more information about the tag (precision, etc). Click on
-                    <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa7552c88-653f-435b-9661-4773ac60ed88/datastream/OBJ/view"
-                        id="image_kn2_cmf_lp" align="center" height="4in" width="6in"/></cmd>
+                        <cmdname>Save</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A72cd5b3a-2908-427c-a680-b1cc61e80f2b/datastream/OBJ/view"
+                        id="image_zn4_rmv_tp" align="center"/></cmd>
             </step>
         </steps>
         <result>You have now created a new CWRC entity entry, you can use this creation the next

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/topic-pdf?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/topic-pdf/?><?path2project?><?path2project-uri ./?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_d22_zcl_jp" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="title:1;4:12">Adding structural tags in the structural panel</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="shortdesc:1;5:16">In each document that you enter there is a pre-existing XML template that contains
+        the basic tags necessary for that type document. You can add new structural tags to the
+        document easily. </shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="prolog:1;8:35">
+        <author class="- topic/author " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="author:1;9:17">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="copyright:1;10:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="copyryear:1;11:37"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="copyrholder:1;12:26">Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="critdates:1;15:20">
+            <created date="2014-09-09" class="- topic/created " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="created:1;16:41"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T143127-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21" class="- topic/revised " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="revised:1;18:45"/>
+        </critdates>
+        <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="metadata:1;20:41">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="audience:1;21:42"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="audience:2;22:46"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="taskbody:1;25:15">
+        <steps class="- topic/ol task/steps " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="steps:1;26:16">
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="step:1;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmd:1;28:22">Select a tag in the structural panel and right click. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A23435fcd-d197-47d5-9e99-47d31dcd4026/datastream/OBJ/view" id="image_tsq_tkn_jp" align="center" height="4in" width="6in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="image:1;30:88"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="step:2;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmd:2;33:22">This will bring up a menu with three options that allow you to insert a
+                    tag.</cmd>
+                <choices id="choices_vyw_d12_lp" class="- topic/ul task/choices " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="choices:1;35:50">
+                    <choice class="- topic/li task/choice " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="choice:1;36:29"><cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmdname:1;36:38">Insert Tag Before</cmdname> allows you to insert a tag before
+                        the tag you have right clicked on.</choice>
+                    <choice class="- topic/li task/choice " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="choice:2;38:29"><cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmdname:2;38:38">Insert Tag After</cmdname> allows you to insert a tag after the
+                        tag you have right-clicked on (skipping over any nested tags within the tag
+                        you have clicked on).</choice>
+                    <choice class="- topic/li task/choice " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="choice:3;41:29"><cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmdname:3;41:38">Insert Tag Inside</cmdname> this will insert a new tag nested
+                        within the initial tag yo clicked on.</choice>
+                </choices>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="step:3;45:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmd:3;46:22">Once you have selected one of the <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmdname:4;46:65">Insert</cmdname> options, choose a
+                    tag from the list that appears. <image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Afa5ad5d6-5e18-4314-be5b-c31e29cde905/datastream/OBJ/view" id="image_rjt_zhv_tp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="image:2;49:63"/></cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="info:1;50:23">The tags that you can select, under each <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmdname:5;50:73">Insert</cmdname> option, are limited to tags
+                    that are allowed (according to the schema).</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="step:4;53:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmd:4;54:22">Once you select the tag you would like to add to the structure panel a pop-up
+                    appear that allows you to add qualifying information to the tag. Once you have
+                    finished, click on <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmdname:6;56:49">OK</cmdname>.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="info:2;57:23">You do not have to enter any additional information if you don't want to. You
+                    can just press <cmdname class="+ topic/keyword sw-d/cmdname " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="cmdname:7;58:45">OK</cmdname> as soon as you see this pop-up.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A8974376d-d9cd-4bfd-865c-0bf2a34b5cf8/datastream/OBJ/view" id="image_p4v_vhv_tp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="image:3;61:63"/></info>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="result:1;64:17">You have now added a new structure tag.</result>
+        <example class="- topic/example " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="example:1;65:18">In the image below you can see we have added a new "time" tag in the document
+            structure, by following the above steps.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab088f060-527c-4f90-8092-555708dfdf7c/datastream/OBJ/view" id="image_f3l_hln_jp" align="center" width="6in" height="4in" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/Tag_Structural.dita" xtrc="image:4;68:80"/></example>
+    </taskbody>
+</task><?oxy_options track_changes="on"?>

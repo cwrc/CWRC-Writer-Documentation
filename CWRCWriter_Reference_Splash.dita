@@ -7,7 +7,7 @@
   <refbody>
     <section>
       <title>Introduction to reference materials</title>
-      <p>The reference materials available explain, in detail, components of CWRC_Writer. For
+      <p>The reference materials available explain, in detail, components of CWRC-Writer. For
         example, you can use the documents linked to below, to understand how the three columns on
         the left work, or which right-click menus are available in each section of the editor.<image
           placement="break"
@@ -18,10 +18,7 @@
       <lines><xref href="Navigation_Columns.dita"/></lines>
       <lines><xref href="Toolbar.dita"/></lines>
       <lines><xref href="CWRC_Entity_System.dita"/></lines>
-      <lines><xref href="Right_Click_Text.dita"></xref></lines>
-      <lines><xref href="Right_Click_Structure.dita"></xref></lines>
-      <lines><xref href="Right_Click_Entity.dita"></xref></lines>
-      <lines><xref href="Right_Click_Relations.dita"></xref></lines>
+      <lines><xref href="Right_Click_Menu.dita"></xref></lines>
     </section>
   </refbody>
 </reference>

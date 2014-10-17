@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/topic-pdf?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/topic-pdf/?><?path2project?><?path2project-uri ./?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_dcg_fjb_dp" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)   " class="- topic/topic task/task " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="title:1;4:12">Logging in to CWRC-Writer</title>
+    <shortdesc class="- topic/shortdesc " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="shortdesc:1;5:16">CWRC-Writer has a simple and straight forward process to login that requires a user
+        name and
+        password<?oxy_insert_start author="megansellmer" timestamp="20140909T085645-0700"?>.<?oxy_insert_end?></shortdesc>
+    <prolog product="CWRC-Writer" class="- topic/prolog " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="prolog:1;8:35">
+        <author class="- topic/author " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="author:1;9:17">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="copyright:1;10:20">
+            <copyryear year="2014" class="- topic/copyryear " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="copyryear:1;11:37"/>
+            <copyrholder class="- topic/copyrholder " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="copyrholder:1;12:26">Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="critdates:1;15:20">
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created date="2014-08-16" class="- topic/created " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="created:1;17:41"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised modified="2014-09-21" class="- topic/revised " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="revised:1;19:45"/>
+        </critdates>
+        <metadata product="stand-alone" class="- topic/metadata " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="metadata:1;21:41">
+            <audience audience="novice" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="audience:1;22:42"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="audience:2;23:46"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="taskbody:1;26:15">
+        <context class="- topic/section task/context " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="context:1;27:18">
+            <p class="- topic/p " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="p:1;28:16">These instructions are for the standalone version of CWRC-Writer. If you would like
+                to test CWCR-Writer, please contact us at cwrc@ualberta.ca</p>
+        </context>
+        <prereq class="- topic/section task/prereq " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="prereq:1;31:17">CWRC-Writer is only optimized for FireFox or Google Chrome browsers. Please open
+            CWRC-Writer in either of the options only. </prereq>
+        <steps id="steps_a53_vjb_dp" class="- topic/ol task/steps " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="steps:1;33:38">
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="step:1;34:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="cmd:1;35:22">Open the CWRC-Writer URL in your browser: <xref href="http://apps.testing.cwrc.ca/editor/test/index.htm" format="html" scope="external" class="- topic/xref " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="xref:1;37:43"><?ditaot gentext?>http://apps.testing.cwrc.ca/editor/test/index.htm</xref></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="step:2;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="cmd:2;40:22">Enter your user name and password in the pop-up login box. </cmd>
+                <info class="- topic/itemgroup task/info " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="info:1;41:23">For the testing version of CWRC-Writer everyone has the same login
+                    information. <lines xml:space="preserve" class="- topic/lines " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="lines:1;42:41">User name: cwrc
+Password: cwrcy</lines><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view" id="image_x1g_jsm_jp" align="center" class="- topic/image " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="image:1;46:63"/>
+                    <p class="- topic/p " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="p:2;47:24">
+                        <lines xml:space="preserve" class="- topic/lines " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="lines:2;48:32"><b class="+ topic/ph hi-d/b " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="b:1;48:35">Related Links:</b></lines>
+                        <lines xml:space="preserve" class="- topic/lines " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="lines:3;49:32"><xref href="Open_Document_Menu.dita" class="- topic/xref " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="xref:2;49:70" type="task"><?ditaot gentext?>Open a document or template from the landing page<?ditaot genshortdesc?><desc class="- topic/desc ">In the start-up menu of         CWRC-Writer<?oxy_insert_start author="megansellmer" timestamp="20140909T085731-0700"?>,<?oxy_insert_end?>         users can choose one of the templates available when starting to work in CWRC-Writer. </desc></xref></lines>
+                        <lines xml:space="preserve" class="- topic/lines " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="lines:4;50:32"><xref href="Open_Document_Toolbar.dita" class="- topic/xref " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="xref:3;50:73" type="task"><?ditaot gentext?>Open a document or template from toolbar<?ditaot genshortdesc?><desc class="- topic/desc ">If a document/template is already open you can switch to or open another         document/template at any time.</desc></xref></lines>
+                        <lines xml:space="preserve" class="- topic/lines " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="lines:5;51:32"><xref href="Save_Document.dita" class="- topic/xref " xtrf="/Users/megansellmer/Desktop/GitHub/CWRCWriter_Login_Instructions.dita" xtrc="xref:4;51:65" type="task"><?ditaot gentext?>Saving your document<?ditaot genshortdesc?><desc class="- topic/desc ">CWRC-Writer allows you to save documents you have created on our server as temporary         test files to work with. At the moment, however, we do not have individual authentication         setup for each user, so it's best if you do not play with each other's files: this way each         tester can have his/her own files to alter, add to, and so forth.</desc></xref></lines>
+                    </p></info>
+            </step>
+        </steps>
+
+    </taskbody>
+</task><?oxy_options track_changes="on"?>

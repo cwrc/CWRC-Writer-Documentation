@@ -39,6 +39,14 @@
         <result>This will remove the content from this tag, but it will leave the tag in the
             document. <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A637bc5d3-d8d4-4088-af51-5d5d0f7d54b2/datastream/OBJ/view"
-                id="image_lzk_gv5_mp" align="center" height="4in" width="6in"/></result>
+                id="image_lzk_gv5_mp" align="center" height="4in" width="6in"/>      
+            <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Write_Editor.dita"></xref></lines>
+                    <lines><xref href="Write_Text_Area.dita"></xref></lines>
+                    <lines><xref href="Save_Document.dita"></xref></lines>
+                    <lines><xref href="Validate_Document.dita"></xref></lines>
+                    <lines><xref href="Copy_Paste_Text.dita"/></lines>
+                </p></result>
     </taskbody>
 </task>

@@ -29,12 +29,12 @@
                 <cmd>Highlight the text that you would like to add a note to.</cmd>
             </step>
             <step>
-                <cmd>Click on the toolbar icon "Tag Note" or right-click on the text and choose <cmdname>Tag Note</cmdname>.
-                    <image placement="break"
+                <cmd>Click on the toolbar icon "Tag Note" or right-click on the text and choose
+                        <cmdname>Tag Note</cmdname>. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Add38d995-c0cc-49ad-a750-a32eb9eb4558/datastream/OBJ/view"
                         id="image_zdy_yv2_np" align="center"/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ada3d8ef4-4e90-4fe8-88b1-606503fa4baf/datastream/OBJ/view"
-                        id="image_rcq_fw2_np" align="center" height="4in" width="6in"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac2c9d410-afb8-4a05-b0c0-d7969685505a/datastream/OBJ/view"
+                        id="image_mwy_b4v_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>A mini-editor will pop-up, enter any information that you would like in the
@@ -48,8 +48,9 @@
                         "validate" the note). The structure and entity panels on the left mimic the
                         structure panel in the editor and displays all the tags you added to the
                         note in the mini-editor.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A6b48c88c-cf40-447b-9774-f30313d76c46/datastream/OBJ/view"
-                            id="image_k2l_fx2_np" align="center" height="4in" width="6in"/></note></info>
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab5a17ed9-0790-4e4a-b7f9-dabc68e7caf3/datastream/OBJ/view"
+                            id="image_vbk_24v_tp" align="center" height="4in" width="6in"
+                    /></note></info>
             </step>
             <step>
                 <cmd>Once you have entered the text into the editor, you can begin to tag the

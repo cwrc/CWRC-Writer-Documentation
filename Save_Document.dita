@@ -42,8 +42,20 @@
                     saved.</cmd>
                 <info>If the document is not valid, a pop-up will appear and you will be asked if
                     you would like to save anyway.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Abb50cf30-fc31-49ef-8c06-791e18639f70/datastream/OBJ/view"
-                        id="image_ehb_122_lp" align="center" height="6in" width="4in"/></info>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad9900eb9-2f1b-424e-92a7-80835d54b5e3/datastream/OBJ/view"
+                        id="image_grf_dbv_tp" align="center" height="5in" width="5in"/> <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Open_Document_Menu.dita"></xref></lines>
+                    <lines><xref href="Open_Document_Toolbar.dita"></xref></lines>
+                    <lines><xref href="Write_Editor.dita"></xref></lines>
+                    <lines><xref href="Write_Text_Area.dita"></xref></lines> 
+                    <lines><xref href="Delete_Text_Structure.dita"></xref></lines>
+                    <lines><xref href="Validate_Document.dita"></xref></lines>
+                    <lines><xref href="Switch_Mode.dita"></xref></lines>
+                    <lines><xref href="Edit_Source.dita"></xref></lines>
+                    <lines><xref href="Edit_Header.dita"></xref></lines>
+                    <lines><xref href="Toolbar.dita"/></lines>
+                </p></info>
             </step>
         </steps>
     </taskbody>

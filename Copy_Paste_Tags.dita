@@ -37,8 +37,17 @@
             <step>
                 <cmd>With the tag you selected highlighted, use your keyboard shortcut to paste in
                     the copied text. </cmd>
+                <info>      
+                    <p>
+                        <lines><b>Related Links:</b></lines>
+                        <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
+                        <lines><xref href="Copy_Paste_Multiple_Tags.dita"/></lines>
+                        <lines><xref href="Copy_Paste_Tags.dita"/></lines>
+                        <lines><xref href="Copy_Paste_Entity.dita"/></lines>
+                    </p></info>
             </step>
         </steps>
     </taskbody>
 </task>
+
 <?oxy_options track_changes="on"?>

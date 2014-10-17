@@ -40,6 +40,15 @@
                     which we do not recommend), click on the <cmdname>OK</cmdname> button.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae84758b0-710d-4e32-888c-bf113ca631de/datastream/OBJ/view"
                         id="image_vrb_sp2_np" align="center" height="4in" width="6in"/></cmd>
+                <info>      
+                    <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="View_Source.dita"></xref></lines>
+                    <lines><xref href="Save_Document.dita"></xref></lines>
+                    <lines><xref href="Validate_Document.dita"></xref></lines>
+                    <lines><xref href="Edit_Header.dita"></xref></lines>
+                    <lines><xref href="Toolbar.dita"></xref></lines>
+                </p></info>
             </step>
         </steps>
     </taskbody>

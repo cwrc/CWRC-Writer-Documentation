@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/megansellmer/Desktop/GitHub/temp/topic-pdf?><?workdir-uri file:/Users/megansellmer/Desktop/GitHub/temp/topic-pdf/?><?path2project?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " id="task_rzm_jl2_np" xtrc="task:1;3:28" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">Switching modes</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">There is an option to change the different editor modes for your document. Editor
+        modes control what tagging will be allowed in your document (a combination of XML and
+        RDF).</shortdesc>
+    <prolog class="- topic/prolog " product="CWRC-Writer" xtrc="prolog:1;8:35" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+        <author class="- topic/author " xtrc="author:1;9:17" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">Megan Sellmer</author>
+        <copyright class="- topic/copyright " xtrc="copyright:1;10:20" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;11:37" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita" year="2014"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;12:26" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrc="critdates:1;15:20" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+            <?oxy_attributes date="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-17&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140909T164209-0700&quot; /&gt;"?>
+            <created class="- topic/created " date="2014-09-21" xtrc="created:1;17:41" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"/>
+            <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
+            <revised class="- topic/revised " modified="2014-09-21" xtrc="revised:1;19:45" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"/>
+        </critdates>
+        <metadata class="- topic/metadata " product="stand-alone" xtrc="metadata:1;21:41" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+            <audience audience="novice" class="- topic/audience " xtrc="audience:1;22:42" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"/>
+            <audience audience="CWRCMember" class="- topic/audience " xtrc="audience:2;23:46" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"/>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;26:15" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+        <steps class="- topic/ol task/steps " xtrc="steps:1;27:16" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+            <step class="- topic/li task/step " xtrc="step:1;28:19" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;29:22" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">Click on the <cmdname class="+ topic/keyword sw-d/cmdname " xtrc="cmdname:1;29:44" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">Settings</cmdname> button on the top right top of the editor<image align="center" class="- topic/image " href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad00e8540-afb4-427c-b391-043f7afc59a6/datastream/OBJ/view" id="image_mpb_zm2_np" placement="break" xtrc="image:1;32:63" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;34:19" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;35:22" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">Select your preferred editor mode from the drop-down menu and click on <cmdname class="+ topic/keyword sw-d/cmdname " xtrc="cmdname:2;35:102" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">OK</cmdname>.
+                    This will change the editor mode for your document. There are three editor modes
+                    in CWRC-Writer, based on the treatment of overlap.</cmd>
+                <choices class="- topic/ul task/choices " id="choices_ygm_sl2_np" xtrc="choices:1;38:50" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+                    <choice class="- topic/li task/choice " xtrc="choice:1;39:29" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">XML only (no overlap)</choice>
+                    <choice class="- topic/li task/choice " xtrc="choice:2;40:29" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">XML and RDF (no overlap)</choice>
+                    <choice class="- topic/li task/choice " xtrc="choice:3;41:29" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">XML and RDF (overlapping entities) </choice>
+                </choices>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;43:23" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">The default mode is XML and RDF - no overlap. If you wish to switch between
+                    the three options, go to "Settings" (in the top right corner), choose the option
+                    you would like to work with, click on <cmdname class="+ topic/keyword sw-d/cmdname " xtrc="cmdname:3;45:68" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">OK</cmdname> and begin to work with your
+                        document.<note class="- topic/note " xtrc="note:1;46:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">If you have overlapping tags in your document, you cannot
+                        switch to one of the other two modes.<image align="center" class="- topic/image " href="http://beta.cwrc.ca/islandora/object/cwrc%3A2021eabe-1e1d-42fb-b178-d4b4ad850470/datastream/OBJ/view" id="image_lyq_4m2_np" placement="break" xtrc="image:2;49:67" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"/></note>      
+                    <p class="- topic/p " xtrc="p:1;50:24" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">
+                                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:1;51:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;51:43" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita">Related Links:</b></lines>
+                                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:2;52:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"><xref class="- topic/xref " href="Save_Document.dita" xtrc="xref:1;52:72" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita" type="task"><?ditaot gentext?>Saving your document<?ditaot genshortdesc?><desc class="- topic/desc ">CWRC-Writer allows you to save documents you have created on our server as temporary         test files to work with. At the moment, however, we do not have individual authentication         setup for each user, so it's best if you do not play with each other's files: this way each         tester can have his/her own files to alter, add to, and so forth.</desc></xref></lines>
+                                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:3;53:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"><xref class="- topic/xref " href="Validate_Document.dita" xtrc="xref:2;53:76" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita" type="task"><?ditaot gentext?>Validating your document<?ditaot genshortdesc?><desc class="- topic/desc ">The validation of your XML document against the associated schema. If your document         is invalid a  list of errors found in the document will appear at the bottom of the         page.</desc></xref></lines>
+                                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:4;54:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"><xref class="- topic/xref " href="Switch_Mode.dita" xtrc="xref:3;54:70" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita" type="task"><?ditaot gentext?>Switching modes<?ditaot genshortdesc?><desc class="- topic/desc ">There is an option to change the different editor modes for your document. Editor         modes control what tagging will be allowed in your document (a combination of XML and         RDF).</desc></xref></lines>
+                                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:5;55:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"><xref class="- topic/xref " href="Show_Tags.dita" xtrc="xref:4;55:68" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita" type="task"><?ditaot gentext?>Showing tags in editor<?ditaot genshortdesc?><desc class="- topic/desc ">Show tags allows you to view all the XML tags in the document. </desc></xref></lines>
+                                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:6;56:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"><xref class="- topic/xref " href="Tag_Structure_CWRCWriter.ditamap" xtrc="xref:5;56:86" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"/></lines>
+                                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:7;57:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"><xref class="- topic/xref " href="Tag_Entity_CWRCWriter.ditamap" xtrc="xref:6;57:83" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"/></lines>
+                                <lines class="- topic/lines " xml:space="preserve" xtrc="lines:8;58:40" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita"><xref class="- topic/xref " href="Edit_Header.dita" xtrc="xref:7;58:70" xtrf="/Users/megansellmer/Desktop/GitHub/Switch_Mode.dita" type="task"><?ditaot gentext?>Editing the header<?ditaot genshortdesc?><desc class="- topic/desc ">You can edit the TEI header in CWRC-Writer.</desc></xref></lines>
+                            </p></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

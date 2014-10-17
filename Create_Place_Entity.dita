@@ -23,13 +23,13 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the text that you would like to tag as a <cmdname>Place</cmdname>. Click on the
-                    toolbar or right-click options (see image below).<image placement="break"
+                <cmd>Highlight the text that you would like to tag as a <cmdname>Place</cmdname>.
+                    Click on the toolbar or right-click options (see image below).<image
+                        placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae28153a3-d5b1-42ca-ad06-889c98c8ba0d/datastream/OBJ/view"
                         id="image_arl_lzw_mp" align="center"/><image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A80aa114d-4a83-4d4c-9bb0-e78a86f91e0e/datastream/OBJ/view"
-                        id="image_lwz_vl2_lp" align="center" outputclass="" width="6in" height="4in"
-                    /></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2f46a0b5-7be1-4c10-916b-cb0272de845b/datastream/OBJ/view"
+                        id="image_ttr_llv_tp" align="center"/></cmd>
             </step>
             <step>
                 <cmd>Try to find the place you are tagging in the CWRC or GeoNames entries.<image
@@ -52,9 +52,9 @@
             <step>
                 <cmd>Once you have created a place entry in the CWRC entity repository, you can now
                     add more information about the tag (precision, person type, etc.). Click on
-                    <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0bc6abb-6d6a-4c3e-bccf-930bb5c810d8/datastream/OBJ/view"
-                        id="image_if3_gm2_lp" align="center" height="4in" width="6in"/></cmd>
+                        <cmdname>Save</cmdname>.<image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A38d90e91-61d7-4e36-8f89-201db1c3a814/datastream/OBJ/view"
+                        id="image_qh3_4lv_tp" align="center"/></cmd>
             </step>
         </steps>
         <result>You have now created a new CWRC entity entry, you can use this creation the next

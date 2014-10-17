@@ -38,6 +38,14 @@
                 <cmd>Then use Ctrl V or Cmd V to paste the single tag in.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A7ad4d29f-cf53-4cb2-b990-734778b40241/datastream/OBJ/view"
                         id="image_rws_5hn_jp" align="center" height="4in" width="6in"/></cmd>
+                <info>      
+                    <p>
+                    <lines><b>Related Links:</b></lines>
+                    <lines><xref href="Copy_Paste_Multiple_Tags.dita"/></lines>
+                    <lines><xref href="Copy_Paste_Tags.dita"/></lines>
+                    <lines><xref href="Copy_Paste_Entity.dita"/></lines>
+                    <lines><xref href="Right_Click_Menu.dita"/></lines>                      
+                </p></info>
             </step>
         </steps>
     </taskbody>

@@ -7,8 +7,5 @@
  <topicref href="Navigation_Columns.dita"/>
  <topicref href="Toolbar.dita"/>
  <topicref href="CWRC_Entity_System.dita"/>
- <topicref href="Right_Click_Text.dita"/>
- <topicref href="Right_Click_Structure.dita"/>
- <topicref href="Right_Click_Entity.dita"/>
- <topicref href="Right_Click_Relations.dita"/>
+ <topicref href="Right_Click_Menu.dita"/>
 </map>

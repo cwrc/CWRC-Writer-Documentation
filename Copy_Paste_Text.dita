@@ -45,10 +45,19 @@
                 <cmd>Paste text in, using the keyboard shortcuts, Cmd V or Ctrl V</cmd>
                 <stepresult>The text will show up in to the desired field. The structure panel tags
                     will not be affected, unless you have pasted over preexisting tags. If you do
-                    those tags will be deleted. </stepresult>
+                    those tags will be deleted. <p>
+                        <lines><b>Related Links:</b></lines>
+                        <lines><xref href="View_Copied_Text.dita"/></lines>
+                        <lines><xref href="Write_Editor.dita"></xref></lines>
+                        <lines><xref href="Write_Text_Area.dita"></xref></lines> 
+                        <lines><xref href="Delete_Text_Structure.dita"></xref></lines>
+                        <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                    </p>
+                </stepresult>
             </step>
         </steps>
     </taskbody>
 </task>
+
 
 <?oxy_options track_changes="on"?>

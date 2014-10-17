@@ -22,7 +22,7 @@
     <section>
       <title>Relations column</title>
       <p>In the relations column you may view any relationships, which you have established between
-        entities. You can establish relationships through the "Add Relations" button in the toolbar
+        entities. You can establish relationships through the <cmdname>Add Relations</cmdname> button in the toolbar
         at the top of the page or at the bottom of this column. You can also delete relations at the
         bottom of the column.<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A11886a99-6abc-477d-b38e-8af1767d70ef/datastream/OBJ/view"

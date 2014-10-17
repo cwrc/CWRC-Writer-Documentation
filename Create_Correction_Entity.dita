@@ -29,9 +29,10 @@
                         id="image_iby_wyw_mp" align="center"/></cmd>
             </step>
             <step>
-                <cmd>Write the correction in the text bar, and click <cmdname>Save</cmdname>.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ace0a6f51-292e-4d06-b596-6fac0ad702a2/datastream/OBJ/view"
-                        id="image_hft_2yf_lp" align="center" height="4in" width="6in"/></cmd>
+                <cmd>Write the correction in the text bar, and click <cmdname>Save</cmdname>.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3e83464a-8bf9-4f76-8e52-511ead221dd0/datastream/OBJ/view"
+                        id="image_dwf_wnv_tp" align="center"/></cmd>
             </step>
         </steps>
         <result>You have added a correction to your document. You can access the correction for

@@ -44,7 +44,15 @@
                         id="image_jzc_g3n_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
         </steps>
-        <result>You will be able to see what you have copied, included the tags and text.</result>
+        <result>You will be able to see what you have copied, included the tags and text.
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Copy_Paste_Text.dita"/></lines>
+                <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
+                <lines><xref href="Copy_Paste_Multiple_Tags.dita"/></lines>
+                <lines><xref href="Copy_Paste_Tags.dita"/></lines>
+                <lines><xref href="Copy_Paste_Entity.dita"/></lines>
+            </p></result>
     </taskbody>
 </task>
 

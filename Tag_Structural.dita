@@ -43,10 +43,10 @@
                 </choices>
             </step>
             <step>
-                <cmd>Once you have selected one of the <cmdname>Insert</cmdname> options, choose a tag from the list
-                    that appears. <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A7cd7b9f7-c361-4364-b03c-6f30283b671e/datastream/OBJ/view"
-                        id="image_hkj_xkn_jp" align="center" height="4in" width="6in"/></cmd>
+                <cmd>Once you have selected one of the <cmdname>Insert</cmdname> options, choose a
+                    tag from the list that appears. <image placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afa5ad5d6-5e18-4314-be5b-c31e29cde905/datastream/OBJ/view"
+                        id="image_rjt_zhv_tp" align="center"/></cmd>
                 <info>The tags that you can select, under each <cmdname>Insert</cmdname> option, are limited to tags
                     that are allowed (according to the schema).</info>
             </step>
@@ -55,9 +55,10 @@
                     appear that allows you to add qualifying information to the tag. Once you have
                     finished, click on <cmdname>OK</cmdname>.</cmd>
                 <info>You do not have to enter any additional information if you don't want to. You
-                    can just press <cmdname>OK</cmdname> as soon as you see this pop-up.<image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A3803d31b-62fd-4f92-9ce0-81a69f017060/datastream/OBJ/view"
-                        id="image_syf_cln_jp" align="center" height="4in" width="6in"/></info>
+                    can just press <cmdname>OK</cmdname> as soon as you see this pop-up.<image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A8974376d-d9cd-4bfd-865c-0bf2a34b5cf8/datastream/OBJ/view"
+                        id="image_p4v_vhv_tp" align="center"/></info>
             </step>
         </steps>
         <result>You have now added a new structure tag.</result>
