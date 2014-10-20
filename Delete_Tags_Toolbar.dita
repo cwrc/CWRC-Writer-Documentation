@@ -35,10 +35,21 @@
                 <stepresult>This deletes the tag that the text belongs in. The text will remain in
                     the editor. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aacb7efeb-f235-4cc0-af9e-cee329227639/datastream/OBJ/view"
-                        id="image_wnc_2mn_jp" align="center" height="4in" width="6in"/></stepresult>
+                        id="image_wnc_2mn_jp" align="center" height="4in" width="6in"/>
+                    <p>
+                        <lines><b>Related Links</b></lines>
+                        <lines><xref href="Delete_Tags_Editor.dita"/></lines>
+                        <lines><xref href="Edit_Tag_Editor.dita"/></lines>
+                        <lines><xref href="Edit_Tag_Structure.dita"/></lines>
+                        <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
+                        <lines><b>Reference Materials:</b></lines>
+                        <lines><xref href="Toolbar.dita"></xref></lines>
+                    </p>
+                </stepresult>
             </step>
         </steps>
     </taskbody>
 </task>
+
 
 <?oxy_options track_changes="on"?>

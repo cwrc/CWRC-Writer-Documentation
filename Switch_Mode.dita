@@ -48,11 +48,12 @@
                             href="http://beta.cwrc.ca/islandora/object/cwrc%3A2021eabe-1e1d-42fb-b178-d4b4ad850470/datastream/OBJ/view"
                             id="image_lyq_4m2_np" align="center"/></note>      
                     <p>
-                                <lines><b>Related Links:</b></lines>
-                                <lines><xref href="Save_Document.dita"></xref></lines>
-                                <lines><xref href="Validate_Document.dita"></xref></lines>
-                                <lines><xref href="Show_Tags.dita"></xref></lines>
-                                <lines><xref href="Settings.dita"></xref></lines>
+                       <lines><b>Related Links:</b></lines>
+                       <lines><xref href="Save_Document.dita"></xref></lines>
+                       <lines><xref href="Validate_Document.dita"></xref></lines>
+                       <lines><xref href="Show_Tags.dita"></xref></lines>
+                       <lines><b>Reference Materials:</b></lines> 
+                       <lines><xref href="Settings.dita"></xref></lines>
                             </p></info>
             </step>
         </steps>

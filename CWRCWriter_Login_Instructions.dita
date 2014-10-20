@@ -48,7 +48,7 @@ Password: cwrcy</lines><image
                         <lines><b>Related Links:</b></lines>
                         <lines><xref href="Open_Document_Menu.dita"/></lines>
                         <lines><xref href="Open_Document_Toolbar.dita"/></lines>
-                        <lines><xref href="Save_Document.dita"/></lines>
+                        <lines><xref href="Save_Document.dita"></xref></lines>
                     </p></info>
             </step>
         </steps>

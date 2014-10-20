@@ -41,11 +41,17 @@
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A2c96b96c-3436-4f49-b26d-c9d214f00116/datastream/OBJ/view"
                         id="image_uv2_mjv_tp" align="center"/></info>
             </step>
-            <step>
-                <cmd>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</cmd>
-            </step>
         </steps>
+        <result>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.<p>
+                <lines><b>Related Links</b></lines>
+                <lines><xref href="Edit_Tag_Editor.dita"/></lines>
+                <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+            </p></result>
     </taskbody>
 </task>
+
 
 <?oxy_options track_changes="on"?>

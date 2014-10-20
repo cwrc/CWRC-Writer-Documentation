@@ -12,7 +12,30 @@
         entities like the attributes precision and identification. <image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A00802484-b576-4993-a65d-beb58164e5ed/datastream/OBJ/view"
           id="image_rxm_nm3_rp" align="center" height="4in" width="6in"
-        /><lines><b>Related Links:</b></lines><lines><xref href="Create_Person_Entity.dita"/></lines><lines><xref href="Create_Place_Entity.dita"/></lines><lines><xref href="Create_Date_Entity.dita"/></lines><lines><xref href="Create_Organization_Entity.dita"/></lines><lines><xref href="Create_Title_Entity.dita"/></lines><lines><xref href="Create_Link_Entity.dita"/></lines><lines><xref href="Create_Keyword_Entity.dita"/></lines><lines><xref href="Create_Correction_Entity.dita"/></lines><lines><xref href="Create_Note_Entity.dita"/></lines><lines><xref href="Create_Citation_Entity.dita"/></lines><lines><xref href="Delete_Entity_Editor.dita"/></lines><lines><xref href="Delete_Entity_Panel.dita"/></lines><lines><xref href="Delete_Entity_Toolbar.dita"/></lines><lines><xref href="Edit_Entity_Editor.dita"/></lines><lines><xref href="Edit_Entity_Panel.dita"/></lines><lines><xref href="Edit_Entity_Toolbar.dita"/></lines><lines><xref href="Tag_Entity_Editor.dita"/></lines><lines><xref href="Tag_Entity_Toolbar.dita"/></lines><lines><xref href="Add_Relations.dita"/></lines><lines><xref href="Deleting_Relations.dita"/></lines></p>
+        ></image></p>
+      <p>
+        <lines><b>Related Links:</b></lines>
+        <lines><xref href="Tag_Entity_Editor.dita"/></lines>
+        <lines><xref href="Tag_Entity_Toolbar.dita"/></lines>
+        <lines><xref href="Create_Person_Entity.dita"/></lines>
+        <lines><xref href="Create_Place_Entity.dita"/></lines>
+        <lines><xref href="Create_Date_Entity.dita"/></lines>
+        <lines><xref href="Create_Organization_Entity.dita"/></lines>
+        <lines><xref href="Create_Title_Entity.dita"/></lines>
+        <lines><xref href="Create_Link_Entity.dita"/></lines>
+        <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+        <lines><xref href="Create_Correction_Entity.dita"/></lines>
+        <lines><xref href="Create_Note_Entity.dita"/></lines>
+        <lines><xref href="Create_Citation_Entity.dita"/></lines>
+        <lines><xref href="Delete_Entity_Editor.dita"/></lines>
+        <lines><xref href="Delete_Entity_Panel.dita"/></lines>
+        <lines><xref href="Delete_Entity_Toolbar.dita"/></lines>
+        <lines><xref href="Edit_Entity_Editor.dita"/></lines>
+        <lines><xref href="Edit_Entity_Panel.dita"/></lines>
+        <lines><xref href="Edit_Entity_Toolbar.dita"/></lines>
+        <lines><xref href="Add_Relations.dita"/></lines>
+        <lines><xref href="Deleting_Relations.dita"/></lines>
+      </p>
     </section>
   </refbody>
 </reference>

@@ -24,12 +24,9 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Highlight the annotated text.</cmd>
-                <info>
-                    <image placement="break"
+                <cmd>Highlight the annotated text.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A4e5baa86-5db9-4eed-9194-a68f467772bf/datastream/OBJ/view"
-                        id="image_uvx_hxd_lp" align="center" height="4in" width="6in"/>
-                </info>
+                        id="image_uvx_hxd_lp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
                 <cmd>Right-click on the highlighted text and choose the <cmdname>Remove
@@ -47,6 +44,16 @@
             <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A1155d498-13a9-47b0-b949-3acf2960db61/datastream/OBJ/view"
                 id="image_gtw_rxd_lp" align="center" height="4in" width="6in"/>
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Tag_Entity_Editor.dita"/></lines>
+                <lines><xref href="Tag_Entity_Toolbar.dita"/></lines>
+                <lines><xref href="Delete_Entity_Panel.dita"/></lines>
+                <lines><xref href="Delete_Entity_Toolbar.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>
         </result>
     </taskbody>
 </task>

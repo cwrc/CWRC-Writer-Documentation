@@ -41,5 +41,15 @@
                 </choices>
             </step>
         </steps>
+        <result>This will remove any relationships that you have added to your
+            document.     
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Add_Relations.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p></result>
     </taskbody>
 </task>

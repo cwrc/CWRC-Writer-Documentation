@@ -30,7 +30,9 @@
                 <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
                 <lines><xref href="Copy_Paste_Multiple_Tags.dita"/></lines>
                 <lines><xref href="Copy_Paste_Tags.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
                 <lines><xref href="Right_Click_Menu.dita"/></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
             </p></result>
     </taskbody>
 </task>

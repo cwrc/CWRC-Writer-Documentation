@@ -51,6 +51,7 @@
                         <lines><xref href="Write_Editor.dita"></xref></lines>
                         <lines><xref href="Write_Text_Area.dita"></xref></lines> 
                         <lines><xref href="Delete_Text_Structure.dita"></xref></lines>
+                        <lines><b>Reference Materials:</b></lines>
                         <lines><xref href="Right_Click_Menu.dita"></xref></lines>
                     </p>
                 </stepresult>
@@ -58,6 +59,7 @@
         </steps>
     </taskbody>
 </task>
+
 
 
 <?oxy_options track_changes="on"?>

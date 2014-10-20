@@ -64,6 +64,24 @@
             information you have assigned to the entity) will appear in the entities column on the
             left side of CWRC-Writer. <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A525737fe-fb67-4e75-9f3c-412cabb166d0/datastream/OBJ/view"
-                id="image_ovn_2jd_lp" align="center" height="4in" width="6in"/></result>
+                id="image_ovn_2jd_lp" align="center" height="4in" width="6in"/>
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Tag_Entity_Toolbar.dita"></xref></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"></xref></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><xref href="Create_Citation_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>
+        </result>
     </taskbody>
 </task>

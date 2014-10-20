@@ -45,10 +45,20 @@
                     you can see we have added a new "time" tag in the document structure, by
                     following the above steps. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab088f060-527c-4f90-8092-555708dfdf7c/datastream/OBJ/view"
-                        id="image_tgt_mkn_jp" align="center" height="4in" width="6in"/></stepresult>
+                        id="image_tgt_mkn_jp" align="center" height="4in" width="6in"/>
+                    <p>
+                        <lines><b>Related Links</b></lines>
+                        <lines><xref href="Tag_Selecting_Text.dita"/></lines>
+                        <lines><xref href="Tag_Structural.dita"/></lines>
+                        <lines><xref href="Delete_Tags_Editor.dita"/></lines>
+                        <lines><xref href="Delete_Tags_Toolbar.dita"/></lines>
+                        <lines><b>Reference Materials:</b></lines>
+                        <lines><xref href="Toolbar.dita"></xref></lines>
+                    </p></stepresult>
             </step>
         </steps>
     </taskbody>
 </task>
+
 
 <?oxy_options track_changes="on"?>

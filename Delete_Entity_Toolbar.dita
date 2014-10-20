@@ -46,7 +46,19 @@
             <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A8be19021-3d5a-499f-836d-2fe436b1a139/datastream/OBJ/view"
                 id="image_apq_gwd_lp" align="center" height="4in" width="6in"/>
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Tag_Entity_Editor.dita"/></lines>
+                <lines><xref href="Tag_Entity_Toolbar.dita"/></lines>
+                <lines><xref href="Delete_Entity_Editor.dita"/></lines>
+                <lines><xref href="Delete_Entity_Panel.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>
         </result>
     </taskbody>
 </task>
+
 <?oxy_options track_changes="on"?>

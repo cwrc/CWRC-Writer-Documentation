@@ -45,6 +45,16 @@
             relations in the "Relations" column on the left side of the page.<image
                 placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A3dfdf196-5be6-4350-8fa7-2004ba5e4ca2/datastream/OBJ/view"
-                id="image_ncg_jr2_np" align="center" height="4in" width="6in"/></result>
+                id="image_ncg_jr2_np" align="center" height="4in" width="6in"/>
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Deleting_Relations.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>
+        </result>
     </taskbody>
 </task>

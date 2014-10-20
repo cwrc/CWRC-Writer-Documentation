@@ -83,6 +83,24 @@
                     id="image_imc_c1f_np" align="center" conref="" height="4in" width="6in"/>
             </p><p>The resulting citation looks like this:<image placement="break"
                     href="http://beta.cwrc.ca/islandora/object/cwrc%3A9b48883b-28a7-458b-826c-f8a5de7096f0/datastream/OBJ/view"
-                    id="image_egf_r4v_tp" align="center"/></p></result>
+                    id="image_egf_r4v_tp" align="center"/></p>
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"></xref></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>
+        </result>
     </taskbody>
 </task>

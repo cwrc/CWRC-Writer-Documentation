@@ -48,7 +48,7 @@
                     italicized. Use your keyboard shortcut to paste. </cmd>
             </step>
         </steps>
-        <example><lines>In the poem document you can click on a "lg" tag (until it is bolded and italicized) and use your keyboard shortcut (Command or Control C) to copy that tag.</lines><image
+        <result><lines>In the poem document you can click on a "lg" tag (until it is bolded and italicized) and use your keyboard shortcut (Command or Control C) to copy that tag.</lines><image
                 placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A45610ba5-977d-468b-983c-88e64b0a5a58/datastream/OBJ/view"
                 id="image_i1x_t3n_jp" align="center" height="3in" width="5in"/>
@@ -61,15 +61,18 @@ When you choose to add a "lg" tag, this will create an empty tag that you can th
             <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A40776b88-7e2c-4c9b-816f-18628e79e400/datastream/OBJ/view"
                 id="image_aqh_cjn_jp" align="center" height="3in" width="5in"/> Success! You have
-            pasted tags and text in the structure, creating a new "lg" tag with nested "l" tags.  <p>
+            pasted tags and text in the structure, creating a new "lg" tag with nested "l" tags. <p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
                 <lines><xref href="Copy_Paste_Tags.dita"/></lines>
                 <lines><xref href="Copy_Paste_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
                 <lines><xref href="Right_Click_Menu.dita"/></lines>
-            </p><lines/></example>
+                <lines><xref href="Navigation_Columns.dita"/></lines>
+            </p></result>
     </taskbody>
 </task>
+
 
 
 <?oxy_options track_changes="on"?>

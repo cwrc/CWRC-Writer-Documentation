@@ -35,9 +35,16 @@
                         id="image_rvg_l3v_tp" align="center"/></cmd>
             </step>
         </steps>
-        <result>This will delete the tag, but leave the text.</result>
+        <result>This will delete the tag, but leave the text. <p>
+                <lines><b>Related Links</b></lines>
+                <lines><xref href="Delete_Tags_Toolbar.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Right_Click_Menu.dita"></xref></lines>
+            </p>
+        </result>
     </taskbody>
 </task>
+
 
 
 <?oxy_options track_changes="on"?>

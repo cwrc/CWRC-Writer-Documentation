@@ -61,8 +61,27 @@
         </steps>
         <result>The entity that you have added to your document (along with any additional
             information you have assigned to the entity) will appear in the entities column on the
-            left side of the CWRC-Writer.<image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3A00802484-b576-4993-a65d-beb58164e5ed/datastream/OBJ/view"
-                id="image_mwq_fpd_lp" align="center" height="4in" width="6in"/></result>
+            left side of the CWRC-Writer.<p>
+                <image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A00802484-b576-4993-a65d-beb58164e5ed/datastream/OBJ/view"
+                    id="image_mwq_fpd_lp" align="center" height="4in" width="6in"/>
+            </p><p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Tag_Entity_Editor.dita"/></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"/></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><xref href="Create_Citation_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"/></lines>
+                <lines><xref href="Navigation_Columns.dita"/></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p></result>
     </taskbody>
 </task>

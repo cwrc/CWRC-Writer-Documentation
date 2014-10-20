@@ -13,7 +13,16 @@
         these pre-existing tags and/or you can add new tags.<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
           id="image_m4h_1rh_rp" align="center" height="4in" width="6in"
-        /><lines><b>Related Links</b></lines><lines><xref href="Tag_Selecting_Text.dita"/></lines><lines><xref href="Delete_Tags_Editor.dita"/></lines><lines><xref href="Delete_Tags_Toolbar.dita"/></lines><lines><xref href="Edit_Tag_Editor.dita"/></lines><lines><xref href="Edit_Tag_Structure.dita"/></lines><lines><xref href="Edit_Tag_Toolbar.dita"/></lines><lines><xref href="Tag_Structural.dita"/></lines>
+        /></p>
+        <p>
+          <lines><b>Related Links</b></lines>
+          <lines><xref href="Tag_Selecting_Text.dita"/></lines>
+          <lines><xref href="Tag_Structural.dita"/></lines>
+          <lines><xref href="Delete_Tags_Editor.dita"/></lines>
+          <lines><xref href="Delete_Tags_Toolbar.dita"/></lines>
+          <lines><xref href="Edit_Tag_Editor.dita"/></lines>
+          <lines><xref href="Edit_Tag_Structure.dita"/></lines>
+          <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
       </p>
     </section>
   </refbody>

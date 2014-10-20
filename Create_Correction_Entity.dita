@@ -38,6 +38,23 @@
         <result>You have added a correction to your document. You can access the correction for
             edits in either the document and the entities column.<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A1f3072d4-c73e-4473-a39a-ed019b34c116/datastream/OBJ/view"
-                id="image_cfx_cyf_lp" align="center" height="4in" width="6in"/></result>
+                id="image_cfx_cyf_lp" align="center" height="4in" width="6in"/>
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"></xref></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Keyword_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><xref href="Create_Citation_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>
+        </result>
     </taskbody>
 </task>

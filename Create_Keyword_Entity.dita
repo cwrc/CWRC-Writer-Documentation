@@ -35,5 +35,24 @@
                         id="image_n1t_pnv_tp" align="center"/></cmd>
             </step>
         </steps>
+        <result>This will create keywords in your document. You can edit those keywords in the
+            entities column.  
+            <p>
+                <lines><b>Related Links:</b></lines>
+                <lines><xref href="Create_Person_Entity.dita"/></lines>
+                <lines><xref href="Create_Place_Entity.dita"/></lines>
+                <lines><xref href="Create_Date_Entity.dita"/></lines>
+                <lines><xref href="Create_Organization_Entity.dita"></xref></lines>
+                <lines><xref href="Create_Title_Entity.dita"/></lines>
+                <lines><xref href="Create_Link_Entity.dita"/></lines>
+                <lines><xref href="Create_Correction_Entity.dita"/></lines>
+                <lines><xref href="Create_Note_Entity.dita"/></lines>
+                <lines><xref href="Create_Citation_Entity.dita"/></lines>
+                <lines><b>Reference Materials:</b></lines>
+                <lines><xref href="Toolbar.dita"></xref></lines>
+                <lines><xref href="Navigation_Columns.dita"></xref></lines>
+                <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
+            </p>
+        </result>
     </taskbody>
 </task>
