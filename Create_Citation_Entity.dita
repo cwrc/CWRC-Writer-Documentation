@@ -84,7 +84,7 @@
             </p><p>The resulting citation looks like this:<image placement="break"
                     href="http://beta.cwrc.ca/islandora/object/cwrc%3A9b48883b-28a7-458b-826c-f8a5de7096f0/datastream/OBJ/view"
                     id="image_egf_r4v_tp" align="center"/></p>
-            <p>
+            <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Create_Person_Entity.dita"/></lines>
                 <lines><xref href="Create_Place_Entity.dita"/></lines>
@@ -100,7 +100,22 @@
                 <lines><xref href="Right_Click_Menu.dita"></xref></lines>
                 <lines><xref href="Navigation_Columns.dita"></xref></lines>
                 <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
-            </p>
+            </p>-->
         </result>
     </taskbody>
+    <related-links>
+        <link href="Create_Person_Entity.dita#task_tkx_2h2_lp"/>
+        <link href="Create_Place_Entity.dita#task_fgv_wk2_lp"/>
+        <link href="Create_Date_Entity.dita#task_gdm_rm2_lp"/>
+        <link href="Create_Organization_Entity.dita#task_cn1_qkf_lp"/>
+        <link href="Create_Title_Entity.dita#task_hts_tmf_lp"/>
+        <link href="Create_Link_Entity.dita#task_dsr_rqf_lp"/>
+        <link href="Create_Keyword_Entity.dita#task_wh4_1xf_lp"/>
+        <link href="Create_Correction_Entity.dita#task_nry_4xf_lp"/>
+        <link href="Create_Note_Entity.dita#task_kbz_ht2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
 </task>

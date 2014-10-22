@@ -44,17 +44,25 @@ Password: cwrcy</lines><image
                         placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view"
                         id="image_x1g_jsm_jp" align="center"/>
-                    <p>
+                    <!--                    <p>
                         <lines><b>Related Links:</b></lines>
                         <lines><xref href="Open_Document_Menu.dita"/></lines>
                         <lines><xref href="Open_Document_Toolbar.dita"/></lines>
                         <lines><xref href="Save_Document.dita"></xref></lines>
-                    </p></info>
+                    </p>-->
+                </info>
             </step>
         </steps>
-
     </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T140006-0700"?>
+    <related-links>
+        <link href="Open_Document_Menu.dita#task_lth_ysb_dp"/>
+        <link href="Open_Document_Toolbar.dita#task_pg2_1tm_jp"/>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+    </related-links>
+    <?oxy_insert_end?>
 </task>
+
 
 
 <?oxy_options track_changes="on"?>

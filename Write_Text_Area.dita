@@ -37,15 +37,22 @@
             </step>
         </steps>
         <result>The text will be entered in the tag you have selected, any content that previously
-            existed in that tag will be erased.     
-           <p>
+            existed in that tag will be erased.
+            <!--           <p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Write_Editor.dita"></xref></lines>
                 <lines><xref href="Delete_Text_Structure.dita"></xref></lines>
                 <lines><xref href="Save_Document.dita"></xref></lines>
                 <lines><xref href="Validate_Document.dita"></xref></lines>
                 <lines><xref href="Copy_Paste_Text.dita"/></lines>
-            </p>
+            </p>-->
         </result>  
     </taskbody>
+    <related-links>
+        <link href="Write_Editor.dita#task_mbh_fxm_jp"/>
+        <link href="Delete_Text_Structure.dita#task_mpf_x3l_jp"/>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Copy_Paste_Text.dita#task_mcg_3fd_dp"/>
+    </related-links>
 </task>

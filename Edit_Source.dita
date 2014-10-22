@@ -41,7 +41,7 @@
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae84758b0-710d-4e32-888c-bf113ca631de/datastream/OBJ/view"
                         id="image_vrb_sp2_np" align="center" height="4in" width="6in"/></cmd>
                 <info>      
-                    <p>
+                <!--  <p>
                     <lines><b>Related Links:</b></lines>
                     <lines><xref href="View_Source.dita"></xref></lines>
                     <lines><xref href="Save_Document.dita"></xref></lines>
@@ -49,8 +49,16 @@
                     <lines><xref href="Edit_Header.dita"></xref></lines>
                     <lines><b>Reference Materials:</b></lines>
                     <lines><xref href="Toolbar.dita"></xref></lines>
-                </p></info>
+                </p>-->
+                </info>
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="View_Source.dita#task_l41_j42_np"/>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Edit_Header.dita#task_sd5_tj2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+    </related-links>
 </task>

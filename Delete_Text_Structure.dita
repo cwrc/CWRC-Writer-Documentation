@@ -40,7 +40,7 @@
             document. <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A637bc5d3-d8d4-4088-af51-5d5d0f7d54b2/datastream/OBJ/view"
                 id="image_lzk_gv5_mp" align="center" height="4in" width="6in"/>      
-            <p>
+<!--            <p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Write_Editor.dita"></xref></lines>
                 <lines><xref href="Write_Text_Area.dita"></xref></lines>
@@ -50,6 +50,16 @@
                 <lines><b>Reference Materials:</b></lines>
                 <lines><xref href="Right_Click_Menu.dita"></xref></lines>
                 <lines><xref href="Navigation_Columns.dita"></xref></lines>
-                </p></result>
+                </p>-->
+        </result>
     </taskbody>
+    <related-links>
+        <link href="Write_Editor.dita#task_mbh_fxm_jp"/>
+        <link href="Write_Text_Area.dita#task_fbh_vjc_dp"/>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Copy_Paste_Text.dita#task_mcg_3fd_dp"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+    </related-links>
 </task>

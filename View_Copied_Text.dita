@@ -8,16 +8,17 @@
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
-            <copyryear year="2014"></copyryear>
-            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
         </copyright>
         <critdates>
-            <created date="2014-08-17"></created>
-            <revised modified="2014-09-15"></revised>
+            <created date="2014-08-17"/>
+            <revised modified="2014-09-15"/>
         </critdates>
         <metadata>
-            <audience audience="novice"></audience>
-            <audience audience="CWRCMember"></audience>
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
         </metadata>
     </prolog>
     <taskbody>
@@ -36,7 +37,8 @@
         <steps id="steps_o2t_xyg_dp">
             <step>
                 <cmd>Click on the small arrow at the bottom of the CWRC-Writer window/frame.</cmd>
-                <stepresult>This will bring up the <cmdname>Validation</cmdname> and <cmdname>Selection</cmdname> Tabs.</stepresult>
+                <stepresult>This will bring up the <cmdname>Validation</cmdname> and
+                        <cmdname>Selection</cmdname> Tabs.</stepresult>
             </step>
             <step>
                 <cmd>Click on the <cmdname>Selection</cmdname> tab.<image placement="break"
@@ -45,15 +47,26 @@
             </step>
         </steps>
         <result>You will be able to see what you have copied, included the tags and text.
-            <p>
+            <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Copy_Paste_Text.dita"/></lines>
                 <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
                 <lines><xref href="Copy_Paste_Multiple_Tags.dita"/></lines>
                 <lines><xref href="Copy_Paste_Tags.dita"/></lines>
                 <lines><xref href="Copy_Paste_Entity.dita"/></lines>
-            </p></result>
+            </p>-->
+        </result>
     </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T142257-0700"?>
+    <related-links>
+        <link href="Copy_Paste_Text.dita#task_mcg_3fd_dp"/>
+        <link href="Copy_Paste_Single_Tag.dita#task_gfg_fjd_dp"/>
+        <link href="Copy_Paste_Multiple_Tags.dita#task_r4l_ykd_dp"/>
+        <link href="Copy_Paste_Tags.dita#task_t1x_nfn_jp"/>
+        <link href="Copy_Paste_Entity.dita#task_osz_cb2_np"/>
+    </related-links>
+    <?oxy_insert_end?>
 </task>
+
 
 <?oxy_options track_changes="on"?>

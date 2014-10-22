@@ -34,13 +34,18 @@
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab44e2f3a-5270-4e44-aa55-d670084b4bba/datastream/OBJ/view"
                         id="image_bvq_s42_np" align="center" height="4in" width="6in"/></cmd>
                 <info>      
-                    <p>
+<!--                    <p>
                     <lines><b>Related Links:</b></lines>
                     <lines><xref href="Edit_Source.dita"></xref></lines>
                     <lines><b>Reference Materials:</b></lines>
                     <lines><xref href="Toolbar.dita"></xref></lines>
-                </p></info>
+                </p>-->
+                </info>
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="Edit_Source.dita#task_chh_dp2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+    </related-links>
 </task>

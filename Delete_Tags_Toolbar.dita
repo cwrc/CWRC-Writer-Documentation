@@ -29,14 +29,15 @@
                         id="image_nn5_zln_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Click on the toolbar option <cmdname>Remove Tag</cmdname>.<image placement="break"
+                <cmd>Click on the toolbar option <cmdname>Remove Tag</cmdname>.<image
+                        placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae818ee88-fa38-4474-bd53-ea9a48ba5af9/datastream/OBJ/view"
                         id="image_mzm_v1y_rp" align="center"/></cmd>
                 <stepresult>This deletes the tag that the text belongs in. The text will remain in
                     the editor. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aacb7efeb-f235-4cc0-af9e-cee329227639/datastream/OBJ/view"
                         id="image_wnc_2mn_jp" align="center" height="4in" width="6in"/>
-                    <p>
+                    <!--<p>
                         <lines><b>Related Links</b></lines>
                         <lines><xref href="Delete_Tags_Editor.dita"/></lines>
                         <lines><xref href="Edit_Tag_Editor.dita"/></lines>
@@ -44,12 +45,22 @@
                         <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
                         <lines><b>Reference Materials:</b></lines>
                         <lines><xref href="Toolbar.dita"></xref></lines>
-                    </p>
+                    </p>-->
                 </stepresult>
             </step>
         </steps>
     </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T145059-0700"?>
+    <related-links>
+        <link href="Delete_Tags_Editor.dita#task_chk_nkl_jp"/>
+        <link href="Edit_Tag_Editor.dita#task_xxj_4ml_jp"/>
+        <link href="Edit_Tag_Structure.dita#task_f4z_t4l_jp"/>
+        <link href="Edit_Tag_Toolbar.dita#task_bdv_znl_jp"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+    </related-links>
+    <?oxy_insert_end?>
 </task>
+
 
 
 <?oxy_options track_changes="on"?>

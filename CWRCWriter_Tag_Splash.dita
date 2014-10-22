@@ -14,7 +14,7 @@
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac0587aec-1a73-4146-9783-2aa60ae52366/datastream/OBJ/view"
           id="image_m4h_1rh_rp" align="center" height="4in" width="6in"
         /></p>
-        <p>
+        <!--<p>
           <lines><b>Related Links</b></lines>
           <lines><xref href="Tag_Selecting_Text.dita"/></lines>
           <lines><xref href="Tag_Structural.dita"/></lines>
@@ -23,7 +23,16 @@
           <lines><xref href="Edit_Tag_Editor.dita"/></lines>
           <lines><xref href="Edit_Tag_Structure.dita"/></lines>
           <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
-      </p>
+      </p>-->
     </section>
   </refbody>
+  <related-links>
+    <link href="Tag_Selecting_Text.dita#task_zyn_lyk_jp"/>
+    <link href="Tag_Structural.dita#task_d22_zcl_jp"/>
+    <link href="Delete_Tags_Editor.dita#task_chk_nkl_jp"/>
+    <link href="Delete_Tags_Toolbar.dita#task_pbd_5ll_jp"/>
+    <link href="Edit_Tag_Editor.dita#task_xxj_4ml_jp"/>
+    <link href="Edit_Tag_Structure.dita#task_f4z_t4l_jp"/>
+    <link href="Edit_Tag_Toolbar.dita#task_bdv_znl_jp"/>
+  </related-links>
 </reference>

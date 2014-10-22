@@ -38,13 +38,20 @@
                         <cmdname>OK</cmdname>.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A65d76669-7696-44e9-a504-d91d4a1b240d/datastream/OBJ/view"
                         id="image_vzq_5bv_tp" align="center"/></cmd>
-                <info>      <p>
+                <info>      
+                    <!--<p>
                     <lines><b>Related Links:</b></lines>
                     <lines><xref href="Save_Document.dita"></xref></lines>
                     <lines><xref href="Validate_Document.dita"></xref></lines>
                     <lines><xref href="Edit_Source.dita"></xref></lines>
-                </p></info>
+                </p>-->
+                </info>
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="Save_Document.dita#task_gl2_tc2_lp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Edit_Source.dita#task_chh_dp2_np"/>
+    </related-links>
 </task>

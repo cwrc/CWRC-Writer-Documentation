@@ -66,7 +66,7 @@
                 placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab088f060-527c-4f90-8092-555708dfdf7c/datastream/OBJ/view"
                 id="image_f3l_hln_jp" align="center" width="6in" height="4in"/>
-        <p>
+            <!--<p>
             <lines><b>Related Links</b></lines>
             <lines><xref href="Tag_Selecting_Text.dita"/></lines>
             <lines><xref href="Tag_Structural.dita"/></lines>
@@ -78,9 +78,24 @@
             <lines><b>Reference Materials:</b></lines>
             <lines><xref href="Navigation_Columns.dita"></xref></lines>
             <lines><xref href="Right_Click_Menu.dita"></xref></lines>
-        </p></result>
+        </p>-->
+        </result>
     </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T145414-0700"?>
+    <related-links>
+        <link href="Tag_Selecting_Text.dita#task_zyn_lyk_jp"/>
+        <link href="#task_d22_zcl_jp"/>
+        <link href="Delete_Tags_Editor.dita#task_chk_nkl_jp"/>
+        <link href="Delete_Tags_Toolbar.dita#task_pbd_5ll_jp"/>
+        <link href="Edit_Tag_Editor.dita#task_xxj_4ml_jp"/>
+        <link href="Edit_Tag_Structure.dita#task_f4z_t4l_jp"/>
+        <link href="Edit_Tag_Toolbar.dita#task_bdv_znl_jp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+    </related-links>
+    <?oxy_insert_end?>
 </task>
+
 
 
 <?oxy_options track_changes="on"?>

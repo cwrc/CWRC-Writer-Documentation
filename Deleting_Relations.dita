@@ -43,13 +43,20 @@
         </steps>
         <result>This will remove any relationships that you have added to your
             document.     
-            <p>
+            <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Add_Relations.dita"/></lines>
                 <lines><b>Reference Materials:</b></lines>
                 <lines><xref href="Right_Click_Menu.dita"></xref></lines>
                 <lines><xref href="Navigation_Columns.dita"></xref></lines>
                 <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
-            </p></result>
+            </p>-->
+        </result>
     </taskbody>
+    <related-links>
+        <link href="Add_Relations.dita#task_rdx_1q2_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
 </task>

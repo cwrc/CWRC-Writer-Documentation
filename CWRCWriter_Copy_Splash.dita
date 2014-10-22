@@ -12,7 +12,7 @@
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Acfc3a561-2ab4-4d53-8190-c327cb2f8182/datastream/OBJ/view"
           id="image_dk5_hyv_tp" align="center" height="4in" width="6in"/>
       </p>
-      <p>
+      <!--<p>
         <lines><b>Related Links:</b></lines>
         <lines><xref href="Copy_Paste_Text.dita"/></lines>
         <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
@@ -20,7 +20,15 @@
         <lines><xref href="Copy_Paste_Tags.dita"/></lines>
         <lines><xref href="View_Copied_Text.dita"/></lines>
         <lines><xref href="Copy_Paste_Entity.dita"/></lines>
-      </p>
+      </p>-->
     </section>
   </refbody>
+  <related-links>
+    <link href="Copy_Paste_Text.dita#task_mcg_3fd_dp"/>
+    <link href="Copy_Paste_Single_Tag.dita#task_gfg_fjd_dp"/>
+    <link href="Copy_Paste_Multiple_Tags.dita#task_r4l_ykd_dp"/>
+    <link href="Copy_Paste_Tags.dita#task_t1x_nfn_jp"/>
+    <link href="View_Copied_Text.dita#task_sf3_lyg_dp"/>
+    <link href="Copy_Paste_Entity.dita#task_osz_cb2_np"/>
+  </related-links>
 </reference>

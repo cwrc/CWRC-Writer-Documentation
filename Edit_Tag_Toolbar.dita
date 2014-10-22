@@ -47,16 +47,24 @@
         </steps>
         <result>
             <p>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</p>
-            <p>
+            <!--<p>
                 <lines><b>Related Links</b></lines>
                 <lines><xref href="Edit_Tag_Editor.dita"/></lines>
                 <lines><xref href="Edit_Tag_Structure.dita"/></lines>
                 <lines><b>Reference Materials:</b></lines>
                 <lines><xref href="Toolbar.dita"></xref></lines>
-            </p>
+            </p>-->
         </result>
     </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T144707-0700"?>
+    <related-links>
+        <link href="Edit_Tag_Editor.dita#task_xxj_4ml_jp"/>
+        <link href="Edit_Tag_Structure.dita#task_f4z_t4l_jp"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+    </related-links>
+    <?oxy_insert_end?>
 </task>
+
 
 
 <?oxy_options track_changes="on"?>

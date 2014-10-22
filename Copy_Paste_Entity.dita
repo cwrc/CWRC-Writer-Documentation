@@ -25,7 +25,7 @@
             entity inserts beside any selected text).<image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3Adac816e8-f109-40e9-a241-dfedcb7cc74c/datastream/OBJ/view"
                 id="image_opk_xb2_np" align="center" height="4in" width="6in"/>
-            <p>
+            <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Copy_Paste_Single_Tag.dita"/></lines>
                 <lines><xref href="Copy_Paste_Multiple_Tags.dita"/></lines>
@@ -33,6 +33,14 @@
                 <lines><b>Reference Materials:</b></lines>
                 <lines><xref href="Right_Click_Menu.dita"/></lines>
                 <lines><xref href="Navigation_Columns.dita"></xref></lines>
-            </p></result>
+            </p>-->
+        </result>
     </taskbody>
+    <related-links>
+        <link href="Copy_Paste_Single_Tag.dita#task_gfg_fjd_dp"/>
+        <link href="Copy_Paste_Multiple_Tags.dita#task_r4l_ykd_dp"/>
+        <link href="Copy_Paste_Tags.dita#task_t1x_nfn_jp"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+    </related-links>
 </task>

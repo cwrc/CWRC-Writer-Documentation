@@ -8,8 +8,9 @@
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>
         <copyright>
-            <copyryear year="2014"></copyryear>
-            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+            <copyryear year="2014"/>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons
+                Attribution-NonCommercial 4.0 International License</copyrholder>
         </copyright>
         <critdates>
             <created date="2014-09-09"/>
@@ -17,8 +18,8 @@
             <revised modified="2014-09-21"/>
         </critdates>
         <metadata product="stand-alone">
-            <audience audience="novice"></audience>
-            <audience audience="CWRCMember"></audience>
+            <audience audience="novice"/>
+            <audience audience="CWRCMember"/>
         </metadata>
     </prolog>
     <taskbody>
@@ -44,17 +45,26 @@
                         id="image_lwb_bjv_tp" align="center"/></info>
             </step>
         </steps>
-        <result><p>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</p>
-            <p>
+        <result>
+            <p>Click <cmdname>OK</cmdname> and all edits made to the tag will be saved.</p>
+            <!--<p>
                 <lines><b>Related Links</b></lines>
                 <lines><xref href="Edit_Tag_Structure.dita"/></lines>
                 <lines><xref href="Edit_Tag_Toolbar.dita"/></lines>
                 <lines><b>Reference Materials:</b></lines>
                 <lines><xref href="Right_Click_Menu.dita"></xref></lines>
-            </p>
+            </p>-->
         </result>
     </taskbody>
+    <?oxy_insert_start author="megansellmer" timestamp="20141021T144943-0700"?>
+    <related-links>
+        <link href="Edit_Tag_Structure.dita#task_f4z_t4l_jp"/>
+        <link href="Edit_Tag_Toolbar.dita#task_bdv_znl_jp"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+    </related-links>
+    <?oxy_insert_end?>
 </task>
+
 
 
 <?oxy_options track_changes="on"?>

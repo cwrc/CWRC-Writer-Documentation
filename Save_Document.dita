@@ -43,7 +43,8 @@
                 <info>If the document is not valid, a pop-up will appear and you will be asked if
                     you would like to save anyway.<image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad9900eb9-2f1b-424e-92a7-80835d54b5e3/datastream/OBJ/view"
-                        id="image_grf_dbv_tp" align="center" height="5in" width="5in"/> <p>
+                        id="image_grf_dbv_tp" align="center" height="5in" width="5in"/> 
+                   <!-- <p>
                     <lines><b>Related Links:</b></lines>
                     <lines><xref href="Open_Document_Menu.dita"></xref></lines>
                     <lines><xref href="Open_Document_Toolbar.dita"></xref></lines>
@@ -56,8 +57,21 @@
                     <lines><xref href="Edit_Header.dita"></xref></lines>
                     <lines><b>Reference Materials:</b></lines>
                     <lines><xref href="Toolbar.dita"/></lines>
-                </p></info>
+                </p>-->
+                </info>
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="Open_Document_Menu.dita#task_lth_ysb_dp"/>
+        <link href="Open_Document_Toolbar.dita#task_pg2_1tm_jp"/>
+        <link href="Write_Editor.dita#task_mbh_fxm_jp"/>
+        <link href="Write_Text_Area.dita#task_fbh_vjc_dp"/>
+        <link href="Delete_Text_Structure.dita#task_mpf_x3l_jp"/>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
+        <link href="Switch_Mode.dita#task_rzm_jl2_np"/>
+        <link href="Edit_Source.dita#task_chh_dp2_np"/>
+        <link href="Edit_Header.dita#task_sd5_tj2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+    </related-links>
 </task>

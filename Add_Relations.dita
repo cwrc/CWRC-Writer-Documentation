@@ -46,7 +46,7 @@
                 placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A3dfdf196-5be6-4350-8fa7-2004ba5e4ca2/datastream/OBJ/view"
                 id="image_ncg_jr2_np" align="center" height="4in" width="6in"/>
-            <p>
+            <!--<p>
                 <lines><b>Related Links:</b></lines>
                 <lines><xref href="Deleting_Relations.dita"/></lines>
                 <lines><b>Reference Materials:</b></lines>
@@ -54,7 +54,14 @@
                 <lines><xref href="Right_Click_Menu.dita"></xref></lines>
                 <lines><xref href="Navigation_Columns.dita"></xref></lines>
                 <lines><xref href="CWRC_Entity_System.dita"></xref></lines>
-            </p>
+            </p>-->
         </result>
     </taskbody>
+    <related-links>
+        <link href="Deleting_Relations.dita#task_nxb_rr2_np"/>
+        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="Right_Click_Menu.dita#reference_wsn_b5g_rp"/>
+        <link href="Navigation_Columns.dita#reference_kmc_bcj_np"/>
+        <link href="CWRC_Entity_System.dita#reference_ibn_hrg_rp"/>
+    </related-links>
 </task>
