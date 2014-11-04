@@ -16,4 +16,7 @@
  <topichead navtitle="CWRC-Writer reference materials">
   <topicref href="CWRCWriter_Reference.ditamap" format="ditamap"/>
  </topichead>
+ <topichead navtitle="CWRC-Writer concepts">
+  <mapref href="CWRC-Writer_Concept.ditamap" format="ditamap"/>
+ </topichead>
 </map>
