@@ -28,29 +28,20 @@
             <p>These instructions are for the standalone version of CWRC-Writer. If you would like
                 to test CWCR-Writer, please contact us at cwrc@ualberta.ca</p>
         </context>
-        <prereq>CWRC-Writer is only optimized for FireFox or Google Chrome browsers. Please open
-            CWRC-Writer in either of the options only. </prereq>
+        <prereq>CWRC-Writer is only optimized for FireFox or Google Chrome browsers. Please open CWRC-Writer in either of the options only. </prereq>
         <steps id="steps_a53_vjb_dp">
             <step>
-                <cmd>Open the CWRC-Writer URL in your browser: <xref
-                        href="http://apps.testing.cwrc.ca/editor/test/index.htm" format="html"
-                        scope="external"/></cmd>
+                <cmd>Open CWRC-Writer in your browser: <xref href="http://apps.testing.cwrc.ca/editor/test/index.htm" format="html" scope="external"></xref></cmd>
             </step>
             <step>
                 <cmd>Enter your user name and password in the pop-up login box. </cmd>
-                <info>For the testing version of CWRC-Writer everyone has the same login
-                    information. <lines>User name: cwrc
-Password: cwrcy</lines><image
-                        placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view"
-                        id="image_x1g_jsm_jp" align="center"/>
+                <info>For the testing version of CWRC-Writer everyone has the same login information. <lines>User name: cwrc</lines><lines>Password: cwrcy</lines><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A76071195-f50c-4309-9ba0-efa7c4730b1f/datastream/OBJ/view" id="image_x1g_jsm_jp" align="center"></image>
                     <!--                    <p>
                         <lines><b>Related Links:</b></lines>
                         <lines><xref href="Open_Document_Menu.dita"/></lines>
                         <lines><xref href="Open_Document_Toolbar.dita"/></lines>
                         <lines><xref href="Save_Document.dita"></xref></lines>
-                    </p>-->
-                </info>
+                    </p>--> </info>
             </step>
         </steps>
     </taskbody>
@@ -65,4 +56,3 @@ Password: cwrcy</lines><image
 
 
 
-<?oxy_options track_changes="on"?>

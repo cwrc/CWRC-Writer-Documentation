@@ -63,12 +63,9 @@
         </steps>
     </taskbody>
     <related-links>
+        <link href="Validate_Document.dita#task_rlb_rf2_lp"></link>
         <link href="Open_Document_Menu.dita#task_lth_ysb_dp"/>
         <link href="Open_Document_Toolbar.dita#task_pg2_1tm_jp"/>
-        <link href="Write_Editor.dita#task_mbh_fxm_jp"/>
-        <link href="Write_Text_Area.dita#task_fbh_vjc_dp"/>
-        <link href="Delete_Text_Structure.dita#task_mpf_x3l_jp"/>
-        <link href="Validate_Document.dita#task_rlb_rf2_lp"/>
         <link href="Switch_Mode.dita#task_rzm_jl2_np"/>
         <link href="Edit_Source.dita#task_chh_dp2_np"/>
         <link href="Edit_Header.dita#task_sd5_tj2_np"/>

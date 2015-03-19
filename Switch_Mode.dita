@@ -18,9 +18,9 @@
             <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-08-19&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112232-0700&quot; /&gt;"?>
             <revised modified="2014-09-21"/>
         </critdates>
-        <metadata product="stand-alone">
-            <audience audience="novice"/>
-            <audience audience="CWRCMember"/>
+        <metadata product="">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
         </metadata>
     </prolog>
     <taskbody>
@@ -36,26 +36,19 @@
                     This will change the editor mode for your document. There are three editor modes
                     in CWRC-Writer, based on the treatment of overlap.</cmd>
                 <choices id="choices_ygm_sl2_np">
-                    <choice>XML only (no overlap)</choice>
+                    <choice>XML only</choice>
                     <choice>XML and RDF (no overlap)</choice>
                     <choice>XML and RDF (overlapping entities) </choice>
                 </choices>
-                <info>The default mode is XML and RDF - no overlap. If you wish to switch between
-                    the three options, go to "Settings" (in the top right corner), choose the option
-                    you would like to work with, click on <cmdname>OK</cmdname> and begin to work with your
-                        document.<note>If you have overlapping tags in your document, you cannot
-                        switch to one of the other two modes.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A2021eabe-1e1d-42fb-b178-d4b4ad850470/datastream/OBJ/view"
-                            id="image_lyq_4m2_np" align="center"/></note>      
-<!--                    <p>
+                <info>The default mode is XML and RDF - no overlap. If you wish to switch between the three options, go to "Settings" (in the top right corner), choose the option you would like to work with, click on <cmdname>OK</cmdname> and begin to work with your document.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A2021eabe-1e1d-42fb-b178-d4b4ad850470/datastream/OBJ/view" id="image_lyq_4m2_np" align="center"></image>
+                    <!--                    <p>
                        <lines><b>Related Links:</b></lines>
                        <lines><xref href="Save_Document.dita"></xref></lines>
                        <lines><xref href="Validate_Document.dita"></xref></lines>
                        <lines><xref href="Show_Tags.dita"></xref></lines>
                        <lines><b>Reference Materials:</b></lines> 
                        <lines><xref href="Settings.dita"></xref></lines>
-                            </p>-->
-                </info>
+                            </p>--> </info>
             </step>
         </steps>
     </taskbody>

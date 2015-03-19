@@ -17,17 +17,15 @@
             <?oxy_attributes modified="&lt;change type=&quot;modified&quot; oldValue=&quot;2014-09-15&quot; author=&quot;megansellmer&quot; timestamp=&quot;20140921T112036-0700&quot; /&gt;"?>
             <revised modified="2014-09-21"/>
         </critdates>
-        <metadata product="stand-alone">
-            <audience audience="novice"/>
-            <audience audience="CWRCMember"/>
+        <metadata product="">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
         </metadata>
     </prolog>
     <taskbody>
-        <context/>
         <steps-unordered id="steps-unordered_sqw_fsz_kp">
             <step>
-                <cmd>Select a range of text you would like to remove or place your cursor in the
-                    editor where you would like to add text. </cmd>
+                <cmd>Select a range of text you would like to replace or place your cursor in the editor where you would like to add text. </cmd>
             </step>
         </steps-unordered>
         <result>You can then begin to write in CWRC Writer<note type="important">If you create a new
@@ -59,4 +57,3 @@
 </task>
 
 
-<?oxy_options track_changes="on"?>
