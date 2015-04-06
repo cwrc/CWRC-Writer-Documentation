@@ -28,7 +28,8 @@
             <p>These instructions are for the standalone version of CWRC-Writer. If you would like
                 to test CWCR-Writer, please contact us at cwrc@ualberta.ca</p>
         </context>
-        <prereq>CWRC-Writer is only optimized for FireFox or Google Chrome browsers. Please open CWRC-Writer in either of the options only. </prereq>
+        <prereq>CWRC-Writer is only optimized for Fire Fox or Google Chrome browsers. Please open
+            CWRC-Writer in either of the options only. </prereq>
         <steps id="steps_a53_vjb_dp">
             <step>
                 <cmd>Open CWRC-Writer in your browser: <xref href="http://apps.testing.cwrc.ca/editor/test/index.htm" format="html" scope="external"></xref></cmd>

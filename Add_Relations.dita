@@ -3,7 +3,7 @@
 <task id="task_rdx_1q2_np">
     <title>Adding relations</title>
     <shortdesc>You can add relationships between the tagged entities within the document. You
-        connect these entities with predicates, pre existing ones occure or you can add your own.
+        connect these entities with predicates, pre existing ones occur or you can add your own.
         This lets you create a semantic web of information within your document.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Megan Sellmer</author>

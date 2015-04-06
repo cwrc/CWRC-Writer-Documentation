@@ -7,11 +7,11 @@
     <section>
       <title>Settings menu - general information</title>
       <p>The settings menu is located in the top right corner of the editor.</p>
-      <p>The top half of the settings pop-up allows users to madify the font and size of the text
-        displayed in the editor panel. There are two checkboxes that allow you to view the entity
+      <p>The top half of the settings pop-up allows users to modify the font and size of the text
+        displayed in the editor panel. There are two check boxes that allow you to view the entity
         brackets (which is preset to be on) and the show tags option. This will allow you to view
         the XML brackets in the document.</p>
-      <p>We advise you to make both entities and tags visable by checking the two options listed
+      <p>We advise you to make both entities and tags visible by checking the two options listed
         below, especially if you intend to work a lot with tags and entities.</p>
       <p>The lower half of the Settings pop-up allows users to select the editor mode and the schema
         associated with the current document (see more below).<image placement="break"
@@ -27,15 +27,17 @@
     </section>
     <section>
       <title>Settings menu - changing the editor mode</title>
-      <p>You can change the editor mode in your document. This changes the flexability of tags and
+      <p>You can change the editor mode in your document at any time (NOTE: If you have overlapping
+        entities and are attempting to switch to a mode which prohibits them. The overlapping
+        entities will be discarded if you switch modes). This changes the flexibility of tags and
         entities within your document. </p>
       <p>XML or eXtensible Markup Language is a markup language that allows both humans and
         computers to read the tag you assign the words. RDF or Resource Description Framework is
         part of the World Wide Web Consortium (W3C) that allows human to tag words in phrases in a
         markup language. </p>
-      <p>The main difference between these two forms or markup languges are that RDF allows the user
-        to overlap tags. For example, "Leonardo da Vinci" is both the name of a famous artist and a
-        place, so in mark up it yould look something like this: &lt;"Name">Leonardo
+      <p>The main difference between these two forms or markup languages are that RDF allows the
+        user to overlap tags. For example, "Leonardo da Vinci" is both the name of a famous artist
+        and a place, so in mark up it would look something like this: &lt;"Name">Leonardo
         da&lt;"Place">Vinci&lt;"/Place">&lt;"/Name">. XML does not allow the user to overlap tags so
         that only the "Name" tag could be used. To change between XML and RDF the user has to go to
         the <cmdname>Settings</cmdname> button in the top right corner.<image placement="break"

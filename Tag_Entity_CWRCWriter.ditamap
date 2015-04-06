@@ -9,18 +9,18 @@
  <topicref href="Create_Place_Entity.dita"/>
  <topicref href="Create_Date_Entity.dita"/>
  <topicref href="Create_Organization_Entity.dita"/>
- <topicref href="Create_Title_Entity.dita"/>
- <topicref href="Create_Link_Entity.dita"/>
- <topicref href="Create_Keyword_Entity.dita"/>
- <topicref href="Create_Correction_Entity.dita"/>
- <topicref href="Create_Note_Entity.dita"/>
  <topicref href="Create_Citation_Entity.dita"/>
- <topicref href="Delete_Entity_Editor.dita"/>
- <topicref href="Delete_Entity_Panel.dita"/>
- <topicref href="Delete_Entity_Toolbar.dita"/>
+ <topicref href="Create_Note_Entity.dita"/>
+ <topicref href="Create_Title_Entity.dita"/>
+ <topicref href="Create_Correction_Entity.dita"/>
+ <topicref href="Create_Keyword_Entity.dita"/>
+ <topicref href="Create_Link_Entity.dita"/>
+ <topicref href="Edit_Entity_Toolbar.dita"/>
  <topicref href="Edit_Entity_Editor.dita"/>
  <topicref href="Edit_Entity_Panel.dita"/>
- <topicref href="Edit_Entity_Toolbar.dita"/>
+ <topicref href="Delete_Entity_Toolbar.dita"/>
+ <topicref href="Delete_Entity_Editor.dita"/>
+ <topicref href="Delete_Entity_Panel.dita"/>
  <topicref href="Add_Relations.dita"/>
  <topicref href="Deleting_Relations.dita"/>
 </map>

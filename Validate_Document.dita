@@ -22,7 +22,11 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the <cmdname>Validate</cmdname> button on the toolbar.document<?oxy_insert_start author="megansellmer" timestamp="20141007T200119-0700"?>.<?oxy_insert_end?><image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A9eaec41d-3d54-400b-a6ed-70b8ac2f133d/datastream/OBJ/view" id="image_n4q_qxw_mp" align="center"></image></cmd>
+                <cmd>Click on the <cmdname>Validate</cmdname> button on the
+                        <?oxy_delete author="megansellmer" timestamp="20150331T092139-0700" content="toolbar.document"?><?oxy_insert_start author="megansellmer" timestamp="20141007T200119-0700"?>toolbar..<?oxy_insert_end?><image
+                        placement="break"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9eaec41d-3d54-400b-a6ed-70b8ac2f133d/datastream/OBJ/view"
+                        id="image_n4q_qxw_mp" align="center"/></cmd>
                 <stepresult>If the document is invalid a pop-up appears with error messages.<image placement="break" href="http://beta.cwrc.ca/islandora/object/cwrc%3A0af0261a-a586-4bc6-b4f3-e0192cf88f86/datastream/OBJ/view" id="image_ws3_bcv_tp" align="center"></image></stepresult>
             </step>
             <step>

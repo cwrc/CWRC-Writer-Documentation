@@ -29,10 +29,12 @@
                         id="image_nn5_zln_jp" align="center" height="4in" width="6in"/></cmd>
             </step>
             <step>
-                <cmd>Click on the toolbar option <cmdname>Remove Tag</cmdname>.<image
+                <cmd>Click on the toolbar option <cmdname>Remove
+                        Tag</cmdname>.<?oxy_insert_start author="megansellmer" timestamp="20150325T212137-0700"?><image
                         placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ae818ee88-fa38-4474-bd53-ea9a48ba5af9/datastream/OBJ/view"
-                        id="image_mzm_v1y_rp" align="center"/></cmd>
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A4021cc08-00c5-4234-8cf6-4666a40cfebe/datastream/OBJ/view"
+                        id="image_ub2_h2r_mr" align="center"
+                    /><?oxy_insert_end?><?oxy_delete author="megansellmer" timestamp="20150325T212128-0700" content="&lt;image placement=&quot;break&quot; href=&quot;http://beta.cwrc.ca/islandora/object/cwrc%3Ae818ee88-fa38-4474-bd53-ea9a48ba5af9/datastream/OBJ/view&quot; id=&quot;image_mzm_v1y_rp&quot; align=&quot;center&quot;/&gt;"?></cmd>
                 <stepresult>This deletes the tag that the text belongs in. The text will remain in
                     the editor. <image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3Aacb7efeb-f235-4cc0-af9e-cee329227639/datastream/OBJ/view"

@@ -40,7 +40,10 @@
         </steps>
         <result>
             <?oxy_attributes type="&lt;change type=&quot;inserted&quot; author=&quot;ilovan&quot; timestamp=&quot;20140928T233150-0600&quot; /&gt;"?>
-            <note type="caution">This will delete both the entity annotation in the left column and
+            <note type="caution">This will delete both the entity annotation in the left
+                column<?oxy_insert_start author="megansellmer" timestamp="20150319T165145-0700"?>,
+                but will
+                leave<?oxy_insert_end?><?oxy_delete author="megansellmer" timestamp="20150319T165143-0700" content=" and"?>
                 the annotated text in the document.</note>
             <image placement="break"
                 href="http://beta.cwrc.ca/islandora/object/cwrc%3A1155d498-13a9-47b0-b949-3acf2960db61/datastream/OBJ/view"
