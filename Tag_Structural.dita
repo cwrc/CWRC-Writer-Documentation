@@ -25,9 +25,18 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Select a tag in the structural panel and right click. <image placement="break"
+                <cmd>Select a tag in the structural panel and right click.
+                    <?oxy_insert_start author="megansellmer" timestamp="20150421T155642-0700"?>To
+                    insert a tag, you must first select the tag alone, and not the contents, by
+                    right/ctrl/command clicking twice.  <?oxy_insert_end?><image placement="break"
                         href="http://beta.cwrc.ca/islandora/object/cwrc%3A23435fcd-d197-47d5-9e99-47d31dcd4026/datastream/OBJ/view"
                         id="image_tsq_tkn_jp" align="center" height="4in" width="6in"/></cmd>
+                <?oxy_insert_start author="megansellmer" timestamp="20150421T150709-0700"?>
+                <info>In the Markup panel, a single click right click (or control click on a Mac)
+                    selects both the tag and the contents. Deleting will delete both. A double click
+                    selects the content of the tag only. Deleting deletes the text only and more
+                    text can then be typed to replace it. </info>
+                <?oxy_insert_end?>
             </step>
             <step>
                 <cmd>This will bring up a menu with three options that allow you to insert a

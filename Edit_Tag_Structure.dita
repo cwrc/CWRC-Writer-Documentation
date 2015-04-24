@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_f4z_t4l_jp">
-    <title>Editing tags in the structure menu</title>
+    <title>Editing tags in the structure
+        <?oxy_delete author="megansellmer" timestamp="20150421T154729-0700" content="menu"?><?oxy_insert_start author="megansellmer" timestamp="20150421T154729-0700"?>panel<?oxy_insert_end?></title>
     <shortdesc>You can edit any of the tags that pre-exist in the template or that you have added to
         the document. This also allows you to add contextual information through
         attributes.</shortdesc>

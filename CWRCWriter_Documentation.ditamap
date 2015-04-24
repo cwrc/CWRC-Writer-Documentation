@@ -5,12 +5,12 @@
  <topichead navtitle="Getting started in CWRC-Writer">
   <topicref href="Get_started_in_CWRC-Writer.ditamap" format="ditamap"/>
  </topichead>
- <topichead navtitle="CWRC-Writer reference materials">
+ <topichead navtitle="CWRC-Writer features">
   <topicref href="CWRCWriter_Reference.ditamap" format="ditamap"/>
  </topichead><topichead navtitle="Copying and Pasting in CWRC-Writer">
   <topicref href="Copy_Paste_CWRCWriter.ditamap" format="ditamap"/>
  </topichead>
- <topichead navtitle="Tagging Structural Tags in CWRC-Writer">
+ <topichead navtitle="Embedding Semantic Tags with CWRC-Writer">
   <topicref href="Tag_Structure_CWRCWriter.ditamap" format="ditamap"/>
  </topichead>
  <topichead navtitle="Tagging Entities in CWRC-Writer">

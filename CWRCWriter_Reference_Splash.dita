@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_tqq_gch_rp">
-  <title>CWRC-Writer reference materials</title>
+  <title>CWRC-Writer features</title>
   <shortdesc>The reference materials available explain, in detail, components of
     CWRC-Writer.</shortdesc>
   <refbody>
     <section>
       <title>Introduction to reference materials</title>
       <p>The reference materials available explain, in detail, components of CWRC-Writer. For
-        example, you can use the documents linked to below, to understand how the three columns on
+        example, you can use the documents linked to below, to understand how the three panels on
         the left work, or which right-click menus are available in each section of the editor.<image
           placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Af151a3a0-8e7d-449f-9662-d2148373b45c/datastream/OBJ/view"
