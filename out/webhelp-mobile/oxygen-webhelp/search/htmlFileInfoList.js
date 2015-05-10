@@ -1,5 +1,5 @@
 fil = new Array();
-fil["0"]= "Add_Relations.html@@@Adding relations@@@You can add relationships between the tagged entities within the document. You connect these entities with predicates, pre existing ones occure or you can add your own. This lets you create a semantic web of information within your document...";
+fil["0"]= "Add_Relations.html@@@Adding relations@@@You can add relationships between the tagged entities within the document. You connect these entities with predicates, pre existing ones occur or you can add your own. This lets you create a semantic web of information within your document...";
 fil["1"]= "CWRCWriter_Concept_Splash.html@@@Introduction to CWRC-Writer Concepts@@@We have included overall concepts in our CWRC-Writer documentation as background information for the user. this includes information on XML, RDF, Named Entity Annotation, and Relations/Triples...";
 fil["2"]= "CWRCWriter_Copy_Splash.html@@@Copying and pasting in CWRC-Writer@@@Copying and pasting is the easiest way to build the structure of your document...";
 fil["3"]= "CWRCWriter_Entity_Splash.html@@@Tagging RDF entities in CWRC-Writer@@@Tagging RDF annotated entities in CWRC-Writer allows users to add semantic information to certain text (person, place, etc...";
