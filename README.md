@@ -1,5 +1,3 @@
 CWRC-Writer Documentation
 
--------------------------
-2013-02-14 - stub
--------------------------
+# OBSOLETE (use Documentation-all instead)
